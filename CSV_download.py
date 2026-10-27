@@ -51,8 +51,8 @@ def clean(df):
 def merge_datasets(df_130k, df_150k):
     combined = pd.concat([df_130k, df_150k], ignore_index=True) # just combines both of them
     before = len(combined)
-    combined = combined.drop_duplicates(subset=DEDUPE_KEY, keep="first") # drops any dublicate s
-    combined.index = range(1, len(combined) + 1) 
+    combined = combined.drop_duplicates(subset=DEDUPE_KEY, keep="first") # drops any dublicates
+    combined.index = range(1, len(combined) + 1) # fixes the index of the newly combined data
     print(f"Merged: removed {before - len(combined):,} cross-file duplicates, "
           f"{len(combined):,} unique reviews")
     print(combined["source"].value_counts().to_string())
