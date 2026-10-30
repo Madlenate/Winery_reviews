@@ -119,6 +119,13 @@ def mask_grape_names(df, variety_map):
     print(f"{len(terms):,} names masked; {changed:.1%} of reviews changed")
     return df
 
+def drop_abbreviations(df):
+    """Remove all-caps abbreviations (PN, RDD, SB, AVA...) from description_masked.
+    Must run before anything lowercases the text."""
+    df["description_masked"] = df["description_masked"].str.replace(r"\b[A-Z]{2,5}\b", " ", regex=True)
+    return df
+
+
 def add_split(df, seed=SEED):
     """Fixed 70/15/15 split, stratified by grape, identical to the team notebook."""
     rng = np.random.default_rng(seed)
@@ -171,11 +178,12 @@ def process():
     df, variety_map = add_grape_target(df)
     df = mark_target_classes(df)
     df = mask_grape_names(df, variety_map)
+    df = drop_abbreviations(df)
     df["word_count"] = df["description"].str.split().str.len()
     df = add_split(df)
 
     english = set(stopwords.words("english"))
-    all_stops = build_stopwords(style_map)
+    all_stops = build_stopwords(style_map) | {MASK_TOKEN}
     print(f"Stopwords: {len(all_stops):,} total")
 
     print("Tokenizing (takes a few minutes)...")
