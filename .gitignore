@@ -1,2 +1,7 @@
 *.pkl
 __pycache__/
+
+# Generated model artifacts (too large for GitHub, regenerate from the notebooks)
+*.npy
+*.joblib
+*.pt

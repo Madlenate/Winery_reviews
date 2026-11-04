@@ -1,0 +1,83 @@
+,train_reviews,inverse,sqrt,effective
+Aglianico,321,4.51,2.68,2.51
+Albariño,441,3.28,2.29,1.93
+Alvarinho,112,12.93,4.54,6.5
+Barbera,660,2.19,1.87,1.43
+Blaufränkisch,198,7.31,3.41,3.84
+Bonarda,105,13.79,4.69,6.91
+Bordeaux-style Red Blend,6306,0.23,0.6,0.69
+Bordeaux-style White Blend,1011,1.43,1.51,1.08
+Cabernet Blend,157,9.22,3.83,4.74
+Cabernet Franc,1169,1.24,1.4,1.0
+Cabernet Sauvignon,9292,0.16,0.5,0.69
+Cabernet Sauvignon-Merlot,156,9.28,3.84,4.77
+Carmenère,559,2.59,2.03,1.61
+Champagne Blend,1269,1.14,1.35,0.96
+Chardonnay,10948,0.13,0.46,0.69
+Chenin Blanc,567,2.55,2.02,1.59
+"Corvina, Rondinella, Molinara",884,1.64,1.62,1.17
+Dolcetto,183,7.91,3.55,4.12
+Fiano,124,11.68,4.31,5.91
+G-S-M,155,9.34,3.86,4.8
+Gamay,758,1.91,1.74,1.3
+Garganega,253,5.72,3.02,3.08
+Garnacha,298,4.86,2.78,2.67
+Gewürztraminer,880,1.65,1.62,1.18
+Glera,581,2.49,1.99,1.56
+Grenache,553,2.62,2.04,1.62
+Grillo,106,13.66,4.66,6.85
+Grüner Veltliner,1061,1.36,1.47,1.05
+Malbec,2412,0.6,0.98,0.76
+Melon,197,7.35,3.42,3.85
+Mencía,155,9.34,3.86,4.8
+Meritage,243,5.96,3.08,3.19
+Merlot,3330,0.43,0.83,0.72
+Monastrell,115,12.59,4.48,6.34
+Montepulciano,195,7.43,3.44,3.89
+Moscato,325,4.46,2.66,2.48
+Mourvèdre,190,7.62,3.48,3.98
+Muscat,129,11.22,4.23,5.69
+Nebbiolo,2188,0.66,1.03,0.78
+Nero d'Avola,334,4.34,2.63,2.43
+Other,7716,0.19,0.55,0.69
+Petit Verdot,219,6.61,3.24,3.5
+Petite Sirah,702,2.06,1.81,1.37
+Pinot Bianco,129,11.22,4.23,5.69
+Pinot Blanc,383,3.78,2.45,2.17
+Pinot Grigio,1003,1.44,1.52,1.09
+Pinot Gris,1218,1.19,1.38,0.98
+Pinot Nero,139,10.42,4.07,5.31
+Pinot Noir,11660,0.12,0.44,0.69
+Pinotage,146,9.92,3.97,5.07
+Port,760,1.91,1.74,1.29
+Portuguese Red,2032,0.71,1.07,0.79
+Portuguese White,919,1.58,1.58,1.15
+Primitivo,203,7.13,3.37,3.75
+Prosecco,307,4.72,2.74,2.61
+Red Blend,7858,0.18,0.54,0.69
+Rhône-style Red Blend,1309,1.11,1.33,0.94
+Rhône-style White Blend,365,3.97,2.51,2.25
+Riesling,4630,0.31,0.71,0.7
+Rosé,2744,0.53,0.92,0.74
+Roussanne,148,9.78,3.95,5.01
+Sangiovese,2546,0.57,0.95,0.75
+Sangiovese Grosso,762,1.9,1.74,1.29
+Sauvignon,251,5.77,3.03,3.1
+Sauvignon Blanc,4771,0.3,0.7,0.7
+Shiraz,1179,1.23,1.4,1.0
+Sparkling Blend,1836,0.79,1.12,0.82
+Syrah,4104,0.35,0.75,0.7
+Sémillon,156,9.28,3.84,4.77
+Tannat,143,10.13,4.02,5.17
+Tempranillo,1751,0.83,1.15,0.83
+Tempranillo Blend,572,2.53,2.01,1.58
+Tinta de Toro,156,9.28,3.84,4.77
+Torrontés,244,5.93,3.07,3.18
+Touriga Nacional,170,8.52,3.68,4.41
+Verdejo,258,5.61,2.99,3.03
+Verdicchio,118,12.27,4.42,6.19
+Vermentino,194,7.46,3.45,3.91
+Viognier,992,1.46,1.52,1.1
+White Blend,2178,0.66,1.03,0.78
+Zinfandel,2667,0.54,0.93,0.74
+Zweigelt,170,8.52,3.68,4.41
