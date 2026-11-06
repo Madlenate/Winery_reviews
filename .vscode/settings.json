@@ -1,4 +1,6 @@
 {
     "python-envs.defaultEnvManager": "ms-python.python:conda",
-    "python-envs.defaultPackageManager": "ms-python.python:conda"
+    "python-envs.defaultPackageManager": "ms-python.python:conda",
+    "python.defaultInterpreterPath": "${workspaceFolder}\\.conda\\python.exe",
+    "python.condaPath": "C:\\Users\\Flami\\miniconda3\\Scripts\\conda.exe"
 }

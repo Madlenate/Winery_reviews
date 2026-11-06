@@ -5,3 +5,6 @@ __pycache__/
 *.npy
 *.joblib
 *.pt
+
+# Local Python environment
+.conda/

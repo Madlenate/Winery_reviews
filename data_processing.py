@@ -23,7 +23,7 @@ NICKNAMES = ["Cab", "Cab Franc", "Cab Sauv", "Zin", "Chard", "Sauv", "Sauv Blanc
 NOT_MASKED = {"Melon"}
 MASK_TOKEN = "varietyname"
 
-for pkg in ["punkt_tab", "stopwords", "wo9rdnet"]:
+for pkg in ["punkt_tab", "stopwords", "wordnet"]:
     nltk.download(pkg, quiet=True) 
 
 LEMMATIZER = WordNetLemmatizer()

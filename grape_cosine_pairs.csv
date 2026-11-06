@@ -1,0 +1,407 @@
+﻿grape_a,grape_b,cosine,bucket_a,bucket_b
+Pinot Blanc,Pinot Gris,0.9276608,500-999,2000-4999
+Malbec,Tempranillo,0.87027526,2000-4999,2000-4999
+Gamay,Portuguese Red,0.8624815,1000-1999,2000-4999
+Carmenère,Malbec,0.8453057,500-999,2000-4999
+Carmenère,Tempranillo,0.83853704,500-999,2000-4999
+Pinot Gris,Viognier,0.7768643,2000-4999,1000-1999
+Grüner Veltliner,Pinot Blanc,0.7714917,1000-1999,500-999
+Pinot Gris,Riesling,0.76458037,2000-4999,5000+
+Riesling,Viognier,0.76424336,5000+,1000-1999
+Albariño,Pinot Gris,0.7618433,500-999,2000-4999
+Nebbiolo,Sangiovese,0.76113486,2000-4999,2000-4999
+Petite Sirah,Syrah,0.7598252,1000-1999,5000+
+Cabernet Sauvignon,Merlot,0.753736,5000+,2000-4999
+Grüner Veltliner,Pinot Gris,0.7393664,1000-1999,2000-4999
+Albariño,Pinot Blanc,0.7373506,500-999,500-999
+Gewürztraminer,Muscat,0.72773314,1000-1999,500-999
+Cabernet Franc,Merlot,0.7265696,1000-1999,2000-4999
+Petite Sirah,Zinfandel,0.72651935,1000-1999,2000-4999
+Cabernet Sauvignon,Petite Sirah,0.71420276,5000+,1000-1999
+Chenin Blanc,Pinot Gris,0.7060087,500-999,2000-4999
+Albariño,Viognier,0.7056462,500-999,1000-1999
+Pinot Blanc,Riesling,0.7040409,500-999,5000+
+Albariño,Riesling,0.70396686,500-999,5000+
+Cabernet Sauvignon,Syrah,0.7014853,5000+,5000+
+Chardonnay,Pinot Blanc,0.6983824,5000+,500-999
+Syrah,Zinfandel,0.6868468,5000+,2000-4999
+Pinot Gris,Sauvignon Blanc,0.68164897,2000-4999,5000+
+Chardonnay,Pinot Gris,0.6771846,5000+,2000-4999
+Pinot Blanc,Viognier,0.6737986,500-999,1000-1999
+Sauvignon Blanc,Viognier,0.67014205,5000+,1000-1999
+Gewürztraminer,Riesling,0.6642993,1000-1999,5000+
+Chenin Blanc,Portuguese White,0.65202,500-999,1000-1999
+Chenin Blanc,Pinot Blanc,0.64603007,500-999,500-999
+Carmenère,Grenache,0.6455183,500-999,1000-1999
+Chardonnay,Viognier,0.63988495,5000+,1000-1999
+Portuguese Red,Portuguese White,0.63737416,2000-4999,1000-1999
+Glera,Muscat,0.63481516,1000-1999,500-999
+Glera,Riesling,0.6316678,1000-1999,5000+
+Albariño,Sauvignon Blanc,0.6289079,500-999,5000+
+Grenache,Malbec,0.62119985,1000-1999,2000-4999
+Riesling,Sauvignon Blanc,0.6116778,5000+,5000+
+Cabernet Franc,Cabernet Sauvignon,0.6028414,1000-1999,5000+
+Gewürztraminer,Viognier,0.60192657,1000-1999,1000-1999
+Merlot,Zinfandel,0.5987909,2000-4999,2000-4999
+Grenache,Tempranillo,0.59150845,1000-1999,2000-4999
+Merlot,Syrah,0.58465695,2000-4999,5000+
+Gamay,Portuguese White,0.58148956,1000-1999,1000-1999
+Muscat,Viognier,0.57843184,500-999,1000-1999
+Chardonnay,Chenin Blanc,0.56820977,5000+,500-999
+Grüner Veltliner,Sauvignon Blanc,0.56413364,1000-1999,5000+
+Pinot Blanc,Sauvignon Blanc,0.5624433,500-999,5000+
+Albariño,Chardonnay,0.56119394,500-999,5000+
+Glera,Viognier,0.55561674,1000-1999,1000-1999
+Cabernet Sauvignon,Zinfandel,0.55538464,5000+,2000-4999
+Glera,Pinot Blanc,0.5529885,1000-1999,500-999
+Gewürztraminer,Pinot Gris,0.5523901,1000-1999,2000-4999
+Merlot,Petite Sirah,0.5492241,2000-4999,1000-1999
+Grüner Veltliner,Riesling,0.545354,1000-1999,5000+
+Glera,Pinot Gris,0.54171765,1000-1999,2000-4999
+Muscat,Riesling,0.5405952,500-999,5000+
+Chenin Blanc,Grüner Veltliner,0.5309815,500-999,1000-1999
+Chenin Blanc,Riesling,0.5247849,500-999,5000+
+Albariño,Chenin Blanc,0.5184117,500-999,500-999
+Barbera,Sangiovese,0.51192343,500-999,2000-4999
+Gewürztraminer,Glera,0.50837284,1000-1999,1000-1999
+Chenin Blanc,Sauvignon Blanc,0.5046575,500-999,5000+
+Chenin Blanc,Viognier,0.4943837,500-999,1000-1999
+Cabernet Franc,Grenache,0.49242127,1000-1999,1000-1999
+Chardonnay,Grüner Veltliner,0.48830998,5000+,1000-1999
+Malbec,Syrah,0.48686463,2000-4999,5000+
+Albariño,Grüner Veltliner,0.4859256,500-999,1000-1999
+Gewürztraminer,Sauvignon Blanc,0.48033717,1000-1999,5000+
+Chardonnay,Sauvignon Blanc,0.47315994,5000+,5000+
+Cabernet Franc,Syrah,0.46685252,1000-1999,5000+
+Chenin Blanc,Gewürztraminer,0.45694643,500-999,1000-1999
+Gamay,Pinot Noir,0.45657897,1000-1999,5000+
+Gewürztraminer,Pinot Blanc,0.45608246,1000-1999,500-999
+Albariño,Gewürztraminer,0.45241523,500-999,1000-1999
+Cabernet Franc,Petite Sirah,0.45086524,1000-1999,1000-1999
+Chardonnay,Riesling,0.44939986,5000+,5000+
+Cabernet Franc,Pinot Noir,0.4401109,1000-1999,5000+
+Grenache,Merlot,0.43990588,1000-1999,2000-4999
+Albariño,Glera,0.4389835,500-999,1000-1999
+Merlot,Pinot Noir,0.4388858,2000-4999,5000+
+Muscat,Pinot Gris,0.43814018,500-999,2000-4999
+Grüner Veltliner,Viognier,0.4136582,1000-1999,1000-1999
+Cabernet Sauvignon,Malbec,0.41355702,5000+,2000-4999
+Malbec,Merlot,0.40716577,2000-4999,2000-4999
+Barbera,Syrah,0.4039873,500-999,5000+
+Barbera,Cabernet Franc,0.39850682,500-999,1000-1999
+Gewürztraminer,Grüner Veltliner,0.39609903,1000-1999,1000-1999
+Carmenère,Sangiovese,0.39355946,500-999,2000-4999
+Cabernet Franc,Malbec,0.3886308,1000-1999,2000-4999
+Cabernet Sauvignon,Pinot Noir,0.3854005,5000+,5000+
+Sangiovese,Tempranillo,0.38533327,2000-4999,2000-4999
+Carmenère,Nebbiolo,0.3780275,500-999,2000-4999
+Barbera,Nebbiolo,0.37518597,500-999,2000-4999
+Grüner Veltliner,Portuguese White,0.37179697,1000-1999,1000-1999
+Nebbiolo,Tempranillo,0.36382133,2000-4999,2000-4999
+Grenache,Sangiovese,0.3524769,1000-1999,2000-4999
+Chardonnay,Portuguese White,0.34583694,5000+,1000-1999
+Cabernet Franc,Sangiovese,0.34408438,1000-1999,2000-4999
+Malbec,Petite Sirah,0.34163532,2000-4999,1000-1999
+Chenin Blanc,Muscat,0.34130183,500-999,500-999
+Glera,Sauvignon Blanc,0.3395654,1000-1999,5000+
+Albariño,Muscat,0.33706748,500-999,500-999
+Muscat,Sauvignon Blanc,0.33645013,500-999,5000+
+Glera,Grüner Veltliner,0.33242446,1000-1999,1000-1999
+Cabernet Franc,Carmenère,0.32901424,1000-1999,500-999
+Pinot Noir,Syrah,0.32706153,5000+,5000+
+Barbera,Merlot,0.32398462,500-999,2000-4999
+Pinot Blanc,Portuguese White,0.3239346,500-999,1000-1999
+Pinot Gris,Portuguese White,0.3234061,2000-4999,1000-1999
+Grenache,Syrah,0.31697857,1000-1999,5000+
+Carmenère,Syrah,0.31483978,500-999,5000+
+Muscat,Pinot Blanc,0.31250834,500-999,500-999
+Barbera,Grenache,0.31182933,500-999,1000-1999
+Malbec,Sangiovese,0.31022084,2000-4999,2000-4999
+Cabernet Franc,Zinfandel,0.30841237,1000-1999,2000-4999
+Syrah,Tempranillo,0.30762124,5000+,2000-4999
+Barbera,Carmenère,0.30552232,500-999,500-999
+Cabernet Franc,Nebbiolo,0.3047445,1000-1999,2000-4999
+Merlot,Tempranillo,0.3044188,2000-4999,2000-4999
+Portuguese White,Sauvignon Blanc,0.30103368,1000-1999,5000+
+Barbera,Petite Sirah,0.29790893,500-999,1000-1999
+Carmenère,Merlot,0.29732054,500-999,2000-4999
+Pinot Noir,Zinfandel,0.29500884,5000+,2000-4999
+Pinot Noir,Portuguese Red,0.29385343,5000+,2000-4999
+Malbec,Nebbiolo,0.29161167,2000-4999,2000-4999
+Barbera,Malbec,0.28298244,500-999,2000-4999
+Barbera,Cabernet Sauvignon,0.27806628,500-999,5000+
+Chenin Blanc,Gamay,0.25886795,500-999,1000-1999
+Grenache,Nebbiolo,0.25793922,1000-1999,2000-4999
+Chenin Blanc,Glera,0.2565115,500-999,1000-1999
+Barbera,Zinfandel,0.2542107,500-999,2000-4999
+Petite Sirah,Pinot Noir,0.25198883,1000-1999,5000+
+Cabernet Franc,Tempranillo,0.24258563,1000-1999,2000-4999
+Sangiovese,Syrah,0.2391682,2000-4999,5000+
+Petite Sirah,Portuguese Red,0.23367861,1000-1999,2000-4999
+Albariño,Portuguese White,0.229249,500-999,1000-1999
+Grenache,Pinot Noir,0.22661868,1000-1999,5000+
+Cabernet Sauvignon,Tempranillo,0.21969014,5000+,2000-4999
+Chenin Blanc,Portuguese Red,0.20915267,500-999,2000-4999
+Merlot,Sangiovese,0.2056092,2000-4999,2000-4999
+Chardonnay,Glera,0.20009257,5000+,1000-1999
+Barbera,Tempranillo,0.18488964,500-999,2000-4999
+Malbec,Zinfandel,0.1821461,2000-4999,2000-4999
+Cabernet Sauvignon,Carmenère,0.17861757,5000+,500-999
+Grenache,Zinfandel,0.17446315,1000-1999,2000-4999
+Gewürztraminer,Portuguese White,0.16833135,1000-1999,1000-1999
+Nebbiolo,Syrah,0.16386938,2000-4999,5000+
+Cabernet Sauvignon,Sangiovese,0.16038033,5000+,2000-4999
+Chardonnay,Gewürztraminer,0.15575038,5000+,1000-1999
+Grüner Veltliner,Muscat,0.13955304,1000-1999,500-999
+Cabernet Sauvignon,Grenache,0.13008599,5000+,1000-1999
+Cabernet Sauvignon,Portuguese Red,0.109064944,5000+,2000-4999
+Petite Sirah,Tempranillo,0.10120641,1000-1999,2000-4999
+Albariño,Tempranillo,0.09802544,500-999,2000-4999
+Grenache,Petite Sirah,0.090156235,1000-1999,1000-1999
+Cabernet Franc,Gamay,0.08755418,1000-1999,1000-1999
+Cabernet Sauvignon,Nebbiolo,0.08730114,5000+,2000-4999
+Chardonnay,Muscat,0.08522655,5000+,500-999
+Albariño,Carmenère,0.07944931,500-999,500-999
+Pinot Noir,Sangiovese,0.078941405,5000+,2000-4999
+Portuguese White,Viognier,0.07039105,1000-1999,1000-1999
+Gamay,Petite Sirah,0.06697013,1000-1999,1000-1999
+Portuguese White,Riesling,0.042710207,1000-1999,5000+
+Merlot,Nebbiolo,0.038030654,2000-4999,2000-4999
+Muscat,Portuguese White,0.034962963,500-999,1000-1999
+Cabernet Franc,Portuguese Red,0.03353099,1000-1999,2000-4999
+Barbera,Pinot Noir,0.033154193,500-999,5000+
+Tempranillo,Zinfandel,0.032174885,2000-4999,2000-4999
+Carmenère,Petite Sirah,0.029619195,500-999,1000-1999
+Grenache,Muscat,0.021772142,1000-1999,500-999
+Petite Sirah,Sangiovese,0.019207323,1000-1999,2000-4999
+Glera,Sangiovese,0.012247214,1000-1999,2000-4999
+Carmenère,Zinfandel,-0.0030282661,500-999,2000-4999
+Carmenère,Viognier,-0.004678184,500-999,1000-1999
+Muscat,Nebbiolo,-0.005980569,500-999,2000-4999
+Glera,Nebbiolo,-0.016117325,1000-1999,2000-4999
+Gamay,Grüner Veltliner,-0.016129434,1000-1999,1000-1999
+Carmenère,Glera,-0.017957676,500-999,1000-1999
+Muscat,Sangiovese,-0.018122312,500-999,2000-4999
+Carmenère,Sauvignon Blanc,-0.019535847,500-999,5000+
+Barbera,Muscat,-0.020999055,500-999,500-999
+Carmenère,Gewürztraminer,-0.02433591,500-999,1000-1999
+Cabernet Sauvignon,Gamay,-0.024440624,5000+,1000-1999
+Gewürztraminer,Grenache,-0.024715584,1000-1999,1000-1999
+Nebbiolo,Pinot Noir,-0.029341605,2000-4999,5000+
+Gewürztraminer,Nebbiolo,-0.031421855,1000-1999,2000-4999
+Nebbiolo,Petite Sirah,-0.03190277,2000-4999,1000-1999
+Sangiovese,Zinfandel,-0.05399715,2000-4999,2000-4999
+Glera,Grenache,-0.05470912,1000-1999,1000-1999
+Carmenère,Riesling,-0.05619426,500-999,5000+
+Portuguese Red,Zinfandel,-0.056397524,2000-4999,2000-4999
+Albariño,Malbec,-0.06524902,500-999,2000-4999
+Carmenère,Muscat,-0.07419433,500-999,500-999
+Barbera,Portuguese Red,-0.07731725,500-999,2000-4999
+Riesling,Tempranillo,-0.081593625,5000+,2000-4999
+Glera,Tempranillo,-0.08169882,1000-1999,2000-4999
+Pinot Noir,Portuguese White,-0.08326964,5000+,1000-1999
+Tempranillo,Viognier,-0.0871263,2000-4999,1000-1999
+Gamay,Merlot,-0.09492508,1000-1999,2000-4999
+Grüner Veltliner,Portuguese Red,-0.09935926,1000-1999,2000-4999
+Gewürztraminer,Sangiovese,-0.104423285,1000-1999,2000-4999
+Malbec,Pinot Noir,-0.105710715,2000-4999,5000+
+Glera,Portuguese White,-0.11395262,1000-1999,1000-1999
+Portuguese Red,Syrah,-0.114044964,2000-4999,5000+
+Gamay,Zinfandel,-0.12525344,1000-1999,2000-4999
+Merlot,Portuguese Red,-0.12891644,2000-4999,2000-4999
+Barbera,Glera,-0.1364548,500-999,1000-1999
+Albariño,Grenache,-0.14272942,500-999,1000-1999
+Grenache,Viognier,-0.14538968,1000-1999,1000-1999
+Carmenère,Grüner Veltliner,-0.15095927,500-999,1000-1999
+Nebbiolo,Portuguese Red,-0.15161991,2000-4999,2000-4999
+Carmenère,Pinot Blanc,-0.15439583,500-999,500-999
+Barbera,Gewürztraminer,-0.15534869,500-999,1000-1999
+Chardonnay,Gamay,-0.15543646,5000+,1000-1999
+Pinot Noir,Tempranillo,-0.16233477,5000+,2000-4999
+Gewürztraminer,Tempranillo,-0.16373825,1000-1999,2000-4999
+Gamay,Sangiovese,-0.16385685,1000-1999,2000-4999
+Chardonnay,Tempranillo,-0.1645591,5000+,2000-4999
+Pinot Blanc,Tempranillo,-0.16730195,500-999,2000-4999
+Carmenère,Pinot Gris,-0.16997878,500-999,2000-4999
+Gamay,Nebbiolo,-0.17385247,1000-1999,2000-4999
+Pinot Gris,Tempranillo,-0.17785874,2000-4999,2000-4999
+Muscat,Tempranillo,-0.17899291,500-999,2000-4999
+Barbera,Gamay,-0.1817524,500-999,1000-1999
+Grenache,Riesling,-0.18267481,1000-1999,5000+
+Gamay,Gewürztraminer,-0.1848943,1000-1999,1000-1999
+Nebbiolo,Riesling,-0.18559445,2000-4999,5000+
+Glera,Malbec,-0.18567806,1000-1999,2000-4999
+Chardonnay,Portuguese Red,-0.19177963,5000+,2000-4999
+Nebbiolo,Zinfandel,-0.1925849,2000-4999,2000-4999
+Grüner Veltliner,Tempranillo,-0.20088649,1000-1999,2000-4999
+Gamay,Sauvignon Blanc,-0.20121843,1000-1999,5000+
+Muscat,Zinfandel,-0.20457172,500-999,2000-4999
+Viognier,Zinfandel,-0.20709446,1000-1999,2000-4999
+Albariño,Nebbiolo,-0.20722884,500-999,2000-4999
+Petite Sirah,Portuguese White,-0.2118999,1000-1999,1000-1999
+Malbec,Riesling,-0.21256994,2000-4999,5000+
+Sauvignon Blanc,Tempranillo,-0.21303305,5000+,2000-4999
+Gamay,Pinot Blanc,-0.2142126,1000-1999,500-999
+Portuguese Red,Sangiovese,-0.2148577,2000-4999,2000-4999
+Gamay,Muscat,-0.21636407,1000-1999,500-999
+Gamay,Pinot Gris,-0.21808028,1000-1999,2000-4999
+Gewürztraminer,Portuguese Red,-0.22308517,1000-1999,2000-4999
+Grenache,Grüner Veltliner,-0.22871816,1000-1999,1000-1999
+Grenache,Sauvignon Blanc,-0.229296,1000-1999,5000+
+Gamay,Syrah,-0.23373425,1000-1999,5000+
+Portuguese White,Zinfandel,-0.23378019,1000-1999,2000-4999
+Carmenère,Chardonnay,-0.23654528,500-999,5000+
+Chardonnay,Zinfandel,-0.24186489,5000+,2000-4999
+Malbec,Viognier,-0.24686092,2000-4999,1000-1999
+Portuguese Red,Sauvignon Blanc,-0.25543615,2000-4999,5000+
+Grüner Veltliner,Nebbiolo,-0.25891918,1000-1999,2000-4999
+Grenache,Pinot Blanc,-0.25894815,1000-1999,500-999
+Malbec,Muscat,-0.2629198,2000-4999,500-999
+Muscat,Portuguese Red,-0.26414752,500-999,2000-4999
+Riesling,Sangiovese,-0.26505387,5000+,2000-4999
+Chenin Blanc,Pinot Noir,-0.26812345,500-999,5000+
+Glera,Zinfandel,-0.26829743,1000-1999,2000-4999
+Gewürztraminer,Malbec,-0.27271047,1000-1999,2000-4999
+Albariño,Gamay,-0.2741629,500-999,1000-1999
+Carmenère,Pinot Noir,-0.27554864,500-999,5000+
+Grenache,Pinot Gris,-0.2804508,1000-1999,2000-4999
+Malbec,Sauvignon Blanc,-0.28638172,2000-4999,5000+
+Barbera,Portuguese White,-0.28741184,500-999,1000-1999
+Grüner Veltliner,Sangiovese,-0.28922814,1000-1999,2000-4999
+Pinot Blanc,Portuguese Red,-0.29365867,500-999,2000-4999
+Nebbiolo,Sauvignon Blanc,-0.29581064,2000-4999,5000+
+Albariño,Portuguese Red,-0.29824328,500-999,2000-4999
+Grüner Veltliner,Malbec,-0.30249667,1000-1999,2000-4999
+Pinot Gris,Portuguese Red,-0.30255693,2000-4999,2000-4999
+Nebbiolo,Viognier,-0.30529585,2000-4999,1000-1999
+Gewürztraminer,Zinfandel,-0.30577686,1000-1999,2000-4999
+Grüner Veltliner,Pinot Noir,-0.30603743,1000-1999,5000+
+Sauvignon Blanc,Zinfandel,-0.31369564,5000+,2000-4999
+Malbec,Portuguese Red,-0.3148955,2000-4999,2000-4999
+Malbec,Pinot Blanc,-0.3181968,2000-4999,500-999
+Chardonnay,Pinot Noir,-0.32007018,5000+,5000+
+Chenin Blanc,Zinfandel,-0.32451886,500-999,2000-4999
+Barbera,Sauvignon Blanc,-0.32739148,500-999,5000+
+Gamay,Riesling,-0.32844865,1000-1999,5000+
+Albariño,Sangiovese,-0.32925573,500-999,2000-4999
+Barbera,Grüner Veltliner,-0.32957643,500-999,1000-1999
+Barbera,Viognier,-0.33323437,500-999,1000-1999
+Barbera,Pinot Blanc,-0.33348688,500-999,500-999
+Gamay,Grenache,-0.33359504,1000-1999,1000-1999
+Albariño,Barbera,-0.33458892,500-999,500-999
+Nebbiolo,Pinot Gris,-0.33859456,2000-4999,2000-4999
+Sangiovese,Sauvignon Blanc,-0.33951288,2000-4999,5000+
+Sangiovese,Viognier,-0.34030837,2000-4999,1000-1999
+Chardonnay,Malbec,-0.34301293,5000+,2000-4999
+Riesling,Zinfandel,-0.34319264,5000+,2000-4999
+Cabernet Franc,Muscat,-0.3510322,1000-1999,500-999
+Glera,Syrah,-0.35924214,1000-1999,5000+
+Nebbiolo,Pinot Blanc,-0.3599003,2000-4999,500-999
+Muscat,Pinot Noir,-0.36527544,500-999,5000+
+Malbec,Pinot Gris,-0.36672142,2000-4999,2000-4999
+Cabernet Franc,Gewürztraminer,-0.3679551,1000-1999,1000-1999
+Gamay,Malbec,-0.36963385,1000-1999,2000-4999
+Barbera,Riesling,-0.3700502,500-999,5000+
+Chardonnay,Merlot,-0.37176543,5000+,2000-4999
+Pinot Gris,Sangiovese,-0.37686956,2000-4999,2000-4999
+Glera,Merlot,-0.38227987,1000-1999,2000-4999
+Gamay,Glera,-0.38612992,1000-1999,1000-1999
+Muscat,Petite Sirah,-0.38890085,500-999,1000-1999
+Barbera,Pinot Gris,-0.38941124,500-999,2000-4999
+Pinot Gris,Zinfandel,-0.3908075,2000-4999,2000-4999
+Portuguese Red,Riesling,-0.3934366,2000-4999,5000+
+Merlot,Muscat,-0.39412272,2000-4999,500-999
+Barbera,Chenin Blanc,-0.39449394,500-999,500-999
+Pinot Blanc,Sangiovese,-0.39567342,500-999,2000-4999
+Barbera,Chardonnay,-0.40029705,500-999,5000+
+Cabernet Sauvignon,Chardonnay,-0.40168726,5000+,5000+
+Pinot Blanc,Zinfandel,-0.4066175,500-999,2000-4999
+Cabernet Franc,Glera,-0.40828514,1000-1999,1000-1999
+Chenin Blanc,Petite Sirah,-0.409989,500-999,1000-1999
+Merlot,Viognier,-0.41349772,2000-4999,1000-1999
+Cabernet Franc,Portuguese White,-0.41447803,1000-1999,1000-1999
+Sauvignon Blanc,Syrah,-0.4168263,5000+,5000+
+Chardonnay,Petite Sirah,-0.4206437,5000+,1000-1999
+Cabernet Sauvignon,Portuguese White,-0.42235708,5000+,1000-1999
+Gewürztraminer,Pinot Noir,-0.4230755,1000-1999,5000+
+Chenin Blanc,Nebbiolo,-0.42658585,500-999,2000-4999
+Grüner Veltliner,Zinfandel,-0.4268276,1000-1999,2000-4999
+Muscat,Syrah,-0.4285084,500-999,5000+
+Pinot Noir,Sauvignon Blanc,-0.43160787,5000+,5000+
+Chardonnay,Grenache,-0.4415012,5000+,1000-1999
+Gamay,Viognier,-0.44169763,1000-1999,1000-1999
+Glera,Pinot Noir,-0.44297296,1000-1999,5000+
+Syrah,Viognier,-0.4467944,5000+,1000-1999
+Gamay,Tempranillo,-0.44747537,1000-1999,2000-4999
+Chardonnay,Syrah,-0.4513967,5000+,5000+
+Glera,Portuguese Red,-0.4537242,1000-1999,2000-4999
+Chardonnay,Nebbiolo,-0.459101,5000+,2000-4999
+Glera,Petite Sirah,-0.46097693,1000-1999,1000-1999
+Portuguese Red,Tempranillo,-0.46185154,2000-4999,2000-4999
+Albariño,Zinfandel,-0.46312615,500-999,2000-4999
+Petite Sirah,Sauvignon Blanc,-0.4670376,1000-1999,5000+
+Petite Sirah,Viognier,-0.46854746,1000-1999,1000-1999
+Nebbiolo,Portuguese White,-0.46950632,2000-4999,1000-1999
+Grenache,Portuguese Red,-0.47079343,1000-1999,2000-4999
+Cabernet Sauvignon,Glera,-0.47440493,5000+,1000-1999
+Merlot,Portuguese White,-0.47462252,2000-4999,1000-1999
+Gewürztraminer,Petite Sirah,-0.47944725,1000-1999,1000-1999
+Chardonnay,Sangiovese,-0.48006094,5000+,2000-4999
+Chenin Blanc,Tempranillo,-0.48018575,500-999,2000-4999
+Chenin Blanc,Sangiovese,-0.48712516,500-999,2000-4999
+Merlot,Riesling,-0.48879874,2000-4999,5000+
+Portuguese Red,Viognier,-0.4894363,2000-4999,1000-1999
+Pinot Blanc,Pinot Noir,-0.49134338,500-999,5000+
+Petite Sirah,Riesling,-0.49360967,1000-1999,5000+
+Gewürztraminer,Syrah,-0.49559104,1000-1999,5000+
+Pinot Noir,Riesling,-0.4964856,5000+,5000+
+Riesling,Syrah,-0.50266576,5000+,5000+
+Grüner Veltliner,Syrah,-0.5056722,1000-1999,5000+
+Cabernet Franc,Sauvignon Blanc,-0.50639033,1000-1999,5000+
+Pinot Gris,Pinot Noir,-0.5064175,2000-4999,5000+
+Albariño,Merlot,-0.5069529,500-999,2000-4999
+Cabernet Franc,Grüner Veltliner,-0.5076164,1000-1999,1000-1999
+Portuguese White,Syrah,-0.509348,1000-1999,5000+
+Cabernet Sauvignon,Muscat,-0.51213837,5000+,500-999
+Merlot,Sauvignon Blanc,-0.51418954,2000-4999,5000+
+Gewürztraminer,Merlot,-0.51650584,1000-1999,2000-4999
+Merlot,Pinot Blanc,-0.5199606,2000-4999,500-999
+Albariño,Petite Sirah,-0.5221912,500-999,1000-1999
+Cabernet Franc,Riesling,-0.5222994,1000-1999,5000+
+Grüner Veltliner,Petite Sirah,-0.52612877,1000-1999,1000-1999
+Portuguese White,Sangiovese,-0.52666795,1000-1999,2000-4999
+Carmenère,Chenin Blanc,-0.53131694,500-999,500-999
+Pinot Noir,Viognier,-0.5329673,5000+,1000-1999
+Albariño,Cabernet Franc,-0.53588647,500-999,1000-1999
+Chenin Blanc,Grenache,-0.5431926,500-999,1000-1999
+Portuguese White,Tempranillo,-0.5473804,1000-1999,2000-4999
+Albariño,Syrah,-0.5495078,500-999,5000+
+Malbec,Portuguese White,-0.54960185,2000-4999,1000-1999
+Grenache,Portuguese White,-0.5547487,1000-1999,1000-1999
+Cabernet Sauvignon,Riesling,-0.55706817,5000+,5000+
+Albariño,Cabernet Sauvignon,-0.55808234,500-999,5000+
+Cabernet Franc,Viognier,-0.5586141,1000-1999,1000-1999
+Carmenère,Portuguese Red,-0.5586584,500-999,2000-4999
+Carmenère,Portuguese White,-0.5650454,500-999,1000-1999
+Albariño,Pinot Noir,-0.5654639,500-999,5000+
+Grüner Veltliner,Merlot,-0.5659344,1000-1999,2000-4999
+Merlot,Pinot Gris,-0.5665065,2000-4999,2000-4999
+Cabernet Sauvignon,Chenin Blanc,-0.5692258,5000+,500-999
+Chenin Blanc,Malbec,-0.57733977,500-999,2000-4999
+Cabernet Sauvignon,Viognier,-0.58016986,5000+,1000-1999
+Cabernet Sauvignon,Grüner Veltliner,-0.5828186,5000+,1000-1999
+Carmenère,Gamay,-0.58446777,500-999,1000-1999
+Cabernet Franc,Pinot Blanc,-0.587268,1000-1999,500-999
+Petite Sirah,Pinot Gris,-0.5940405,1000-1999,2000-4999
+Cabernet Sauvignon,Sauvignon Blanc,-0.59447384,5000+,5000+
+Petite Sirah,Pinot Blanc,-0.5949807,1000-1999,500-999
+Cabernet Franc,Chardonnay,-0.60861087,1000-1999,5000+
+Chenin Blanc,Syrah,-0.61221266,500-999,5000+
+Cabernet Sauvignon,Pinot Blanc,-0.6163578,5000+,500-999
+Pinot Blanc,Syrah,-0.62059826,500-999,5000+
+Cabernet Sauvignon,Gewürztraminer,-0.62097526,5000+,1000-1999
+Pinot Gris,Syrah,-0.6275449,2000-4999,5000+
+Chenin Blanc,Merlot,-0.63729507,500-999,2000-4999
+Cabernet Franc,Pinot Gris,-0.65159,1000-1999,2000-4999
+Cabernet Franc,Chenin Blanc,-0.6637676,1000-1999,500-999
+Cabernet Sauvignon,Pinot Gris,-0.6782361,5000+,2000-4999

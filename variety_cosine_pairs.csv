@@ -1,3241 +1,407 @@
 ﻿variety_a,variety_b,cosine,bucket_a,bucket_b
-Tempranillo,Tempranillo Blend,0.9611382,2000-4999,500-999
-Portuguese Red,Touriga Nacional,0.9419093,2000-4999,150-499
-Pinot Blanc,Pinot Gris,0.9268014,500-999,1000-1999
-Garnacha,Monastrell,0.92544556,150-499,150-499
-Albariño,Verdejo,0.91460013,500-999,150-499
-Mencía,Monastrell,0.913579,150-499,150-499
-Roussanne,Viognier,0.91258645,150-499,1000-1999
-Bonarda,Monastrell,0.91004115,150-499,150-499
-Malbec,Mencía,0.90781224,2000-4999,150-499
-Bonarda,Garnacha,0.8999499,150-499,150-499
-Bonarda,Malbec,0.8971453,150-499,2000-4999
-Fiano,Verdicchio,0.8942754,150-499,150-499
-Bonarda,Mencía,0.8928252,150-499,150-499
-Mencía,Tempranillo,0.8910254,150-499,2000-4999
-Malbec,Monastrell,0.8854977,2000-4999,150-499
-Fiano,Grillo,0.8719113,150-499,150-499
-Garnacha,Mencía,0.86844623,150-499,150-499
-Gamay,Portuguese Red,0.86588395,1000-1999,2000-4999
-Carmenère,Monastrell,0.8595137,500-999,150-499
-Monastrell,Tempranillo,0.85487664,150-499,2000-4999
-Torrontés,Verdejo,0.84993863,150-499,150-499
-Garnacha,Tempranillo,0.8487662,150-499,2000-4999
-Malbec,Tempranillo,0.8473068,2000-4999,2000-4999
-Carmenère,Mencía,0.8459265,500-999,150-499
-Carmenère,Malbec,0.84530616,500-999,2000-4999
-Glera,Prosecco,0.8421347,500-999,150-499
-Carmenère,Garnacha,0.83931553,500-999,150-499
-Carmenère,Tempranillo,0.8386334,500-999,2000-4999
-Grillo,Vermentino,0.83579665,150-499,150-499
-Grillo,Verdicchio,0.8309872,150-499,150-499
-Garnacha,Malbec,0.8302467,150-499,2000-4999
-Alvarinho,Portuguese White,0.8275479,150-499,1000-1999
-Nebbiolo,Sangiovese,0.8275283,2000-4999,2000-4999
-Bonarda,Tempranillo,0.82616484,150-499,2000-4999
-Bonarda,Carmenère,0.8247568,150-499,500-999
-Pinot Grigio,Vermentino,0.8082872,1000-1999,150-499
-Grillo,Sauvignon,0.80697143,150-499,150-499
-Bordeaux-style Red Blend,Portuguese Red,0.80480677,5000+,2000-4999
-Rhône-style White Blend,White Blend,0.80302465,500-999,2000-4999
-Mencía,Tempranillo Blend,0.8012816,150-499,500-999
-Fiano,Pinot Bianco,0.80121285,150-499,150-499
-G-S-M,Rhône-style Red Blend,0.799306,150-499,1000-1999
-Pinot Grigio,Viognier,0.7980651,1000-1999,1000-1999
-Grüner Veltliner,Pinot Blanc,0.7959511,1000-1999,500-999
-Albariño,Torrontés,0.79337597,500-999,150-499
-Grillo,Pinot Grigio,0.7832916,150-499,1000-1999
-Pinot Bianco,Pinot Grigio,0.7832379,150-499,1000-1999
-Gamay,Touriga Nacional,0.7825257,1000-1999,150-499
-Bordeaux-style Red Blend,Touriga Nacional,0.78161466,5000+,150-499
-Grüner Veltliner,Pinot Gris,0.78014207,1000-1999,1000-1999
-Grillo,Pinot Bianco,0.77741367,150-499,150-499
-Fiano,Sauvignon,0.7766096,150-499,150-499
-Grillo,White Blend,0.7761219,150-499,2000-4999
-Pinot Grigio,White Blend,0.7749344,1000-1999,2000-4999
-Vermentino,White Blend,0.7749203,150-499,2000-4999
-Pinot Grigio,Roussanne,0.7660703,1000-1999,150-499
-Carmenère,Tempranillo Blend,0.7653829,500-999,500-999
-Monastrell,Tempranillo Blend,0.76464045,150-499,500-999
-Gewürztraminer,Muscat,0.76384234,1000-1999,150-499
-Petite Sirah,Syrah,0.76322806,1000-1999,5000+
-Riesling,Viognier,0.76228553,5000+,1000-1999
-Melon,Portuguese White,0.7619226,150-499,1000-1999
-Garnacha,Tempranillo Blend,0.7594441,150-499,500-999
-Cabernet Sauvignon,Merlot,0.75373614,5000+,2000-4999
-Fiano,Vermentino,0.7518033,150-499,150-499
-Montepulciano,Nero d'Avola,0.7500112,150-499,150-499
-Fiano,Pinot Grigio,0.7485765,150-499,1000-1999
-Malbec,Tempranillo Blend,0.7475469,2000-4999,500-999
-Pinot Blanc,Pinot Grigio,0.7456645,500-999,1000-1999
-Fiano,Garganega,0.7422842,150-499,150-499
-Sauvignon,Verdicchio,0.7419137,150-499,150-499
-Bordeaux-style White Blend,Portuguese White,0.7414392,1000-1999,1000-1999
-Albariño,Pinot Grigio,0.7411126,500-999,1000-1999
-Pinot Grigio,Riesling,0.73977447,1000-1999,5000+
-Pinot Bianco,Vermentino,0.73935044,150-499,150-499
-Port,Portuguese Red,0.7332554,1000-1999,2000-4999
-Pinot Bianco,Verdicchio,0.73215103,150-499,150-499
-Pinot Grigio,Pinot Gris,0.731506,1000-1999,1000-1999
-G-S-M,Red Blend,0.7301881,150-499,5000+
-Roussanne,White Blend,0.7293803,150-499,2000-4999
-Cabernet Franc,Merlot,0.7265694,1000-1999,2000-4999
-Albariño,Riesling,0.7245662,500-999,5000+
-Petite Sirah,Zinfandel,0.72308826,1000-1999,2000-4999
-Barbera,Montepulciano,0.7224532,500-999,150-499
-Aglianico,Sangiovese,0.7220197,150-499,2000-4999
-Chardonnay,Pinot Blanc,0.7204366,5000+,500-999
-Fiano,White Blend,0.71945524,150-499,2000-4999
-Moscato,Muscat,0.71828806,150-499,150-499
-Blaufränkisch,Zweigelt,0.7176292,150-499,150-499
-Aglianico,Nebbiolo,0.7164917,150-499,2000-4999
-Chenin Blanc,Pinot Gris,0.7163343,500-999,1000-1999
-Viognier,White Blend,0.71552986,1000-1999,2000-4999
-Garganega,Verdicchio,0.71453786,150-499,150-499
-Cabernet Sauvignon,Petite Sirah,0.7143091,5000+,1000-1999
-Malbec,Tinta de Toro,0.71409225,2000-4999,150-499
-Tempranillo,Tinta de Toro,0.7113151,2000-4999,150-499
-Bonarda,Tempranillo Blend,0.7067947,150-499,500-999
-Fiano,Glera,0.7040192,150-499,500-999
-Glera,Grillo,0.70306504,500-999,150-499
-Mencía,Tinta de Toro,0.701032,150-499,150-499
-Glera,Pinot Bianco,0.70081186,500-999,150-499
-Albariño,Viognier,0.69930375,500-999,1000-1999
-Cabernet Sauvignon,Syrah,0.69721234,5000+,5000+
-Port,Touriga Nacional,0.6968273,1000-1999,150-499
-Bordeaux-style Red Blend,Gamay,0.69558036,5000+,1000-1999
-Pinot Gris,Riesling,0.68989146,1000-1999,5000+
-Pinot Bianco,White Blend,0.689337,150-499,2000-4999
-Cabernet Franc,Petit Verdot,0.6877457,1000-1999,150-499
-Cabernet Sauvignon-Merlot,Red Blend,0.68661726,150-499,5000+
-Rhône-style White Blend,Roussanne,0.6861937,500-999,150-499
-Bordeaux-style White Blend,Melon,0.6844118,1000-1999,150-499
-Verdicchio,Vermentino,0.682141,150-499,150-499
-Garganega,Grillo,0.6809076,150-499,150-499
-Chenin Blanc,Pinot Blanc,0.67964727,500-999,500-999
-Chardonnay,Pinot Gris,0.678622,5000+,1000-1999
-Tempranillo Blend,Tinta de Toro,0.6747024,500-999,150-499
-Syrah,Zinfandel,0.6743077,5000+,2000-4999
-Pinot Gris,Roussanne,0.67042994,1000-1999,150-499
-Pinot Gris,Viognier,0.66982573,1000-1999,1000-1999
-Glera,Verdicchio,0.6685611,500-999,150-499
-Gamay,Port,0.6663309,1000-1999,1000-1999
-Cabernet Blend,Cabernet Sauvignon-Merlot,0.6656352,150-499,150-499
-Gewürztraminer,Riesling,0.66462743,1000-1999,5000+
-Pinot Blanc,Riesling,0.6629914,500-999,5000+
-Pinot Grigio,Sauvignon Blanc,0.66285676,1000-1999,5000+
-Riesling,Roussanne,0.66265666,5000+,150-499
-Shiraz,Syrah,0.662212,1000-1999,5000+
-Roussanne,Sauvignon Blanc,0.6598499,150-499,5000+
-Sauvignon,Vermentino,0.65902925,150-499,150-499
-Glera,Pinot Grigio,0.6585492,500-999,1000-1999
-Rhône-style White Blend,Viognier,0.6574115,500-999,1000-1999
-Pinot Grigio,Verdicchio,0.6566068,1000-1999,150-499
-Barbera,Dolcetto,0.6554862,500-999,150-499
-Sauvignon Blanc,Viognier,0.65372086,5000+,1000-1999
-Chenin Blanc,Portuguese White,0.6520198,500-999,1000-1999
-Barbera,Nero d'Avola,0.65172446,500-999,150-499
-Chardonnay,Roussanne,0.6513872,5000+,150-499
-Garganega,Pinot Bianco,0.6478505,150-499,150-499
-Verdicchio,White Blend,0.6444887,150-499,2000-4999
-Pinot Blanc,Viognier,0.6443253,500-999,1000-1999
-Dolcetto,Nero d'Avola,0.6441008,150-499,150-499
-Cabernet Sauvignon-Merlot,Meritage,0.642918,150-499,150-499
-Bordeaux-style Red Blend,Bordeaux-style White Blend,0.64202166,5000+,1000-1999
-Bonarda,Tinta de Toro,0.6410078,150-499,150-499
-Barbera,Primitivo,0.6401565,500-999,150-499
-Petit Verdot,Tannat,0.63984084,150-499,150-499
-Chardonnay,Viognier,0.63978183,5000+,1000-1999
-Aglianico,Montepulciano,0.6397412,150-499,150-499
-Champagne Blend,Melon,0.6393194,1000-1999,150-499
+Pinot Blanc,Pinot Gris,0.9276608,500-999,2000-4999
+Malbec,Tempranillo,0.87027526,2000-4999,2000-4999
+Gamay,Portuguese Red,0.8624815,1000-1999,2000-4999
+Carmenère,Malbec,0.8453057,500-999,2000-4999
+Carmenère,Tempranillo,0.83853704,500-999,2000-4999
+Pinot Gris,Viognier,0.7768643,2000-4999,1000-1999
+Grüner Veltliner,Pinot Blanc,0.7714917,1000-1999,500-999
+Pinot Gris,Riesling,0.76458037,2000-4999,5000+
+Riesling,Viognier,0.76424336,5000+,1000-1999
+Albariño,Pinot Gris,0.7618433,500-999,2000-4999
+Nebbiolo,Sangiovese,0.76113486,2000-4999,2000-4999
+Petite Sirah,Syrah,0.7598252,1000-1999,5000+
+Cabernet Sauvignon,Merlot,0.753736,5000+,2000-4999
+Grüner Veltliner,Pinot Gris,0.7393664,1000-1999,2000-4999
+Albariño,Pinot Blanc,0.7373506,500-999,500-999
+Gewürztraminer,Muscat,0.72773314,1000-1999,500-999
+Cabernet Franc,Merlot,0.7265696,1000-1999,2000-4999
+Petite Sirah,Zinfandel,0.72651935,1000-1999,2000-4999
+Cabernet Sauvignon,Petite Sirah,0.71420276,5000+,1000-1999
+Chenin Blanc,Pinot Gris,0.7060087,500-999,2000-4999
+Albariño,Viognier,0.7056462,500-999,1000-1999
+Pinot Blanc,Riesling,0.7040409,500-999,5000+
+Albariño,Riesling,0.70396686,500-999,5000+
+Cabernet Sauvignon,Syrah,0.7014853,5000+,5000+
+Chardonnay,Pinot Blanc,0.6983824,5000+,500-999
+Syrah,Zinfandel,0.6868468,5000+,2000-4999
+Pinot Gris,Sauvignon Blanc,0.68164897,2000-4999,5000+
+Chardonnay,Pinot Gris,0.6771846,5000+,2000-4999
+Pinot Blanc,Viognier,0.6737986,500-999,1000-1999
+Sauvignon Blanc,Viognier,0.67014205,5000+,1000-1999
+Gewürztraminer,Riesling,0.6642993,1000-1999,5000+
+Chenin Blanc,Portuguese White,0.65202,500-999,1000-1999
+Chenin Blanc,Pinot Blanc,0.64603007,500-999,500-999
+Carmenère,Grenache,0.6455183,500-999,1000-1999
+Chardonnay,Viognier,0.63988495,5000+,1000-1999
 Portuguese Red,Portuguese White,0.63737416,2000-4999,1000-1999
-Montepulciano,Primitivo,0.63735783,150-499,150-499
-Nero d'Avola,Primitivo,0.637334,150-499,150-499
-Cabernet Sauvignon,Petit Verdot,0.6372241,5000+,150-499
-Albariño,Roussanne,0.6326306,500-999,150-499
-Red Blend,Rhône-style Red Blend,0.6319469,5000+,1000-1999
-Roussanne,Vermentino,0.63096404,150-499,150-499
-Roussanne,Sémillon,0.6303115,150-499,150-499
-Monastrell,Tinta de Toro,0.6278914,150-499,150-499
-Glera,Sauvignon,0.62781215,500-999,150-499
-Pinot Bianco,Sauvignon,0.6278051,150-499,150-499
-Garganega,Glera,0.6273464,150-499,500-999
-Glera,Sparkling Blend,0.6260195,500-999,2000-4999
-Sauvignon,White Blend,0.6253041,150-499,2000-4999
-Pinot Blanc,Roussanne,0.62469786,500-999,150-499
-Dolcetto,Montepulciano,0.6224325,150-499,150-499
-Gewürztraminer,Moscato,0.62173724,1000-1999,150-499
-Mourvèdre,Syrah,0.6191994,150-499,5000+
-Glera,Riesling,0.6191933,500-999,5000+
-Muscat,Riesling,0.61833596,150-499,5000+
-Champagne Blend,Portuguese White,0.6178219,1000-1999,1000-1999
-Champagne Blend,Gamay,0.6170404,1000-1999,1000-1999
-Muscat,Torrontés,0.6132046,150-499,150-499
-Pinot Grigio,Verdejo,0.6126213,1000-1999,150-499
-Cabernet Blend,Meritage,0.6112926,150-499,150-499
-Carmenère,Tinta de Toro,0.61116374,500-999,150-499
-Albariño,Pinot Blanc,0.6108265,500-999,500-999
-Bordeaux-style Red Blend,Port,0.610204,5000+,1000-1999
-Vermentino,Viognier,0.61012053,150-499,1000-1999
-Pinot Grigio,Sauvignon,0.6093414,1000-1999,150-499
-Montepulciano,Sangiovese,0.60920316,150-499,2000-4999
-Glera,Moscato,0.60803175,500-999,150-499
-Aglianico,Nero d'Avola,0.6077202,150-499,150-499
-Pinot Bianco,Pinot Blanc,0.607134,150-499,500-999
-Glera,White Blend,0.60629123,500-999,2000-4999
-Moscato,Prosecco,0.6051297,150-499,150-499
-Cabernet Franc,Cabernet Sauvignon,0.6028413,1000-1999,5000+
-Gewürztraminer,Viognier,0.6019268,1000-1999,1000-1999
-Petit Verdot,Syrah,0.5984669,150-499,5000+
-Alvarinho,Portuguese Red,0.59795535,150-499,2000-4999
-Portuguese White,Touriga Nacional,0.5977112,1000-1999,150-499
-Alvarinho,Touriga Nacional,0.5974395,150-499,150-499
-Rhône-style White Blend,Sémillon,0.596815,500-999,150-499
-Pinot Nero,Sangiovese,0.59677255,150-499,2000-4999
-Riesling,Sauvignon Blanc,0.59659386,5000+,5000+
-Riesling,Torrontés,0.59638643,5000+,150-499
-Pinot Gris,Sauvignon Blanc,0.5960877,1000-1999,5000+
-Garganega,Pinot Grigio,0.59581935,150-499,1000-1999
-Albariño,Pinot Gris,0.59487355,500-999,1000-1999
-Merlot,Zinfandel,0.59486663,2000-4999,2000-4999
-Alvarinho,Melon,0.59336317,150-499,150-499
-Fiano,Roussanne,0.5919734,150-499,150-499
-Albariño,Fiano,0.59181905,500-999,150-499
-Cabernet Blend,Cabernet Sauvignon,0.591515,150-499,5000+
-Verdejo,Viognier,0.59061885,150-499,1000-1999
-Bordeaux-style White Blend,Portuguese Red,0.5900134,1000-1999,2000-4999
-Muscat,Viognier,0.5893893,150-499,1000-1999
-Bordeaux-style White Blend,Champagne Blend,0.5881516,1000-1999,1000-1999
-Meritage,Rhône-style Red Blend,0.58763784,150-499,1000-1999
-Alvarinho,Bordeaux-style White Blend,0.5872488,150-499,1000-1999
-Prosecco,Riesling,0.5866919,150-499,5000+
-Melon,Portuguese Red,0.5866498,150-499,2000-4999
-Albariño,Pinot Bianco,0.58595467,500-999,150-499
-Gamay,Portuguese White,0.5846528,1000-1999,1000-1999
-Gewürztraminer,Torrontés,0.5845467,1000-1999,150-499
-Riesling,Verdejo,0.5844815,5000+,150-499
-Fiano,Viognier,0.58346343,150-499,1000-1999
-Cabernet Sauvignon-Merlot,G-S-M,0.5824794,150-499,150-499
-Sémillon,White Blend,0.58214927,150-499,2000-4999
-Grenache,Mourvèdre,0.5819583,500-999,150-499
-Chenin Blanc,Melon,0.58032984,500-999,150-499
-Chenin Blanc,Pinot Grigio,0.58013886,500-999,1000-1999
-Pinot Bianco,Pinot Gris,0.5782652,150-499,1000-1999
-Cabernet Sauvignon-Merlot,Rhône-style Red Blend,0.5777677,150-499,1000-1999
-Garnacha,Tinta de Toro,0.57719606,150-499,150-499
-Prosecco,Sparkling Blend,0.5756721,150-499,2000-4999
-Gewürztraminer,Pinot Grigio,0.5750236,1000-1999,1000-1999
-Prosecco,White Blend,0.57383275,150-499,2000-4999
-Pinot Grigio,Prosecco,0.5710976,1000-1999,150-499
-Petit Verdot,Petite Sirah,0.5709996,150-499,1000-1999
-Torrontés,Viognier,0.57067025,150-499,1000-1999
-Bordeaux-style White Blend,Gamay,0.56958836,1000-1999,1000-1999
-Pinot Blanc,Sauvignon Blanc,0.5686296,500-999,5000+
-Chardonnay,Chenin Blanc,0.56824535,5000+,500-999
-Albariño,Sauvignon Blanc,0.56793255,500-999,5000+
-Fiano,Riesling,0.56748366,150-499,5000+
-Grillo,Viognier,0.56726474,150-499,1000-1999
-Chardonnay,Pinot Grigio,0.56707275,5000+,1000-1999
-Nero d'Avola,Sangiovese,0.5655836,150-499,2000-4999
-Merlot,Syrah,0.565229,2000-4999,5000+
-Petite Sirah,Tannat,0.56522155,1000-1999,150-499
-Grüner Veltliner,Sauvignon Blanc,0.5651437,1000-1999,5000+
-Glera,Vermentino,0.5636674,500-999,150-499
-Grüner Veltliner,Pinot Grigio,0.56361055,1000-1999,1000-1999
-Cabernet Sauvignon,Meritage,0.5630187,5000+,150-499
-Nebbiolo,Pinot Nero,0.5629021,2000-4999,150-499
-Gamay,Melon,0.56278,1000-1999,150-499
-Garganega,Sauvignon,0.5618623,150-499,150-499
-Carmenère,Pinotage,0.5614293,500-999,150-499
-Malbec,Tannat,0.5613462,2000-4999,150-499
-Pinot Grigio,Torrontés,0.56040746,1000-1999,150-499
-Albariño,Grillo,0.5595223,500-999,150-499
-Champagne Blend,Portuguese Red,0.5594835,1000-1999,2000-4999
-Petite Sirah,Shiraz,0.55870765,1000-1999,1000-1999
-Bordeaux-style White Blend,Touriga Nacional,0.5583774,1000-1999,150-499
-Nero d'Avola,Red Blend,0.5583304,150-499,5000+
-Sémillon,Viognier,0.5571177,150-499,1000-1999
-Grenache,Pinot Noir,0.55696684,500-999,5000+
-Albariño,White Blend,0.556468,500-999,2000-4999
-Muscat,White Blend,0.55603075,150-499,2000-4999
-Cabernet Sauvignon,Zinfandel,0.5557943,5000+,2000-4999
-Garganega,Vermentino,0.5551045,150-499,150-499
-Pinot Bianco,Riesling,0.55371654,150-499,5000+
-Dolcetto,Primitivo,0.5525801,150-499,150-499
-Riesling,White Blend,0.5521516,5000+,2000-4999
-Grillo,Roussanne,0.55168,150-499,150-499
-Merlot,Petite Sirah,0.550382,2000-4999,1000-1999
-Aglianico,Barbera,0.5500326,150-499,500-999
-Fiano,Torrontés,0.5484377,150-499,150-499
-Grüner Veltliner,Riesling,0.5465929,1000-1999,5000+
-Grillo,Riesling,0.5463585,150-499,5000+
-Muscat,Pinot Grigio,0.5459281,150-499,1000-1999
-Malbec,Petit Verdot,0.54555523,2000-4999,150-499
-G-S-M,Meritage,0.54473174,150-499,150-499
-Monastrell,Pinotage,0.54412496,150-499,150-499
-Prosecco,Viognier,0.54336214,150-499,1000-1999
-Albariño,Sparkling Blend,0.5425304,500-999,2000-4999
-Bordeaux-style White Blend,Port,0.5416315,1000-1999,1000-1999
-Pinot Nero,Red Blend,0.53891313,150-499,5000+
-Meritage,Red Blend,0.53841287,150-499,5000+
-Grillo,Prosecco,0.53835624,150-499,150-499
-Fiano,Moscato,0.5382361,150-499,150-499
-Gewürztraminer,White Blend,0.53779393,1000-1999,2000-4999
-Fiano,Muscat,0.5376883,150-499,150-499
-Malbec,Pinotage,0.53724515,2000-4999,150-499
-Pinot Bianco,Viognier,0.53641444,150-499,1000-1999
-Muscat,Prosecco,0.5362747,150-499,150-499
-Sauvignon Blanc,Vermentino,0.53569746,5000+,150-499
-Glera,Muscat,0.5356494,500-999,150-499
-Torrontés,White Blend,0.53373843,150-499,2000-4999
-Glera,Viognier,0.5330673,500-999,1000-1999
-Chenin Blanc,Vermentino,0.5329954,500-999,150-499
-Roussanne,Verdejo,0.5328234,150-499,150-499
-Cabernet Sauvignon,Shiraz,0.5324106,5000+,1000-1999
-Albariño,Verdicchio,0.5311985,500-999,150-499
-Chenin Blanc,Grüner Veltliner,0.5309816,500-999,1000-1999
-Cabernet Sauvignon,Tannat,0.53051496,5000+,150-499
-Barbera,Pinotage,0.5300971,500-999,150-499
-Sauvignon Blanc,Verdejo,0.5294453,5000+,150-499
-Fiano,Prosecco,0.5289506,150-499,150-499
-Cabernet Franc,Pinotage,0.5274806,1000-1999,150-499
-Pinotage,Primitivo,0.52511513,150-499,150-499
-Chenin Blanc,Sémillon,0.525023,500-999,150-499
-Chenin Blanc,Roussanne,0.52460164,500-999,150-499
-Chenin Blanc,Riesling,0.52436936,500-999,5000+
-Sauvignon Blanc,White Blend,0.52377343,5000+,2000-4999
-Sparkling Blend,Verdejo,0.52312684,2000-4999,150-499
-Pinot Bianco,Prosecco,0.5230672,150-499,150-499
-Cabernet Sauvignon,Cabernet Sauvignon-Merlot,0.5219809,5000+,150-499
-Moscato,White Blend,0.52189875,150-499,2000-4999
-Pinot Bianco,Roussanne,0.52170765,150-499,150-499
-Sauvignon,Torrontés,0.52144647,150-499,150-499
-Riesling,Vermentino,0.52118593,5000+,150-499
-Pinot Blanc,White Blend,0.52051705,500-999,2000-4999
-Verdejo,White Blend,0.5199914,150-499,2000-4999
-Torrontés,Verdicchio,0.51911443,150-499,150-499
-Pinot Grigio,Rhône-style White Blend,0.51857364,1000-1999,500-999
-Pinotage,Red Blend,0.51849246,150-499,5000+
-Gewürztraminer,Roussanne,0.518442,1000-1999,150-499
-Pinotage,Shiraz,0.518381,150-499,1000-1999
-Fiano,Verdejo,0.5174931,150-499,150-499
-Melon,Touriga Nacional,0.5166171,150-499,150-499
-Aglianico,Petit Verdot,0.51614195,150-499,150-499
-Chardonnay,Sémillon,0.5160274,5000+,150-499
-Pinot Blanc,Vermentino,0.5141572,500-999,150-499
-Chenin Blanc,Sauvignon Blanc,0.5139518,500-999,5000+
-Meritage,Merlot,0.51387763,150-499,2000-4999
-Mencía,Pinotage,0.51376075,150-499,150-499
-Red Blend,Sangiovese,0.51312864,5000+,2000-4999
-Melon,Port,0.5124992,150-499,1000-1999
-Syrah,Tannat,0.5115715,5000+,150-499
-Shiraz,Zinfandel,0.51099813,1000-1999,2000-4999
-Fiano,Gewürztraminer,0.51013577,150-499,1000-1999
-Alvarinho,Chenin Blanc,0.50973344,150-499,500-999
-Prosecco,Vermentino,0.5090368,150-499,150-499
-Carmenère,Sangiovese,0.5084087,500-999,2000-4999
-Sauvignon Blanc,Torrontés,0.50809366,5000+,150-499
-Gewürztraminer,Vermentino,0.50800514,1000-1999,150-499
-Albariño,Garganega,0.5072151,500-999,150-499
-Primitivo,Syrah,0.50701547,150-499,5000+
-Moscato,Viognier,0.5069452,150-499,1000-1999
-Roussanne,Torrontés,0.50561714,150-499,150-499
-Alvarinho,Gamay,0.50546336,150-499,1000-1999
-Champagne Blend,Touriga Nacional,0.5047463,1000-1999,150-499
-Alvarinho,Champagne Blend,0.5046948,150-499,1000-1999
-Grillo,Torrontés,0.50440484,150-499,150-499
-Bordeaux-style White Blend,Chenin Blanc,0.5036611,1000-1999,500-999
-Pinot Gris,White Blend,0.5034121,1000-1999,2000-4999
-Gewürztraminer,Prosecco,0.5030315,1000-1999,150-499
-Pinotage,Sangiovese,0.5026303,150-499,2000-4999
-Albariño,Glera,0.50215125,500-999,500-999
-Garganega,White Blend,0.50126004,150-499,2000-4999
-Bonarda,Pinotage,0.5010489,150-499,150-499
-Moscato,Pinot Grigio,0.49999514,150-499,1000-1999
-Prosecco,Sauvignon,0.4992058,150-499,150-499
-Montepulciano,Sangiovese Grosso,0.49888903,150-499,1000-1999
-Pinot Gris,Vermentino,0.49853873,1000-1999,150-499
-Aglianico,Red Blend,0.49839944,150-499,5000+
-Mourvèdre,Rhône-style Red Blend,0.49829194,150-499,1000-1999
-Grillo,Rhône-style White Blend,0.49697042,150-499,500-999
-Port,Portuguese White,0.4969011,1000-1999,1000-1999
-Chenin Blanc,Viognier,0.49438387,500-999,1000-1999
-Riesling,Verdicchio,0.49403423,5000+,150-499
-Garnacha,Pinotage,0.4933685,150-499,150-499
-Verdicchio,Viognier,0.49128002,150-499,1000-1999
-Garnacha,Verdejo,0.491209,150-499,150-499
-Cabernet Franc,Mourvèdre,0.49111268,1000-1999,150-499
-Pinot Bianco,Verdejo,0.4908892,150-499,150-499
-Cabernet Sauvignon-Merlot,Merlot,0.4906834,150-499,2000-4999
-Barbera,Sangiovese,0.49058864,500-999,2000-4999
-Nero d'Avola,Pinot Nero,0.4902086,150-499,150-499
-Cabernet Franc,Syrah,0.48994508,1000-1999,5000+
-Muscat,Roussanne,0.48966748,150-499,150-499
-Chardonnay,Sauvignon Blanc,0.48899218,5000+,5000+
-Merlot,Shiraz,0.48860246,2000-4999,1000-1999
-Sangiovese,Tempranillo Blend,0.48818314,2000-4999,500-999
-Chardonnay,Grüner Veltliner,0.48780516,5000+,1000-1999
-Pinot Blanc,Verdejo,0.48760492,500-999,150-499
-G-S-M,Rhône-style White Blend,0.4871484,150-499,500-999
-Albariño,Muscat,0.48713198,500-999,150-499
-Sangiovese,Tempranillo,0.48672184,2000-4999,2000-4999
-Pinot Blanc,Sparkling Blend,0.48513836,500-999,2000-4999
-Gewürztraminer,Glera,0.48502755,1000-1999,500-999
-"Corvina, Rondinella, Molinara",Montepulciano,0.4847035,1000-1999,150-499
-Gewürztraminer,Sauvignon,0.48467165,1000-1999,150-499
-Moscato,Sauvignon,0.48416507,150-499,150-499
-"Corvina, Rondinella, Molinara",Sangiovese Grosso,0.4840465,1000-1999,1000-1999
-Champagne Blend,Port,0.4838248,1000-1999,1000-1999
-Cabernet Blend,Rhône-style Red Blend,0.48362386,150-499,1000-1999
-Moscato,Vermentino,0.4831071,150-499,150-499
-Blaufränkisch,Gamay,0.48182023,150-499,1000-1999
-Merlot,Pinotage,0.48150748,2000-4999,150-499
-Gewürztraminer,Grillo,0.4812665,1000-1999,150-499
-Rhône-style White Blend,Vermentino,0.4812062,500-999,150-499
-Muscat,Verdicchio,0.48071143,150-499,150-499
-Grillo,Verdejo,0.4795975,150-499,150-499
-Riesling,Sparkling Blend,0.47947717,5000+,2000-4999
-Grillo,Muscat,0.47924232,150-499,150-499
-Primitivo,Zinfandel,0.47691005,150-499,2000-4999
-Cabernet Blend,Red Blend,0.47684515,150-499,5000+
-Cabernet Franc,Meritage,0.476547,1000-1999,150-499
-Cabernet Franc,Grenache,0.47594547,1000-1999,500-999
-Prosecco,Roussanne,0.47575253,150-499,150-499
-Pinotage,Syrah,0.47531164,150-499,5000+
-Rosé,Zweigelt,0.4734366,2000-4999,150-499
-Grillo,Moscato,0.47336644,150-499,150-499
-Gewürztraminer,Verdicchio,0.47278723,1000-1999,150-499
-Pinot Gris,Verdejo,0.47229445,1000-1999,150-499
-Sauvignon Blanc,Sémillon,0.4722296,5000+,150-499
-Moscato,Verdicchio,0.47215265,150-499,150-499
-Montepulciano,Nebbiolo,0.4713925,150-499,2000-4999
-Malbec,Syrah,0.47115415,2000-4999,5000+
-Sauvignon,Viognier,0.47045302,150-499,1000-1999
-Albariño,Chardonnay,0.46939862,500-999,5000+
-Albariño,Vermentino,0.4693819,500-999,150-499
-Gewürztraminer,Pinot Gris,0.46903884,1000-1999,1000-1999
-Pinotage,Tempranillo,0.46822673,150-499,2000-4999
-Garganega,Riesling,0.46809924,150-499,5000+
-Roussanne,Verdicchio,0.46760136,150-499,150-499
-Carmenère,Verdejo,0.4672739,500-999,150-499
-Verdejo,Verdicchio,0.4668498,150-499,150-499
-Muscat,Verdejo,0.46651405,150-499,150-499
-Carmenère,Red Blend,0.46649712,500-999,5000+
-Mourvèdre,Zinfandel,0.46592596,150-499,2000-4999
-Chardonnay,Pinot Bianco,0.46432602,5000+,150-499
-Prosecco,Rhône-style White Blend,0.46340162,150-499,500-999
-Merlot,Petit Verdot,0.46303225,2000-4999,150-499
-Sparkling Blend,Torrontés,0.46266454,2000-4999,150-499
-Fiano,Pinot Gris,0.4624361,150-499,1000-1999
-Primitivo,Red Blend,0.46208557,150-499,5000+
-Mourvèdre,Petite Sirah,0.46140546,150-499,1000-1999
-Prosecco,Verdicchio,0.46104658,150-499,150-499
-Sauvignon,Verdejo,0.4607497,150-499,150-499
-Meritage,Petit Verdot,0.46019834,150-499,150-499
-Gamay,Pinot Noir,0.45989603,1000-1999,5000+
-Pinot Nero,Verdicchio,0.45981866,150-499,150-499
-Grüner Veltliner,Pinot Bianco,0.45855138,1000-1999,150-499
-Fiano,Rhône-style White Blend,0.45772022,150-499,500-999
-Chenin Blanc,Gewürztraminer,0.45694637,500-999,1000-1999
-Petite Sirah,Primitivo,0.45683092,1000-1999,150-499
-Muscat,Sauvignon,0.45586583,150-499,150-499
-Albariño,Sauvignon,0.4556514,500-999,150-499
-Gewürztraminer,Sauvignon Blanc,0.45471686,1000-1999,5000+
-Grenache,Rhône-style Red Blend,0.454179,500-999,1000-1999
-Sémillon,Vermentino,0.45321947,150-499,150-499
-Moscato,Riesling,0.45136225,150-499,5000+
-Cabernet Franc,Petite Sirah,0.45080173,1000-1999,1000-1999
-Bonarda,Verdejo,0.45066595,150-499,150-499
-Chardonnay,Riesling,0.4475602,5000+,5000+
-Nero d'Avola,Pinotage,0.44671035,150-499,150-499
-Grillo,Sauvignon Blanc,0.445327,150-499,5000+
-Mourvèdre,Primitivo,0.44503248,150-499,150-499
-Carmenère,Torrontés,0.4447844,500-999,150-499
-Cabernet Franc,Cabernet Sauvignon-Merlot,0.44405353,1000-1999,150-499
-Barbera,Red Blend,0.44395524,500-999,5000+
-Rhône-style White Blend,Riesling,0.44316775,500-999,5000+
-Glera,Roussanne,0.44299465,500-999,150-499
-Tempranillo,Verdejo,0.44294864,2000-4999,150-499
-Riesling,Sauvignon,0.44116765,5000+,150-499
-Glera,Torrontés,0.4410809,500-999,150-499
-Pinot Grigio,Sparkling Blend,0.4380383,1000-1999,2000-4999
-Albariño,Gewürztraminer,0.43792102,500-999,1000-1999
-Chenin Blanc,Pinot Bianco,0.4377436,500-999,150-499
-Grenache,Pinotage,0.43752992,500-999,150-499
-Glera,Rhône-style White Blend,0.4368351,500-999,500-999
-Mourvèdre,Petit Verdot,0.43682706,150-499,150-499
-Aglianico,Primitivo,0.4358549,150-499,150-499
-Monastrell,Verdejo,0.4354732,150-499,150-499
-Muscat,Sparkling Blend,0.43459383,150-499,2000-4999
-Bordeaux-style Red Blend,Champagne Blend,0.43355423,5000+,1000-1999
-Merlot,Pinot Noir,0.43329948,2000-4999,5000+
-Carmenère,Petit Verdot,0.43313822,500-999,150-499
-Muscat,Rhône-style White Blend,0.43270373,150-499,500-999
-Chenin Blanc,White Blend,0.4321371,500-999,2000-4999
-Garganega,Verdejo,0.43129534,150-499,150-499
-Mencía,Sangiovese,0.43008852,150-499,2000-4999
-Montepulciano,Red Blend,0.42973936,150-499,5000+
-Garganega,Viognier,0.42946118,150-499,1000-1999
-Pinot Grigio,Sémillon,0.42882925,1000-1999,150-499
-Glera,Pinot Blanc,0.42833033,500-999,500-999
-Cabernet Franc,Pinot Noir,0.4282458,1000-1999,5000+
-Pinot Nero,Sauvignon,0.4279602,150-499,150-499
-Petit Verdot,Red Blend,0.42612115,150-499,5000+
-Cabernet Franc,Red Blend,0.42558205,1000-1999,5000+
-Moscato,Roussanne,0.42414188,150-499,150-499
-Cabernet Sauvignon-Merlot,Petit Verdot,0.42383495,150-499,150-499
-Meritage,Petite Sirah,0.42377514,150-499,1000-1999
-Dolcetto,Red Blend,0.42295188,150-499,5000+
-Sauvignon,Sauvignon Blanc,0.42221028,150-499,5000+
-Pinot Bianco,Rhône-style White Blend,0.42202342,150-499,500-999
-Muscat,Vermentino,0.42128223,150-499,150-499
-Barbera,Petit Verdot,0.42088833,500-999,150-499
-Garnacha,Torrontés,0.4202626,150-499,150-499
-Grillo,Pinot Gris,0.41841978,150-499,1000-1999
-Grillo,Pinot Blanc,0.41744488,150-499,500-999
-Albariño,Grüner Veltliner,0.41710246,500-999,1000-1999
-Grüner Veltliner,Vermentino,0.41689193,1000-1999,150-499
-Garganega,Torrontés,0.41507238,150-499,150-499
-Tempranillo Blend,Verdejo,0.4139843,500-999,150-499
-Pinot Bianco,Torrontés,0.41376123,150-499,150-499
-Grüner Veltliner,Viognier,0.41365874,1000-1999,1000-1999
-Cabernet Sauvignon,Malbec,0.41355744,5000+,2000-4999
-Rhône-style Red Blend,Syrah,0.41354674,1000-1999,5000+
-Cabernet Franc,Tannat,0.41349787,1000-1999,150-499
-Gewürztraminer,Pinot Blanc,0.41286927,1000-1999,500-999
-Merlot,Mourvèdre,0.41285005,2000-4999,150-499
-Mencía,Petit Verdot,0.4121433,150-499,150-499
-Gewürztraminer,Pinot Bianco,0.41145927,1000-1999,150-499
-G-S-M,Grenache,0.4112961,150-499,500-999
-Nebbiolo,Tempranillo Blend,0.41115654,2000-4999,500-999
-Grüner Veltliner,Roussanne,0.41113728,1000-1999,150-499
-Barbera,Syrah,0.41027284,500-999,5000+
-Rhône-style Red Blend,Shiraz,0.40988135,1000-1999,1000-1999
-Glera,Verdejo,0.40987432,500-999,150-499
-Pinot Gris,Sparkling Blend,0.40941662,1000-1999,2000-4999
-Garganega,Prosecco,0.40940663,150-499,150-499
-Meritage,Syrah,0.4086311,150-499,5000+
-Barbera,Mourvèdre,0.4085918,500-999,150-499
-Roussanne,Sauvignon,0.40852296,150-499,150-499
-Petit Verdot,Pinotage,0.40793902,150-499,150-499
-Malbec,Sangiovese,0.40758398,2000-4999,2000-4999
-Malbec,Merlot,0.40716657,2000-4999,2000-4999
-Rhône-style White Blend,Torrontés,0.40662992,500-999,150-499
-Fiano,Pinot Blanc,0.4064573,150-499,500-999
-Glera,Pinot Nero,0.40565085,500-999,150-499
-Malbec,Shiraz,0.40555614,2000-4999,1000-1999
-Pinot Blanc,Portuguese White,0.40543497,500-999,1000-1999
-Malbec,Primitivo,0.4044702,2000-4999,150-499
-Mencía,Tannat,0.40417713,150-499,150-499
-Nebbiolo,Red Blend,0.40364665,2000-4999,5000+
-Glera,Pinot Gris,0.4028778,500-999,1000-1999
-Blaufränkisch,Portuguese Red,0.40268293,150-499,2000-4999
-Syrah,Tinta de Toro,0.40225518,5000+,150-499
-Monastrell,Sangiovese,0.40184838,150-499,2000-4999
-Garganega,Moscato,0.4016,150-499,150-499
-Aglianico,Pinotage,0.40145534,150-499,150-499
-Merlot,Red Blend,0.39991653,2000-4999,5000+
-Pinotage,Tempranillo Blend,0.39899987,150-499,500-999
+Glera,Muscat,0.63481516,1000-1999,500-999
+Glera,Riesling,0.6316678,1000-1999,5000+
+Albariño,Sauvignon Blanc,0.6289079,500-999,5000+
+Grenache,Malbec,0.62119985,1000-1999,2000-4999
+Riesling,Sauvignon Blanc,0.6116778,5000+,5000+
+Cabernet Franc,Cabernet Sauvignon,0.6028414,1000-1999,5000+
+Gewürztraminer,Viognier,0.60192657,1000-1999,1000-1999
+Merlot,Zinfandel,0.5987909,2000-4999,2000-4999
+Grenache,Tempranillo,0.59150845,1000-1999,2000-4999
+Merlot,Syrah,0.58465695,2000-4999,5000+
+Gamay,Portuguese White,0.58148956,1000-1999,1000-1999
+Muscat,Viognier,0.57843184,500-999,1000-1999
+Chardonnay,Chenin Blanc,0.56820977,5000+,500-999
+Grüner Veltliner,Sauvignon Blanc,0.56413364,1000-1999,5000+
+Pinot Blanc,Sauvignon Blanc,0.5624433,500-999,5000+
+Albariño,Chardonnay,0.56119394,500-999,5000+
+Glera,Viognier,0.55561674,1000-1999,1000-1999
+Cabernet Sauvignon,Zinfandel,0.55538464,5000+,2000-4999
+Glera,Pinot Blanc,0.5529885,1000-1999,500-999
+Gewürztraminer,Pinot Gris,0.5523901,1000-1999,2000-4999
+Merlot,Petite Sirah,0.5492241,2000-4999,1000-1999
+Grüner Veltliner,Riesling,0.545354,1000-1999,5000+
+Glera,Pinot Gris,0.54171765,1000-1999,2000-4999
+Muscat,Riesling,0.5405952,500-999,5000+
+Chenin Blanc,Grüner Veltliner,0.5309815,500-999,1000-1999
+Chenin Blanc,Riesling,0.5247849,500-999,5000+
+Albariño,Chenin Blanc,0.5184117,500-999,500-999
+Barbera,Sangiovese,0.51192343,500-999,2000-4999
+Gewürztraminer,Glera,0.50837284,1000-1999,1000-1999
+Chenin Blanc,Sauvignon Blanc,0.5046575,500-999,5000+
+Chenin Blanc,Viognier,0.4943837,500-999,1000-1999
+Cabernet Franc,Grenache,0.49242127,1000-1999,1000-1999
+Chardonnay,Grüner Veltliner,0.48830998,5000+,1000-1999
+Malbec,Syrah,0.48686463,2000-4999,5000+
+Albariño,Grüner Veltliner,0.4859256,500-999,1000-1999
+Gewürztraminer,Sauvignon Blanc,0.48033717,1000-1999,5000+
+Chardonnay,Sauvignon Blanc,0.47315994,5000+,5000+
+Cabernet Franc,Syrah,0.46685252,1000-1999,5000+
+Chenin Blanc,Gewürztraminer,0.45694643,500-999,1000-1999
+Gamay,Pinot Noir,0.45657897,1000-1999,5000+
+Gewürztraminer,Pinot Blanc,0.45608246,1000-1999,500-999
+Albariño,Gewürztraminer,0.45241523,500-999,1000-1999
+Cabernet Franc,Petite Sirah,0.45086524,1000-1999,1000-1999
+Chardonnay,Riesling,0.44939986,5000+,5000+
+Cabernet Franc,Pinot Noir,0.4401109,1000-1999,5000+
+Grenache,Merlot,0.43990588,1000-1999,2000-4999
+Albariño,Glera,0.4389835,500-999,1000-1999
+Merlot,Pinot Noir,0.4388858,2000-4999,5000+
+Muscat,Pinot Gris,0.43814018,500-999,2000-4999
+Grüner Veltliner,Viognier,0.4136582,1000-1999,1000-1999
+Cabernet Sauvignon,Malbec,0.41355702,5000+,2000-4999
+Malbec,Merlot,0.40716577,2000-4999,2000-4999
+Barbera,Syrah,0.4039873,500-999,5000+
 Barbera,Cabernet Franc,0.39850682,500-999,1000-1999
-Petit Verdot,Sangiovese,0.39842755,150-499,2000-4999
-Rhône-style White Blend,Sauvignon Blanc,0.39807838,500-999,5000+
-Gamay,Zweigelt,0.3979563,1000-1999,150-499
-Aglianico,Tannat,0.39656198,150-499,150-499
-Gewürztraminer,Grüner Veltliner,0.39609933,1000-1999,1000-1999
-Shiraz,Tinta de Toro,0.39581472,1000-1999,150-499
-Albariño,Rhône-style White Blend,0.39572528,500-999,500-999
-Aglianico,Malbec,0.39559078,150-499,2000-4999
-Chardonnay,White Blend,0.39501446,5000+,2000-4999
-Rhône-style White Blend,Sauvignon,0.3949425,500-999,150-499
-Cabernet Franc,Sangiovese,0.3949,1000-1999,2000-4999
-Bordeaux-style Red Blend,Meritage,0.3937148,5000+,150-499
-Pinotage,Tinta de Toro,0.3936898,150-499,150-499
-Albariño,Prosecco,0.3931414,500-999,150-499
-Garganega,Roussanne,0.39218834,150-499,150-499
-Carmenère,Pinot Nero,0.38951665,500-999,150-499
-Cabernet Blend,Merlot,0.38942435,150-499,2000-4999
-Cabernet Sauvignon-Merlot,Pinotage,0.38877404,150-499,150-499
-Cabernet Franc,Malbec,0.38863176,1000-1999,2000-4999
-Aglianico,Carmenère,0.38848385,150-499,500-999
-Chardonnay,Vermentino,0.38828102,5000+,150-499
-Pinot Gris,Sémillon,0.38726798,1000-1999,150-499
-Cabernet Sauvignon-Merlot,Carmenère,0.38721967,150-499,500-999
-Monastrell,Petit Verdot,0.38641763,150-499,150-499
-Garganega,Muscat,0.38603035,150-499,150-499
-Montepulciano,Pinotage,0.38566512,150-499,150-499
-Nebbiolo,Petit Verdot,0.38563067,2000-4999,150-499
-Champagne Blend,Rosé,0.3851778,1000-1999,2000-4999
-Cabernet Sauvignon,Pinot Noir,0.38517618,5000+,5000+
-Pinot Gris,Rhône-style White Blend,0.385001,1000-1999,500-999
-Moscato,Sparkling Blend,0.38335064,150-499,2000-4999
-Cabernet Sauvignon-Merlot,Shiraz,0.3830394,150-499,1000-1999
-Aglianico,Pinot Nero,0.3823394,150-499,150-499
-Pinot Blanc,Rhône-style White Blend,0.38173422,500-999,500-999
-Mencía,Verdejo,0.38170666,150-499,150-499
-Cabernet Sauvignon-Merlot,Syrah,0.3816781,150-499,5000+
-Rhône-style White Blend,Verdicchio,0.38126156,500-999,150-499
-Pinot Blanc,Prosecco,0.38124603,500-999,150-499
-Red Blend,Syrah,0.38111258,5000+,5000+
-Rhône-style White Blend,Verdejo,0.38041276,500-999,150-499
-Grillo,Grüner Veltliner,0.37981182,150-499,1000-1999
-Monastrell,Tannat,0.379639,150-499,150-499
-Mourvèdre,Red Blend,0.3796242,150-499,5000+
-Nebbiolo,Nero d'Avola,0.37952343,2000-4999,150-499
-Fiano,Pinot Nero,0.37938917,150-499,150-499
-Grüner Veltliner,Melon,0.37933064,1000-1999,150-499
-Nebbiolo,Pinotage,0.37921646,2000-4999,150-499
-Sparkling Blend,Viognier,0.37893564,2000-4999,1000-1999
-Bonarda,Torrontés,0.37876278,150-499,150-499
-Carmenère,Nebbiolo,0.37802768,500-999,2000-4999
-Grenache,Rosé,0.37757263,500-999,2000-4999
-Grenache,Merlot,0.37712026,500-999,2000-4999
-Gewürztraminer,Rhône-style White Blend,0.37701413,1000-1999,500-999
-Carmenère,Nero d'Avola,0.37584746,500-999,150-499
-Bordeaux-style Red Blend,Melon,0.3753739,5000+,150-499
-Barbera,Nebbiolo,0.37518585,500-999,2000-4999
-Garnacha,Sangiovese,0.3744806,150-499,2000-4999
-Dolcetto,Pinotage,0.37322918,150-499,150-499
-Champagne Blend,Chenin Blanc,0.3724684,1000-1999,500-999
-Merlot,Monastrell,0.37220713,2000-4999,150-499
-Grüner Veltliner,Portuguese White,0.37179714,1000-1999,1000-1999
-Sangiovese,Sangiovese Grosso,0.37036437,2000-4999,1000-1999
-Muscat,Pinot Bianco,0.3703605,150-499,150-499
-Pinot Blanc,Sémillon,0.36996904,500-999,150-499
-Grüner Veltliner,White Blend,0.36944872,1000-1999,2000-4999
-Pinot Gris,Portuguese White,0.3685745,1000-1999,1000-1999
-Alvarinho,Port,0.3681775,150-499,1000-1999
-Grenache,Red Blend,0.3679397,500-999,5000+
-Bonarda,Primitivo,0.36778605,150-499,150-499
-Moscato,Pinot Bianco,0.3674503,150-499,150-499
-Blaufränkisch,Pinot Noir,0.36714485,150-499,5000+
-Nebbiolo,Tempranillo,0.36674294,2000-4999,2000-4999
-Aglianico,Tinta de Toro,0.36647418,150-499,150-499
-Chardonnay,Rhône-style White Blend,0.36646152,5000+,500-999
-Garnacha,Red Blend,0.3658582,150-499,5000+
-Sparkling Blend,White Blend,0.3656633,2000-4999,2000-4999
-Monastrell,Red Blend,0.36461303,150-499,5000+
-Alvarinho,Bordeaux-style Red Blend,0.36459833,150-499,5000+
-Riesling,Sémillon,0.36410698,5000+,150-499
-Pinot Bianco,Sparkling Blend,0.36408406,150-499,2000-4999
-Fiano,Grüner Veltliner,0.36371273,150-499,1000-1999
-Nero d'Avola,Sauvignon,0.36352313,150-499,150-499
-Pinot Noir,Zweigelt,0.36337703,5000+,150-499
-Prosecco,Torrontés,0.36321557,150-499,150-499
-Pinot Gris,Torrontés,0.36318445,1000-1999,150-499
-Cabernet Blend,G-S-M,0.3621261,150-499,150-499
-Bordeaux-style Red Blend,Portuguese White,0.3620758,5000+,1000-1999
-Aglianico,"Corvina, Rondinella, Molinara",0.3616185,150-499,1000-1999
-Merlot,Primitivo,0.36117375,2000-4999,150-499
-Cabernet Sauvignon-Merlot,Malbec,0.36079502,150-499,2000-4999
-Pinot Nero,Sparkling Blend,0.36040822,150-499,2000-4999
-Tempranillo,Torrontés,0.35947198,2000-4999,150-499
-Garganega,Pinot Gris,0.3594525,150-499,1000-1999
-Gewürztraminer,Verdejo,0.35913542,1000-1999,150-499
-Dolcetto,Sangiovese,0.35910934,150-499,2000-4999
-Moscato,Rhône-style White Blend,0.35905683,150-499,500-999
-Mencía,Syrah,0.35892785,150-499,5000+
-Fiano,Sauvignon Blanc,0.35852128,150-499,5000+
-Malbec,Red Blend,0.358375,2000-4999,5000+
-Grüner Veltliner,Verdejo,0.3569394,1000-1999,150-499
-Mourvèdre,Pinotage,0.35591984,150-499,150-499
-Muscat,Sauvignon Blanc,0.35534948,150-499,5000+
-Bonarda,Red Blend,0.35517806,150-499,5000+
-Bordeaux-style Red Blend,Petite Sirah,0.35403633,5000+,1000-1999
-Garganega,Gewürztraminer,0.35352838,150-499,1000-1999
-Bonarda,Tannat,0.35342625,150-499,150-499
-Garnacha,Pinot Nero,0.35329598,150-499,150-499
-Grüner Veltliner,Sparkling Blend,0.35304505,1000-1999,2000-4999
-Pinot Bianco,Sémillon,0.35285836,150-499,150-499
-Blaufränkisch,Port,0.3528117,150-499,1000-1999
-Bonarda,Merlot,0.35100657,150-499,2000-4999
-Pinot Bianco,Sauvignon Blanc,0.35099643,150-499,5000+
-Tempranillo Blend,Torrontés,0.35079217,500-999,150-499
-Torrontés,Vermentino,0.3505329,150-499,150-499
-Pinot Nero,Pinotage,0.34931064,150-499,150-499
-Sparkling Blend,Verdicchio,0.3491587,2000-4999,150-499
-Albariño,Chenin Blanc,0.34874266,500-999,500-999
-Meritage,Zinfandel,0.34853944,150-499,2000-4999
-Nero d'Avola,Syrah,0.34803092,150-499,5000+
-Fiano,Sémillon,0.34802783,150-499,150-499
-Cabernet Sauvignon,Tinta de Toro,0.34797952,5000+,150-499
-Bonarda,Nero d'Avola,0.347903,150-499,150-499
-Cabernet Franc,Rhône-style Red Blend,0.34783638,1000-1999,1000-1999
-Cabernet Franc,Monastrell,0.34689447,1000-1999,150-499
-Aglianico,Dolcetto,0.3462938,150-499,150-499
-Chardonnay,Portuguese White,0.34605867,5000+,1000-1999
-Tannat,Tinta de Toro,0.34600377,150-499,150-499
-Fiano,Sparkling Blend,0.34598184,150-499,2000-4999
-Muscat,Sémillon,0.34597874,150-499,150-499
-Pinot Blanc,Torrontés,0.34483996,500-999,150-499
-Cabernet Blend,Petite Sirah,0.3432711,150-499,1000-1999
-Primitivo,Tannat,0.34319556,150-499,150-499
-Albariño,Garnacha,0.34294695,500-999,150-499
-Gewürztraminer,Sémillon,0.34277356,1000-1999,150-499
-Malbec,Petite Sirah,0.34276244,2000-4999,1000-1999
-G-S-M,Mourvèdre,0.34244794,150-499,150-499
-Glera,Grüner Veltliner,0.3422625,500-999,1000-1999
-Cabernet Blend,Syrah,0.34203106,150-499,5000+
-Chardonnay,Verdejo,0.34187615,5000+,150-499
-Garganega,Sparkling Blend,0.34182674,150-499,2000-4999
-Aglianico,Mencía,0.341367,150-499,150-499
-Petit Verdot,Tinta de Toro,0.34113902,150-499,150-499
-G-S-M,Pinotage,0.3402467,150-499,150-499
-Bonarda,Sangiovese,0.34020177,150-499,2000-4999
-Bonarda,Petit Verdot,0.3401599,150-499,150-499
-Primitivo,Sangiovese,0.3397058,150-499,2000-4999
-Aglianico,Cabernet Franc,0.33929753,150-499,1000-1999
-Chenin Blanc,Fiano,0.3390169,500-999,150-499
-Grenache,Zweigelt,0.33850193,500-999,150-499
-Bordeaux-style Red Blend,Pinot Noir,0.33713138,5000+,5000+
-Monastrell,Torrontés,0.33644798,150-499,150-499
-Grillo,Sémillon,0.33603525,150-499,150-499
-Garnacha,Merlot,0.33602226,150-499,2000-4999
-Montepulciano,Pinot Nero,0.3352436,150-499,150-499
-Dolcetto,Mourvèdre,0.3342514,150-499,150-499
-Mencía,Red Blend,0.3334903,150-499,5000+
-Pinot Gris,Prosecco,0.33345938,1000-1999,150-499
-Moscato,Torrontés,0.33273214,150-499,150-499
-Nebbiolo,Verdicchio,0.33260405,2000-4999,150-499
-Carmenère,Primitivo,0.33194548,500-999,150-499
-Blaufränkisch,Touriga Nacional,0.3319375,150-499,150-499
-Cabernet Sauvignon,Mourvèdre,0.33150673,5000+,150-499
-Sangiovese,Tinta de Toro,0.33142707,2000-4999,150-499
-Cabernet Franc,Zweigelt,0.33131915,1000-1999,150-499
-Mencía,Merlot,0.3311308,150-499,2000-4999
-Albariño,Bonarda,0.33108693,500-999,150-499
-Monastrell,Primitivo,0.33089662,150-499,150-499
-Shiraz,Tannat,0.3301211,1000-1999,150-499
-Cabernet Franc,Primitivo,0.3299697,1000-1999,150-499
-Merlot,Rhône-style Red Blend,0.32991457,2000-4999,1000-1999
-Grenache,Pinot Nero,0.3290297,500-999,150-499
-Cabernet Franc,Carmenère,0.3290152,1000-1999,500-999
-Roussanne,Sparkling Blend,0.32848346,150-499,2000-4999
-Melon,Pinot Blanc,0.32843545,150-499,500-999
-Portuguese White,Sauvignon Blanc,0.32786956,1000-1999,5000+
-Garganega,Pinot Blanc,0.32638896,150-499,500-999
-Tannat,Tempranillo,0.3260464,150-499,2000-4999
-Mencía,Nero d'Avola,0.3250869,150-499,150-499
-Petit Verdot,Primitivo,0.32502368,150-499,150-499
-Barbera,Merlot,0.32398427,500-999,2000-4999
-Primitivo,Shiraz,0.32377362,150-499,1000-1999
-Cabernet Franc,Mencía,0.32341498,1000-1999,150-499
-Merlot,Tannat,0.32177517,2000-4999,150-499
-"Corvina, Rondinella, Molinara",Nero d'Avola,0.32171422,1000-1999,150-499
-Verdejo,Vermentino,0.32147366,150-499,150-499
-Carmenère,Tannat,0.32121944,500-999,150-499
-Chenin Blanc,Grillo,0.32086992,500-999,150-499
-Aglianico,Tempranillo Blend,0.32068676,150-499,500-999
-Gamay,Rosé,0.3206737,1000-1999,2000-4999
-Grillo,Pinot Nero,0.3200884,150-499,150-499
-G-S-M,Syrah,0.31870836,150-499,5000+
-Grenache,Primitivo,0.31863877,500-999,150-499
-Nero d'Avola,Petit Verdot,0.31807494,150-499,150-499
-Cabernet Sauvignon-Merlot,Sangiovese,0.31797814,150-499,2000-4999
-Dolcetto,Pinot Nero,0.31767893,150-499,150-499
-Carmenère,Montepulciano,0.31764448,500-999,150-499
-Grenache,Syrah,0.31749508,500-999,5000+
-Grenache,Sangiovese,0.31699687,500-999,2000-4999
-Cabernet Franc,Dolcetto,0.3169127,1000-1999,150-499
-Carmenère,Syrah,0.31672508,500-999,5000+
-Mencía,Pinot Nero,0.31664926,150-499,150-499
-Albariño,Tempranillo,0.31618422,500-999,2000-4999
-Pinot Gris,Verdicchio,0.31561774,1000-1999,150-499
-Meritage,Mourvèdre,0.31542265,150-499,150-499
-Mencía,Primitivo,0.31527436,150-499,150-499
-Grillo,Nero d'Avola,0.31424695,150-499,150-499
-Malbec,Nero d'Avola,0.3141545,2000-4999,150-499
-Dolcetto,Sauvignon,0.31359214,150-499,150-499
-G-S-M,Merlot,0.31284064,150-499,2000-4999
-Aglianico,Monastrell,0.31259626,150-499,150-499
-Aglianico,Tempranillo,0.31223637,150-499,2000-4999
-Rhône-style White Blend,Sparkling Blend,0.3118779,500-999,2000-4999
-Petit Verdot,Tempranillo,0.3105872,150-499,2000-4999
-Melon,Pinot Gris,0.31049174,150-499,1000-1999
-Sémillon,Verdicchio,0.31041193,150-499,150-499
-Bordeaux-style Red Blend,Cabernet Sauvignon,0.3099761,5000+,5000+
-Bonarda,Pinot Nero,0.30973434,150-499,150-499
-Mencía,Shiraz,0.3093747,150-499,1000-1999
-Monastrell,Nero d'Avola,0.30915105,150-499,150-499
-Montepulciano,Petit Verdot,0.3089082,150-499,150-499
-Mourvèdre,Shiraz,0.30889446,150-499,1000-1999
-Albariño,Tempranillo Blend,0.30877534,500-999,500-999
-"Corvina, Rondinella, Molinara",Primitivo,0.30858004,1000-1999,150-499
-Mourvèdre,Pinot Noir,0.30849877,150-499,5000+
-Pinot Noir,Portuguese Red,0.30841133,5000+,2000-4999
-Pinot Noir,Zinfandel,0.30831033,5000+,2000-4999
-Aglianico,Cabernet Sauvignon-Merlot,0.30769092,150-499,150-499
-Barbera,Sangiovese Grosso,0.30700794,500-999,1000-1999
-Primitivo,Tinta de Toro,0.30617118,150-499,150-499
-Portuguese White,Vermentino,0.30555284,1000-1999,150-499
-Barbera,Carmenère,0.30552292,500-999,500-999
-Mencía,Torrontés,0.30550054,150-499,150-499
-Pinot Noir,Syrah,0.305011,5000+,5000+
-Cabernet Franc,Nebbiolo,0.30474448,1000-1999,2000-4999
-Petit Verdot,Shiraz,0.30337635,150-499,1000-1999
-G-S-M,Pinot Nero,0.30326197,150-499,150-499
-Gewürztraminer,Sparkling Blend,0.30317947,1000-1999,2000-4999
-Sauvignon Blanc,Verdicchio,0.30290306,5000+,150-499
-Meritage,Shiraz,0.3028565,150-499,1000-1999
-Cabernet Franc,Garnacha,0.3024892,1000-1999,150-499
-Moscato,Pinot Nero,0.30214304,150-499,150-499
-Chenin Blanc,Port,0.301812,500-999,1000-1999
-Prosecco,Verdejo,0.30158314,150-499,150-499
-Blaufränkisch,Cabernet Franc,0.30148607,150-499,1000-1999
-Cabernet Sauvignon-Merlot,Mourvèdre,0.30087882,150-499,150-499
-Albariño,Sémillon,0.30086422,500-999,150-499
-Cabernet Sauvignon,Pinotage,0.3008195,5000+,150-499
-Albariño,Monastrell,0.300624,500-999,150-499
-Monastrell,Pinot Nero,0.30051476,150-499,150-499
-Cabernet Blend,Shiraz,0.30040008,150-499,1000-1999
-Muscat,Pinot Nero,0.30026925,150-499,150-499
-Dolcetto,Grenache,0.29996702,150-499,500-999
-Bonarda,Syrah,0.29917574,150-499,5000+
-G-S-M,Shiraz,0.29909045,150-499,1000-1999
-Aglianico,Sangiovese Grosso,0.2988785,150-499,1000-1999
-Barbera,"Corvina, Rondinella, Molinara",0.2977591,500-999,1000-1999
-Bordeaux-style Red Blend,Cabernet Blend,0.2974537,5000+,150-499
-Carmenère,Merlot,0.2973215,500-999,2000-4999
-Cabernet Franc,Zinfandel,0.2971655,1000-1999,2000-4999
-Barbera,Petite Sirah,0.29707682,500-999,1000-1999
-Pinotage,Rhône-style Red Blend,0.2968859,150-499,1000-1999
-Mourvèdre,Tannat,0.2964074,150-499,150-499
-Muscat,Pinot Gris,0.29638025,150-499,1000-1999
-Grenache,Shiraz,0.296207,500-999,1000-1999
-Pinot Blanc,Verdicchio,0.2954995,500-999,150-499
-G-S-M,Zinfandel,0.29486763,150-499,2000-4999
-Chenin Blanc,Moscato,0.2945977,500-999,150-499
-Rhône-style Red Blend,Zinfandel,0.29451764,1000-1999,2000-4999
-Alvarinho,Pinot Blanc,0.29449594,150-499,500-999
-Nebbiolo,Sangiovese Grosso,0.29432267,2000-4999,1000-1999
-Dolcetto,Sangiovese Grosso,0.2941619,150-499,1000-1999
-Cabernet Blend,Petit Verdot,0.2940731,150-499,150-499
-Pinot Noir,Shiraz,0.29360056,5000+,1000-1999
-Grüner Veltliner,Verdicchio,0.29290324,1000-1999,150-499
-Pinot Nero,Torrontés,0.29254803,150-499,150-499
-Tannat,Zinfandel,0.29249004,150-499,2000-4999
-Petite Sirah,Tinta de Toro,0.2924737,1000-1999,150-499
-Grillo,Sparkling Blend,0.29203752,150-499,2000-4999
-Rhône-style Red Blend,Rhône-style White Blend,0.29177645,1000-1999,500-999
-Malbec,Nebbiolo,0.29161188,2000-4999,2000-4999
-Sangiovese,Verdicchio,0.29158115,2000-4999,150-499
-Merlot,Tinta de Toro,0.29133123,2000-4999,150-499
-Mencía,Nebbiolo,0.2908727,150-499,2000-4999
-Merlot,Tempranillo,0.29006663,2000-4999,2000-4999
-Pinotage,Zinfandel,0.28968257,150-499,2000-4999
-Barbera,Grenache,0.2891871,500-999,500-999
-Garganega,Grüner Veltliner,0.28914082,150-499,1000-1999
-Red Blend,Tempranillo,0.2890141,5000+,2000-4999
-Shiraz,Tempranillo,0.28879368,1000-1999,2000-4999
-Red Blend,Tempranillo Blend,0.28810105,5000+,500-999
-Alvarinho,Vermentino,0.2878636,150-499,150-499
-Pinot Noir,Touriga Nacional,0.2872993,5000+,150-499
-Alvarinho,Chardonnay,0.28675,150-499,5000+
-Portuguese White,Rosé,0.28617787,1000-1999,2000-4999
-Aglianico,Syrah,0.28586516,150-499,5000+
-Moscato,Sémillon,0.28580502,150-499,150-499
-Garnacha,Primitivo,0.28560966,150-499,150-499
-Prosecco,Sémillon,0.28528616,150-499,150-499
-Glera,Sauvignon Blanc,0.2849387,500-999,5000+
-Cabernet Sauvignon,Rhône-style Red Blend,0.28481036,5000+,1000-1999
-Nero d'Avola,Tinta de Toro,0.28463024,150-499,150-499
-Sémillon,Torrontés,0.28440213,150-499,150-499
-Tannat,Tempranillo Blend,0.28399006,150-499,500-999
-Pinot Nero,Tempranillo,0.28378272,150-499,2000-4999
-Barbera,Tannat,0.2833459,500-999,150-499
-Barbera,Malbec,0.282983,500-999,2000-4999
-Albariño,Carmenère,0.28258538,500-999,500-999
-"Corvina, Rondinella, Molinara",Nebbiolo,0.28226632,1000-1999,2000-4999
-Barbera,Shiraz,0.28188467,500-999,1000-1999
-Chardonnay,Sparkling Blend,0.28108183,5000+,2000-4999
-Cabernet Franc,Shiraz,0.28099534,1000-1999,1000-1999
-Melon,Sauvignon Blanc,0.28029013,150-499,5000+
-Pinotage,Tannat,0.28016633,150-499,150-499
-Prosecco,Sauvignon Blanc,0.28006595,150-499,5000+
-Monastrell,Syrah,0.2800325,150-499,5000+
-Garnacha,Tannat,0.27809966,150-499,150-499
-Barbera,Cabernet Sauvignon,0.27806604,500-999,5000+
-Garganega,Sangiovese,0.276618,150-499,2000-4999
-Petit Verdot,Rhône-style Red Blend,0.27599707,150-499,1000-1999
-Nero d'Avola,Verdicchio,0.2756137,150-499,150-499
-Albariño,Moscato,0.27555484,500-999,150-499
-Barbera,Pinot Nero,0.27550024,500-999,150-499
-Grüner Veltliner,Prosecco,0.27461183,1000-1999,150-499
-Grüner Veltliner,Sauvignon,0.2736555,1000-1999,150-499
-Gewürztraminer,Rosé,0.2733473,1000-1999,2000-4999
-Garganega,Pinot Nero,0.2731098,150-499,150-499
-Cabernet Sauvignon,Mencía,0.27292183,5000+,150-499
-Garganega,Rhône-style White Blend,0.27239457,150-499,500-999
-Cabernet Sauvignon,Primitivo,0.2718121,5000+,150-499
-Chardonnay,Melon,0.2717924,5000+,150-499
-Cabernet Sauvignon-Merlot,Monastrell,0.2714802,150-499,150-499
-Cabernet Sauvignon-Merlot,Garnacha,0.2710712,150-499,150-499
-"Corvina, Rondinella, Molinara",Dolcetto,0.27031738,1000-1999,150-499
-Muscat,Pinot Blanc,0.26984602,150-499,500-999
-Malbec,Montepulciano,0.26955584,2000-4999,150-499
-Petite Sirah,Rhône-style Red Blend,0.2688014,1000-1999,1000-1999
-Chenin Blanc,Verdicchio,0.26787132,500-999,150-499
-Garnacha,Petit Verdot,0.26782313,150-499,150-499
-Cabernet Sauvignon-Merlot,Mencía,0.2673682,150-499,150-499
-Blaufränkisch,Bordeaux-style Red Blend,0.26709956,150-499,5000+
-Chardonnay,Fiano,0.26687154,5000+,150-499
-Sémillon,Verdejo,0.26676515,150-499,150-499
-Dolcetto,Syrah,0.266599,150-499,5000+
-Grüner Veltliner,Torrontés,0.2662258,1000-1999,150-499
-Montepulciano,Syrah,0.26595774,150-499,5000+
-Cabernet Blend,Zinfandel,0.26513314,150-499,2000-4999
-Pinot Nero,Tempranillo Blend,0.26464045,150-499,500-999
-Cabernet Sauvignon,Red Blend,0.263431,5000+,5000+
-Cabernet Blend,Mourvèdre,0.26341498,150-499,150-499
-Malbec,Verdejo,0.26313987,2000-4999,150-499
-Chenin Blanc,Rhône-style White Blend,0.26149103,500-999,500-999
-Aglianico,Shiraz,0.26128396,150-499,1000-1999
-Garganega,Nebbiolo,0.261053,150-499,2000-4999
-Chenin Blanc,Gamay,0.26102757,500-999,1000-1999
-Garnacha,Sparkling Blend,0.26069674,150-499,2000-4999
-Pinot Bianco,Pinot Nero,0.26029962,150-499,150-499
-Pinot Gris,Sauvignon,0.259991,1000-1999,150-499
-Garnacha,Nero d'Avola,0.25985608,150-499,150-499
-Grenache,Zinfandel,0.25940084,500-999,2000-4999
-Chardonnay,Garganega,0.2586378,5000+,150-499
-Tannat,Touriga Nacional,0.2582568,150-499,150-499
-Sauvignon Blanc,Sparkling Blend,0.258102,5000+,2000-4999
-Fiano,Nero d'Avola,0.25794855,150-499,150-499
-Petite Sirah,Pinot Noir,0.25776047,1000-1999,5000+
-Mencía,Montepulciano,0.25747687,150-499,150-499
-Nero d'Avola,Sangiovese Grosso,0.25645897,150-499,1000-1999
-Albariño,Mencía,0.2559507,500-999,150-499
-Cabernet Blend,Tannat,0.25590596,150-499,150-499
-Nero d'Avola,Tempranillo,0.25587934,150-499,2000-4999
-Red Blend,Shiraz,0.25584003,5000+,1000-1999
-Petite Sirah,Pinotage,0.25559312,1000-1999,150-499
-Garnacha,Grenache,0.25327533,150-499,500-999
-Garganega,Sauvignon Blanc,0.25287557,150-499,5000+
-Sangiovese,Shiraz,0.25223562,2000-4999,1000-1999
-Alvarinho,Pinot Gris,0.25188413,150-499,1000-1999
-Bonarda,Cabernet Sauvignon-Merlot,0.25181103,150-499,150-499
-Red Blend,Tinta de Toro,0.25104487,5000+,150-499
-Bonarda,Shiraz,0.24994192,150-499,1000-1999
-Cabernet Sauvignon-Merlot,Tinta de Toro,0.24913895,150-499,150-499
-Pinot Nero,Prosecco,0.2488539,150-499,150-499
-Chenin Blanc,Glera,0.24844208,500-999,500-999
-Sangiovese,Sauvignon,0.24789298,2000-4999,150-499
-"Corvina, Rondinella, Molinara",Sangiovese,0.24776651,1000-1999,2000-4999
-Aglianico,Bonarda,0.24773386,150-499,150-499
-Chardonnay,Grillo,0.2474321,5000+,150-499
-Dolcetto,Merlot,0.24666685,150-499,2000-4999
-Chenin Blanc,Prosecco,0.2457886,500-999,150-499
-Bordeaux-style Red Blend,Tannat,0.24555539,5000+,150-499
-Chenin Blanc,Garganega,0.24532229,500-999,150-499
-Montepulciano,Tinta de Toro,0.24531344,150-499,150-499
-Cabernet Franc,Montepulciano,0.24516675,1000-1999,150-499
-Barbera,Mencía,0.24491009,500-999,150-499
-Shiraz,Tempranillo Blend,0.24475834,1000-1999,500-999
-Barbera,Cabernet Sauvignon-Merlot,0.24371484,500-999,150-499
-Monastrell,Montepulciano,0.24343617,150-499,150-499
-Aglianico,Cabernet Sauvignon,0.24240363,150-499,5000+
-Merlot,Sangiovese,0.24228942,2000-4999,2000-4999
-Cabernet Sauvignon-Merlot,Petite Sirah,0.24193947,150-499,1000-1999
-Monastrell,Shiraz,0.23931691,150-499,1000-1999
-Petite Sirah,Touriga Nacional,0.23923527,1000-1999,150-499
-Merlot,Nero d'Avola,0.23919606,2000-4999,150-499
-Bordeaux-style White Blend,Sémillon,0.238948,1000-1999,150-499
-Pinot Nero,Primitivo,0.23870888,150-499,150-499
-Montepulciano,Sauvignon,0.23828587,150-499,150-499
-Bonarda,Cabernet Franc,0.23703916,150-499,1000-1999
-Meritage,Tannat,0.23635845,150-499,150-499
-Cabernet Sauvignon-Merlot,Grenache,0.23585066,150-499,500-999
-Cabernet Sauvignon-Merlot,Tempranillo,0.23580912,150-499,2000-4999
-Barbera,Monastrell,0.23545292,500-999,150-499
-Montepulciano,Tempranillo,0.23505004,150-499,2000-4999
-Pinot Noir,Rhône-style Red Blend,0.23357889,5000+,1000-1999
-Moscato,Pinot Gris,0.23340376,150-499,1000-1999
-Cabernet Franc,G-S-M,0.23339173,1000-1999,150-499
-Cabernet Blend,Cabernet Franc,0.2326321,150-499,1000-1999
-Cabernet Franc,Tempranillo,0.23253363,1000-1999,2000-4999
-Cabernet Sauvignon-Merlot,Tannat,0.23253268,150-499,150-499
-Bonarda,Montepulciano,0.23241952,150-499,150-499
-Champagne Blend,Grüner Veltliner,0.23215277,1000-1999,1000-1999
-Aglianico,Verdicchio,0.23190734,150-499,150-499
-Syrah,Tempranillo,0.23184599,5000+,2000-4999
-Petite Sirah,Portuguese Red,0.23162818,1000-1999,2000-4999
-Primitivo,Sangiovese Grosso,0.23119417,150-499,1000-1999
-Glera,Sémillon,0.23065269,500-999,150-499
-Sauvignon,Sparkling Blend,0.22944182,150-499,2000-4999
-Nebbiolo,Tinta de Toro,0.22911513,2000-4999,150-499
-Carmenère,Sauvignon,0.22853678,500-999,150-499
-Carmenère,Shiraz,0.22820558,500-999,1000-1999
-Cabernet Sauvignon-Merlot,Nero d'Avola,0.22803703,150-499,150-499
-Cabernet Franc,Nero d'Avola,0.22703588,1000-1999,150-499
-Bonarda,Sparkling Blend,0.22672305,150-499,2000-4999
-Monastrell,Nebbiolo,0.22644821,150-499,2000-4999
-Fiano,Nebbiolo,0.22629641,150-499,2000-4999
-Chenin Blanc,Muscat,0.2262455,500-999,150-499
-Cabernet Sauvignon-Merlot,Tempranillo Blend,0.22588766,150-499,500-999
-Malbec,Pinot Nero,0.22522858,2000-4999,150-499
-Petit Verdot,Tempranillo Blend,0.22495732,150-499,500-999
-Garganega,Nero d'Avola,0.22429985,150-499,150-499
-Nebbiolo,Primitivo,0.22403528,2000-4999,150-499
-Pinot Blanc,Sauvignon,0.22305548,500-999,150-499
-Moscato,Sauvignon Blanc,0.22259912,150-499,5000+
-Nebbiolo,Shiraz,0.22161368,2000-4999,1000-1999
-Merlot,Zweigelt,0.22141173,2000-4999,150-499
-Barbera,Zinfandel,0.22134297,500-999,2000-4999
-Montepulciano,Tannat,0.22059575,150-499,150-499
-Aglianico,Sauvignon,0.22040057,150-499,150-499
-Cabernet Sauvignon,Monastrell,0.21957672,5000+,150-499
-Grüner Veltliner,Rhône-style White Blend,0.2186152,1000-1999,500-999
-Alvarinho,Grüner Veltliner,0.21841417,150-499,1000-1999
-Dolcetto,Zweigelt,0.2182562,150-499,150-499
-Chardonnay,Verdicchio,0.21773413,5000+,150-499
-Dolcetto,Petit Verdot,0.21735674,150-499,150-499
-Cabernet Sauvignon-Merlot,Primitivo,0.21689105,150-499,150-499
-Portuguese Red,Zweigelt,0.21502227,2000-4999,150-499
-Montepulciano,Mourvèdre,0.2149079,150-499,150-499
-Sparkling Blend,Tempranillo,0.21484217,2000-4999,2000-4999
-Pinotage,Zweigelt,0.21462557,150-499,150-499
-Primitivo,Tempranillo,0.21344963,150-499,2000-4999
-Nero d'Avola,Tempranillo Blend,0.21323107,150-499,500-999
-Pinot Grigio,Portuguese White,0.2129491,1000-1999,1000-1999
-Nero d'Avola,Tannat,0.21251963,150-499,150-499
-Malbec,Torrontés,0.21201824,2000-4999,150-499
-Cabernet Franc,Pinot Nero,0.21190995,1000-1999,150-499
-"Corvina, Rondinella, Molinara",Garganega,0.21147163,1000-1999,150-499
-Fiano,Sangiovese,0.21115635,150-499,2000-4999
-Bordeaux-style White Blend,Sauvignon Blanc,0.21110171,1000-1999,5000+
-Bonarda,Cabernet Sauvignon,0.2098895,150-499,5000+
-Carmenère,G-S-M,0.20919228,500-999,150-499
-Chenin Blanc,Portuguese Red,0.20915237,500-999,2000-4999
-Barbera,Cabernet Blend,0.20907794,500-999,150-499
-Montepulciano,Tempranillo Blend,0.20851523,150-499,500-999
-Barbera,Bonarda,0.20726463,500-999,150-499
-Muscat,Rosé,0.20706417,150-499,2000-4999
-Grüner Veltliner,Muscat,0.20652744,1000-1999,150-499
-Chardonnay,Glera,0.20582397,5000+,500-999
-Malbec,Mourvèdre,0.20580508,2000-4999,150-499
-Dolcetto,Petite Sirah,0.20532396,150-499,1000-1999
-Sparkling Blend,Tempranillo Blend,0.20517921,2000-4999,500-999
-Dolcetto,Nebbiolo,0.20399585,150-499,2000-4999
-Nebbiolo,Sauvignon,0.20346701,2000-4999,150-499
-Aglianico,Garnacha,0.20257542,150-499,150-499
-Garganega,Sémillon,0.20201087,150-499,150-499
-Barbera,Tinta de Toro,0.20134346,500-999,150-499
-Garnacha,Muscat,0.2011651,150-499,150-499
-Garnacha,Montepulciano,0.20113027,150-499,150-499
-Petit Verdot,Zinfandel,0.20104502,150-499,2000-4999
-Portuguese Red,Tannat,0.19971283,2000-4999,150-499
-Cabernet Sauvignon-Merlot,Nebbiolo,0.19940433,150-499,2000-4999
-Blaufränkisch,Petite Sirah,0.19931018,150-499,1000-1999
-Red Blend,Tannat,0.19745837,5000+,150-499
-Pinot Nero,Rosé,0.1965712,150-499,2000-4999
-Merlot,Montepulciano,0.19626513,2000-4999,150-499
-Tinta de Toro,Verdejo,0.19611648,150-499,150-499
-Dolcetto,Grillo,0.1957084,150-499,150-499
-Blaufränkisch,Tannat,0.19554564,150-499,150-499
-Melon,Rosé,0.19498456,150-499,2000-4999
-Bordeaux-style Red Blend,Petit Verdot,0.19478974,5000+,150-499
-Petite Sirah,Red Blend,0.1946469,1000-1999,5000+
-Merlot,Tempranillo Blend,0.19313622,2000-4999,500-999
-Grüner Veltliner,Sémillon,0.19159032,1000-1999,150-499
-Nero d'Avola,Shiraz,0.18974414,150-499,1000-1999
-Blaufränkisch,Sangiovese,0.18858607,150-499,2000-4999
-Tinta de Toro,Zinfandel,0.18802923,150-499,2000-4999
-Dolcetto,Zinfandel,0.18775348,150-499,2000-4999
-Sauvignon,Sémillon,0.18774003,150-499,150-499
-Nero d'Avola,Zweigelt,0.18731907,150-499,150-499
-Aglianico,Fiano,0.1868732,150-499,150-499
-Cabernet Sauvignon-Merlot,Pinot Nero,0.1860529,150-499,150-499
-G-S-M,Garnacha,0.18577076,150-499,150-499
-Sangiovese,Syrah,0.18548596,2000-4999,5000+
-G-S-M,White Blend,0.18520088,150-499,2000-4999
-Moscato,Pinot Blanc,0.18493599,150-499,500-999
-Aglianico,Blaufränkisch,0.1834146,150-499,150-499
-Red Blend,Rhône-style White Blend,0.18311712,5000+,500-999
-Meritage,Pinotage,0.18310969,150-499,150-499
-Montepulciano,Verdicchio,0.18294616,150-499,150-499
-Bordeaux-style White Blend,Grüner Veltliner,0.18203762,1000-1999,1000-1999
-Sparkling Blend,Vermentino,0.18150748,2000-4999,150-499
-Garnacha,Nebbiolo,0.18100733,150-499,2000-4999
-Moscato,Verdejo,0.1809608,150-499,150-499
-Alvarinho,Sémillon,0.18047887,150-499,150-499
-Red Blend,Zinfandel,0.17969912,5000+,2000-4999
-Pinot Noir,Rosé,0.1792346,5000+,2000-4999
-Pinot Nero,Verdejo,0.17922945,150-499,150-499
-Garnacha,Shiraz,0.17888498,150-499,1000-1999
-Alvarinho,Rosé,0.17884457,150-499,2000-4999
-Cabernet Sauvignon,Carmenère,0.17861822,5000+,500-999
-Mencía,Petite Sirah,0.17754343,150-499,1000-1999
-Sangiovese Grosso,Shiraz,0.17703295,1000-1999,1000-1999
-Cabernet Blend,"Corvina, Rondinella, Molinara",0.17664152,150-499,1000-1999
-Montepulciano,Shiraz,0.1766315,150-499,1000-1999
-Aglianico,Cabernet Blend,0.17600536,150-499,150-499
-Melon,Vermentino,0.17591134,150-499,150-499
-Chardonnay,Torrontés,0.17579421,5000+,150-499
-Bonarda,G-S-M,0.17488421,150-499,150-499
-Barbera,Garnacha,0.17488208,500-999,150-499
-Chenin Blanc,Touriga Nacional,0.17453352,500-999,150-499
-Chenin Blanc,Verdejo,0.17313847,500-999,150-499
-G-S-M,Petit Verdot,0.17294037,150-499,150-499
-Cabernet Sauvignon,Tempranillo,0.17263329,5000+,2000-4999
-Rosé,Sparkling Blend,0.17210138,2000-4999,2000-4999
-Cabernet Franc,Tinta de Toro,0.17165864,1000-1999,150-499
-Grenache,Nebbiolo,0.1714629,500-999,2000-4999
-Meritage,Primitivo,0.17132193,150-499,150-499
-Rhône-style Red Blend,Sangiovese,0.17050639,1000-1999,2000-4999
-Barbera,Zweigelt,0.17022172,500-999,150-499
-Moscato,Rosé,0.17021812,150-499,2000-4999
-Alvarinho,Sauvignon Blanc,0.17002046,150-499,5000+
-Mourvèdre,Sangiovese Grosso,0.16971183,150-499,1000-1999
-Pinot Noir,Port,0.16965297,5000+,1000-1999
-Nebbiolo,Torrontés,0.16894428,2000-4999,150-499
-Bonarda,Petite Sirah,0.16883291,150-499,1000-1999
-Cabernet Sauvignon,Nero d'Avola,0.16859245,5000+,150-499
-Cabernet Sauvignon-Merlot,Dolcetto,0.1685535,150-499,150-499
-Gewürztraminer,Portuguese White,0.16833149,1000-1999,1000-1999
-Chenin Blanc,Sparkling Blend,0.16824135,500-999,2000-4999
-Aglianico,Petite Sirah,0.16751276,150-499,1000-1999
-Primitivo,Rhône-style Red Blend,0.16692686,150-499,1000-1999
-Blaufränkisch,Champagne Blend,0.16680399,150-499,1000-1999
-Nebbiolo,Tannat,0.1663419,2000-4999,150-499
-Dolcetto,Rhône-style Red Blend,0.1660534,150-499,1000-1999
-Meritage,Pinot Noir,0.16579509,150-499,5000+
-Bordeaux-style Red Blend,Cabernet Franc,0.16548072,5000+,1000-1999
-Grenache,Petit Verdot,0.16520873,500-999,150-499
-Champagne Blend,Pinot Noir,0.16513313,1000-1999,5000+
-Gewürztraminer,Pinot Nero,0.16452567,1000-1999,150-499
-Aglianico,Garganega,0.16449639,150-499,150-499
-Mourvèdre,Nero d'Avola,0.16445263,150-499,150-499
-Chardonnay,Prosecco,0.16439727,5000+,150-499
-Cabernet Sauvignon-Merlot,Montepulciano,0.16408588,150-499,150-499
-Monastrell,Sparkling Blend,0.16390717,150-499,2000-4999
-Barbera,Tempranillo,0.16380726,500-999,2000-4999
-Montepulciano,Petite Sirah,0.16369033,150-499,1000-1999
-Portuguese White,Sémillon,0.16361691,1000-1999,150-499
-Malbec,Zinfandel,0.16207103,2000-4999,2000-4999
-Barbera,Rhône-style Red Blend,0.16196568,500-999,1000-1999
-Bordeaux-style White Blend,Rosé,0.1617732,1000-1999,2000-4999
-Champagne Blend,Pinot Blanc,0.16168869,1000-1999,500-999
-Cabernet Sauvignon-Merlot,Zinfandel,0.16125464,150-499,2000-4999
-Cabernet Blend,Sangiovese Grosso,0.16073212,150-499,1000-1999
-Carmenère,Verdicchio,0.16018303,500-999,150-499
-Blaufränkisch,Rosé,0.16010766,150-499,2000-4999
-Garnacha,Syrah,0.1592427,150-499,5000+
-Dolcetto,Vermentino,0.15892251,150-499,150-499
-Champagne Blend,Sparkling Blend,0.15840961,1000-1999,2000-4999
-Garganega,Tempranillo Blend,0.15688404,150-499,500-999
-Carmenère,Mourvèdre,0.1565898,500-999,150-499
-Portuguese White,White Blend,0.15658024,1000-1999,2000-4999
-Aglianico,Rhône-style Red Blend,0.1565738,150-499,1000-1999
-Champagne Blend,Chardonnay,0.15595149,1000-1999,5000+
-Chardonnay,Gewürztraminer,0.15558136,5000+,1000-1999
-Nero d'Avola,Petite Sirah,0.15545806,150-499,1000-1999
-Primitivo,Tempranillo Blend,0.15499595,150-499,500-999
-Red Blend,Sauvignon,0.15390727,5000+,150-499
-Sangiovese,Tannat,0.15364312,2000-4999,150-499
-Blaufränkisch,Petit Verdot,0.15344,150-499,150-499
-Grenache,Petite Sirah,0.15288371,500-999,1000-1999
-Blaufränkisch,Shiraz,0.15249366,150-499,1000-1999
-Tinta de Toro,Torrontés,0.15223548,150-499,150-499
-Sangiovese,Torrontés,0.1517704,2000-4999,150-499
-Pinot Nero,White Blend,0.15157092,150-499,2000-4999
-Garganega,Montepulciano,0.15118389,150-499,150-499
-Bordeaux-style White Blend,Chardonnay,0.15089786,1000-1999,5000+
-Dolcetto,Moscato,0.15049148,150-499,150-499
-Sangiovese Grosso,Syrah,0.15037584,1000-1999,5000+
-"Corvina, Rondinella, Molinara",Red Blend,0.15019879,1000-1999,5000+
-Aglianico,Meritage,0.15002102,150-499,150-499
-Fiano,Montepulciano,0.1498639,150-499,150-499
-Portuguese Red,Rosé,0.1497707,2000-4999,2000-4999
-Cabernet Sauvignon,G-S-M,0.14972702,5000+,150-499
-Cabernet Sauvignon,Sangiovese,0.14966354,5000+,2000-4999
-Rosé,Touriga Nacional,0.14950961,2000-4999,150-499
-Bonarda,Zinfandel,0.14847894,150-499,2000-4999
-Nebbiolo,Rhône-style Red Blend,0.14798236,2000-4999,1000-1999
-Cabernet Sauvignon,Touriga Nacional,0.14791422,5000+,150-499
-Portuguese White,Roussanne,0.14750852,1000-1999,150-499
-Grüner Veltliner,Rosé,0.14613003,1000-1999,2000-4999
-Cabernet Blend,Touriga Nacional,0.14559926,150-499,150-499
-Champagne Blend,Zweigelt,0.14557888,1000-1999,150-499
-G-S-M,Primitivo,0.14556496,150-499,150-499
-Bonarda,Nebbiolo,0.14461297,150-499,2000-4999
-Blaufränkisch,Cabernet Sauvignon,0.14446174,150-499,5000+
-Blaufränkisch,Pinotage,0.14405686,150-499,150-499
-Malbec,Meritage,0.14400367,2000-4999,150-499
-Pinot Nero,Tinta de Toro,0.14362596,150-499,150-499
-Bordeaux-style Red Blend,Rhône-style Red Blend,0.14260903,5000+,1000-1999
-Chenin Blanc,Sauvignon,0.14207187,500-999,150-499
-Grillo,Montepulciano,0.14135486,150-499,150-499
-Cabernet Franc,Tempranillo Blend,0.14104168,1000-1999,500-999
-Port,Zweigelt,0.13983513,1000-1999,150-499
-Sparkling Blend,Sémillon,0.13887697,2000-4999,150-499
-Syrah,Tempranillo Blend,0.13887653,5000+,500-999
-Grenache,Montepulciano,0.138825,500-999,150-499
-Glera,Nero d'Avola,0.13877507,500-999,150-499
-G-S-M,Petite Sirah,0.13814415,150-499,1000-1999
-Melon,Sémillon,0.13734919,150-499,150-499
-Tempranillo Blend,Verdicchio,0.13693511,500-999,150-499
-Carmenère,Muscat,0.13611487,500-999,150-499
-Grenache,Meritage,0.13594891,500-999,150-499
-Touriga Nacional,Zweigelt,0.13557112,150-499,150-499
-Bordeaux-style White Blend,Pinot Gris,0.13497324,1000-1999,1000-1999
-Monastrell,Petite Sirah,0.13490558,150-499,1000-1999
-Albariño,Tinta de Toro,0.13474694,500-999,150-499
-Grenache,Monastrell,0.1344071,500-999,150-499
-Barbera,Blaufränkisch,0.13364027,500-999,150-499
-Cabernet Blend,Dolcetto,0.13313922,150-499,150-499
-Pinot Nero,Rhône-style Red Blend,0.13213432,150-499,1000-1999
-Aglianico,Mourvèdre,0.13210607,150-499,150-499
-Bordeaux-style White Blend,Vermentino,0.13183144,1000-1999,150-499
-Blaufränkisch,Nero d'Avola,0.13076574,150-499,150-499
-Chenin Blanc,Torrontés,0.13061723,500-999,150-499
-Dolcetto,Fiano,0.12991935,150-499,150-499
-Monastrell,Mourvèdre,0.12949134,150-499,150-499
-"Corvina, Rondinella, Molinara",Fiano,0.12854001,1000-1999,150-499
-Mencía,Sparkling Blend,0.12850466,150-499,2000-4999
-Nebbiolo,Syrah,0.12847945,2000-4999,5000+
-Aglianico,Merlot,0.12804618,150-499,2000-4999
-Grenache,Nero d'Avola,0.12783092,500-999,150-499
-Dolcetto,Prosecco,0.12756267,150-499,150-499
-Carmenère,Dolcetto,0.1275321,500-999,150-499
-G-S-M,Sangiovese,0.12751256,150-499,2000-4999
-G-S-M,Monastrell,0.1272645,150-499,150-499
-Carmenère,Garganega,0.12704113,500-999,150-499
-Dolcetto,Shiraz,0.12696758,150-499,1000-1999
-"Corvina, Rondinella, Molinara",Tempranillo Blend,0.1266852,1000-1999,500-999
-Carmenère,Grenache,0.1266709,500-999,500-999
-Champagne Blend,Pinot Gris,0.12632507,1000-1999,1000-1999
-Carmenère,Fiano,0.12627156,500-999,150-499
-Rhône-style Red Blend,Sangiovese Grosso,0.12558453,1000-1999,1000-1999
-Petit Verdot,Pinot Nero,0.12388028,150-499,150-499
-"Corvina, Rondinella, Molinara",Vermentino,0.12336185,1000-1999,150-499
-Petite Sirah,Port,0.12322985,1000-1999,1000-1999
-Barbera,Tempranillo Blend,0.1231917,500-999,500-999
-"Corvina, Rondinella, Molinara",Tinta de Toro,0.12274887,1000-1999,150-499
-Sangiovese,Zweigelt,0.12274459,2000-4999,150-499
-Cabernet Blend,Pinot Noir,0.12261601,150-499,5000+
-Primitivo,Zweigelt,0.12251439,150-499,150-499
-Dolcetto,Tannat,0.12207793,150-499,150-499
-Grüner Veltliner,Zweigelt,0.12190282,1000-1999,150-499
-Barbera,Sauvignon,0.12118893,500-999,150-499
-Albariño,Malbec,0.12058502,500-999,2000-4999
-Cabernet Blend,Portuguese Red,0.12051267,150-499,2000-4999
-Nero d'Avola,Zinfandel,0.119980626,150-499,2000-4999
-Cabernet Sauvignon,Montepulciano,0.1181847,5000+,150-499
-Garnacha,Mourvèdre,0.11730355,150-499,150-499
-Bonarda,Muscat,0.11712589,150-499,150-499
-Nero d'Avola,Vermentino,0.11450043,150-499,150-499
-Pinot Blanc,Rosé,0.113686025,500-999,2000-4999
-G-S-M,Nero d'Avola,0.113292746,150-499,150-499
-Dolcetto,G-S-M,0.112874515,150-499,150-499
-Carmenère,Sparkling Blend,0.11240661,500-999,2000-4999
-G-S-M,Mencía,0.112383656,150-499,150-499
-Blaufränkisch,Malbec,0.11234586,150-499,2000-4999
-Grenache,Malbec,0.11174384,500-999,2000-4999
-Cabernet Sauvignon,Grenache,0.11055701,5000+,500-999
-Blaufränkisch,Nebbiolo,0.11007452,150-499,2000-4999
-Bonarda,Sauvignon,0.10959108,150-499,150-499
-Petit Verdot,Sangiovese Grosso,0.10949609,150-499,1000-1999
-Rhône-style Red Blend,Tannat,0.10910376,1000-1999,150-499
-Cabernet Sauvignon,Portuguese Red,0.109064534,5000+,2000-4999
-Garganega,Tempranillo,0.10871771,150-499,2000-4999
-Pinot Bianco,Portuguese White,0.10849648,150-499,1000-1999
-Cabernet Sauvignon,Tempranillo Blend,0.108438715,5000+,500-999
-Red Blend,White Blend,0.108213,5000+,2000-4999
-Montepulciano,Moscato,0.107649595,150-499,150-499
-"Corvina, Rondinella, Molinara",Verdicchio,0.10698166,1000-1999,150-499
-Bordeaux-style White Blend,Pinot Blanc,0.10450153,1000-1999,500-999
-Alvarinho,White Blend,0.103878796,150-499,2000-4999
-Barbera,Meritage,0.10303887,500-999,150-499
-G-S-M,Malbec,0.102865234,150-499,2000-4999
-Cabernet Blend,Montepulciano,0.102685675,150-499,150-499
-"Corvina, Rondinella, Molinara",Syrah,0.102240965,1000-1999,5000+
-Melon,Pinot Grigio,0.10201156,150-499,1000-1999
-Cabernet Sauvignon,Sangiovese Grosso,0.10193248,5000+,1000-1999
-Mencía,Mourvèdre,0.101440534,150-499,150-499
-Cabernet Sauvignon,Garnacha,0.10137218,5000+,150-499
-Pinotage,Sangiovese Grosso,0.101017445,150-499,1000-1999
-Sparkling Blend,Tinta de Toro,0.10072243,2000-4999,150-499
-Blaufränkisch,Merlot,0.10069147,150-499,2000-4999
-Pinot Noir,Sangiovese Grosso,0.1004995,5000+,1000-1999
-Aglianico,Grillo,0.099467754,150-499,150-499
-Grillo,Sangiovese,0.09822988,150-499,2000-4999
-Muscat,Nebbiolo,0.096703894,150-499,2000-4999
-Alvarinho,Pinot Bianco,0.09589067,150-499,150-499
-Meritage,Nero d'Avola,0.09560686,150-499,150-499
-Fiano,Tempranillo Blend,0.095542446,150-499,500-999
-Alvarinho,Roussanne,0.0953083,150-499,150-499
-Bonarda,Mourvèdre,0.09408355,150-499,150-499
-Gamay,Sangiovese Grosso,0.09371039,1000-1999,1000-1999
-Cabernet Blend,Nero d'Avola,0.09368281,150-499,150-499
-Bordeaux-style White Blend,Pinot Noir,0.09360866,1000-1999,5000+
-Grillo,Nebbiolo,0.09303733,150-499,2000-4999
-Muscat,Sangiovese,0.092205904,150-499,2000-4999
-Garnacha,Sauvignon,0.09156315,150-499,150-499
-Mencía,Zinfandel,0.09047649,150-499,2000-4999
-Bordeaux-style Red Blend,Syrah,0.09032406,5000+,5000+
-Mourvèdre,Tinta de Toro,0.09012771,150-499,150-499
-Cabernet Franc,Sangiovese Grosso,0.08960281,1000-1999,1000-1999
-Nero d'Avola,Rhône-style Red Blend,0.08846268,150-499,1000-1999
-Bonarda,Grenache,0.08779507,150-499,500-999
-Petit Verdot,Pinot Noir,0.08772153,150-499,5000+
-Cabernet Sauvignon,Nebbiolo,0.08730099,5000+,2000-4999
-Carmenère,Rhône-style Red Blend,0.08713449,500-999,1000-1999
-Monastrell,Muscat,0.086960405,150-499,150-499
-Alvarinho,Pinot Grigio,0.08604468,150-499,1000-1999
-"Corvina, Rondinella, Molinara",Moscato,0.085984126,1000-1999,150-499
-Cabernet Blend,Primitivo,0.08570721,150-499,150-499
-Primitivo,Sauvignon,0.08559623,150-499,150-499
-Port,Tannat,0.08552136,1000-1999,150-499
-Blaufränkisch,Dolcetto,0.08550203,150-499,150-499
-Bonarda,Glera,0.0852617,150-499,500-999
-Grenache,Mencía,0.08519015,500-999,150-499
-Montepulciano,Zweigelt,0.08490923,150-499,150-499
-Bonarda,Dolcetto,0.084837936,150-499,150-499
-Chardonnay,Muscat,0.084835455,5000+,150-499
-Sangiovese,Verdejo,0.08475323,2000-4999,150-499
-"Corvina, Rondinella, Molinara",Shiraz,0.08435773,1000-1999,1000-1999
-Cabernet Franc,Gamay,0.084075674,1000-1999,1000-1999
-Pinot Noir,Pinotage,0.08404968,5000+,150-499
-Sangiovese Grosso,Tinta de Toro,0.08382873,1000-1999,150-499
-Nero d'Avola,Pinot Bianco,0.083779834,150-499,150-499
-Dolcetto,Garnacha,0.08356903,150-499,150-499
-Mourvèdre,Rosé,0.083139904,150-499,2000-4999
-Cabernet Franc,Rosé,0.0827914,1000-1999,2000-4999
-Montepulciano,Zinfandel,0.0827333,150-499,2000-4999
-Blaufränkisch,Grenache,0.08261002,150-499,500-999
-Pinot Nero,Rhône-style White Blend,0.08225245,150-499,500-999
-Pinot Nero,Zweigelt,0.08203663,150-499,150-499
-Port,Rosé,0.081027225,1000-1999,2000-4999
-Sangiovese Grosso,Tempranillo Blend,0.080297135,1000-1999,500-999
-Sangiovese Grosso,Tannat,0.080118254,1000-1999,150-499
-"Corvina, Rondinella, Molinara",Mourvèdre,0.07995153,1000-1999,150-499
-"Corvina, Rondinella, Molinara",Port,0.07987199,1000-1999,1000-1999
-Aglianico,Grenache,0.078488015,150-499,500-999
-Melon,Pinot Noir,0.07831889,150-499,5000+
-Dolcetto,Rosé,0.07818985,150-499,2000-4999
-Bonarda,Fiano,0.07783449,150-499,150-499
-Cabernet Blend,Tinta de Toro,0.07776551,150-499,150-499
-Montepulciano,Rhône-style Red Blend,0.07761028,150-499,1000-1999
-Blaufränkisch,Montepulciano,0.07733171,150-499,150-499
-Cabernet Sauvignon-Merlot,Pinot Noir,0.07638234,150-499,5000+
-Monastrell,Sauvignon,0.07578136,150-499,150-499
-Glera,Sangiovese,0.07557218,500-999,2000-4999
-Nebbiolo,Verdejo,0.07528528,2000-4999,150-499
-"Corvina, Rondinella, Molinara",Grillo,0.075209,1000-1999,150-499
-Blaufränkisch,Melon,0.07516739,150-499,150-499
-Muscat,Tempranillo Blend,0.07508161,150-499,500-999
-Garnacha,Zweigelt,0.07470411,150-499,150-499
-Bordeaux-style White Blend,"Corvina, Rondinella, Molinara",0.07408193,1000-1999,1000-1999
-Pinot Noir,Tannat,0.07327786,5000+,150-499
-G-S-M,Tinta de Toro,0.07304181,150-499,150-499
-Albariño,Pinot Nero,0.07293108,500-999,150-499
-Monastrell,Zinfandel,0.072116405,150-499,2000-4999
-Bonarda,Garganega,0.07174441,150-499,150-499
-Carmenère,Grillo,0.07136528,500-999,150-499
-Moscato,Nero d'Avola,0.07135975,150-499,150-499
-Bordeaux-style Red Blend,Mourvèdre,0.07124422,5000+,150-499
-Red Blend,Sangiovese Grosso,0.070869304,5000+,1000-1999
-Dolcetto,Monastrell,0.070632376,150-499,150-499
-Portuguese White,Viognier,0.07039141,1000-1999,1000-1999
-G-S-M,Tempranillo,0.069985025,150-499,2000-4999
-Tempranillo,Verdicchio,0.06992842,2000-4999,150-499
-Petite Sirah,Sangiovese Grosso,0.069437236,1000-1999,1000-1999
-Grenache,Sangiovese Grosso,0.0690646,500-999,1000-1999
-Grüner Veltliner,Moscato,0.06905359,1000-1999,150-499
-Dolcetto,Verdicchio,0.06897096,150-499,150-499
-Barbera,G-S-M,0.06889547,500-999,150-499
-Mourvèdre,Sangiovese,0.06806351,150-499,2000-4999
-Dolcetto,Glera,0.0678479,150-499,500-999
-Sangiovese Grosso,Zinfandel,0.06768429,1000-1999,2000-4999
-Meritage,Tinta de Toro,0.06694919,150-499,150-499
-Bordeaux-style Red Blend,Sangiovese Grosso,0.06691678,5000+,1000-1999
-Grenache,Tempranillo,0.06671517,500-999,2000-4999
-Cabernet Franc,Touriga Nacional,0.06668237,1000-1999,150-499
-Pinot Gris,Rosé,0.06519105,1000-1999,2000-4999
-Petit Verdot,Touriga Nacional,0.06495577,150-499,150-499
-Blaufränkisch,Mencía,0.06476546,150-499,150-499
-Meritage,Touriga Nacional,0.06298645,150-499,150-499
-Garnacha,Glera,0.06268537,150-499,500-999
-Meritage,Portuguese Red,0.06235347,150-499,2000-4999
-Gamay,Petite Sirah,0.06225013,1000-1999,1000-1999
-Garnacha,Verdicchio,0.062172033,150-499,150-499
-Cabernet Blend,Sangiovese,0.062078416,150-499,2000-4999
-Fiano,Garnacha,0.06207766,150-499,150-499
-Garganega,Mencía,0.06135679,150-499,150-499
-Alvarinho,Gewürztraminer,0.060794238,150-499,1000-1999
-"Corvina, Rondinella, Molinara",Portuguese Red,0.060142342,1000-1999,2000-4999
-Blaufränkisch,Grüner Veltliner,0.059906784,150-499,1000-1999
-Bordeaux-style White Blend,Gewürztraminer,0.059546553,1000-1999,1000-1999
-Garganega,Garnacha,0.059293464,150-499,150-499
-Montepulciano,Vermentino,0.059153154,150-499,150-499
-Cabernet Blend,Nebbiolo,0.05901394,150-499,2000-4999
-"Corvina, Rondinella, Molinara",Rhône-style Red Blend,0.058720894,1000-1999,1000-1999
-Malbec,Rhône-style Red Blend,0.058351934,2000-4999,1000-1999
-Cabernet Sauvignon-Merlot,Sangiovese Grosso,0.056988627,150-499,1000-1999
-G-S-M,Pinot Noir,0.056725457,150-499,5000+
-Bonarda,Riesling,0.056383155,150-499,5000+
-Carmenère,Meritage,0.056309037,500-999,150-499
-G-S-M,Sémillon,0.0557347,150-499,150-499
-Bonarda,Viognier,0.05499176,150-499,1000-1999
-Blaufränkisch,Syrah,0.054652248,150-499,5000+
-Portuguese White,Zweigelt,0.054287583,1000-1999,150-499
-G-S-M,Nebbiolo,0.054220334,150-499,2000-4999
-G-S-M,Prosecco,0.05354891,150-499,150-499
-Fiano,Monastrell,0.053514097,150-499,150-499
-Rhône-style Red Blend,Tinta de Toro,0.053482197,1000-1999,150-499
-Dolcetto,Pinot Bianco,0.053453095,150-499,150-499
-"Corvina, Rondinella, Molinara",Tannat,0.05342727,1000-1999,150-499
-Portuguese Red,Sangiovese Grosso,0.053332172,2000-4999,1000-1999
-Bonarda,Meritage,0.053036522,150-499,150-499
-"Corvina, Rondinella, Molinara",Sauvignon,0.05293317,1000-1999,150-499
-Meritage,Nebbiolo,0.052931365,150-499,2000-4999
-Garganega,Monastrell,0.052028663,150-499,150-499
-Bordeaux-style Red Blend,Cabernet Sauvignon-Merlot,0.051455177,5000+,150-499
-Meritage,Sangiovese,0.05098337,150-499,2000-4999
-Chenin Blanc,Rosé,0.050758727,500-999,2000-4999
-Bordeaux-style Red Blend,Zinfandel,0.050360482,5000+,2000-4999
-Dolcetto,Malbec,0.050038476,150-499,2000-4999
-Bonarda,Prosecco,0.049666576,150-499,150-499
-G-S-M,Sparkling Blend,0.04965538,150-499,2000-4999
-Barbera,Garganega,0.04954715,500-999,150-499
-Mencía,Sauvignon,0.04937143,150-499,150-499
-Petite Sirah,Tempranillo,0.04932582,1000-1999,2000-4999
-Cabernet Blend,Grenache,0.04930718,150-499,500-999
-G-S-M,Tempranillo Blend,0.048425853,150-499,500-999
-Alvarinho,Viognier,0.048058134,150-499,1000-1999
-Grenache,Moscato,0.047712665,500-999,150-499
-Barbera,Moscato,0.047484517,500-999,150-499
-Pinot Grigio,Pinot Nero,0.04747811,1000-1999,150-499
-Blaufränkisch,Sangiovese Grosso,0.04737178,150-499,1000-1999
-Cabernet Sauvignon,Dolcetto,0.047069803,5000+,150-499
-Nero d'Avola,Prosecco,0.046723988,150-499,150-499
-Bonarda,Verdicchio,0.04644502,150-499,150-499
-Muscat,Tempranillo,0.04644248,150-499,2000-4999
-G-S-M,Torrontés,0.043893855,150-499,150-499
-Portuguese White,Riesling,0.04338047,1000-1999,5000+
-Monastrell,Verdicchio,0.043239348,150-499,150-499
-"Corvina, Rondinella, Molinara",Tempranillo,0.04317219,1000-1999,2000-4999
-Merlot,Sangiovese Grosso,0.04312898,2000-4999,1000-1999
-Fiano,Tempranillo,0.042513862,150-499,2000-4999
-Petite Sirah,Zweigelt,0.042282786,1000-1999,150-499
-Pinot Nero,Syrah,0.04208968,150-499,5000+
-Port,Sangiovese Grosso,0.04173992,1000-1999,1000-1999
-Red Blend,Verdicchio,0.040726088,5000+,150-499
-Chardonnay,Moscato,0.04045031,5000+,150-499
-Cabernet Blend,Pinotage,0.04028589,150-499,150-499
-Melon,Riesling,0.0399626,150-499,5000+
-Glera,Nebbiolo,0.039778665,500-999,2000-4999
-Merlot,Pinot Nero,0.03899107,2000-4999,150-499
-Garnacha,Rosé,0.03866902,150-499,2000-4999
-Blaufränkisch,Primitivo,0.03864549,150-499,150-499
-Mencía,Meritage,0.038626473,150-499,150-499
-Mencía,Verdicchio,0.038534097,150-499,150-499
-Merlot,Nebbiolo,0.038030494,2000-4999,2000-4999
-Bordeaux-style Red Blend,Shiraz,0.03771813,5000+,1000-1999
-Gewürztraminer,Melon,0.03740828,1000-1999,150-499
-Aglianico,Glera,0.035806317,150-499,500-999
-Bordeaux-style Red Blend,Zweigelt,0.035702564,5000+,150-499
-Dolcetto,Mencía,0.034048,150-499,150-499
-Cabernet Sauvignon-Merlot,"Corvina, Rondinella, Molinara",0.033932317,150-499,1000-1999
-"Corvina, Rondinella, Molinara",Touriga Nacional,0.03384661,1000-1999,150-499
-Garnacha,Viognier,0.033586744,150-499,1000-1999
-Cabernet Franc,Portuguese Red,0.033530563,1000-1999,2000-4999
-Meritage,Montepulciano,0.03338476,150-499,150-499
-Alvarinho,Pinot Noir,0.03336288,150-499,5000+
-Pinotage,Verdejo,0.03328995,150-499,150-499
-Dolcetto,White Blend,0.03297016,150-499,2000-4999
-"Corvina, Rondinella, Molinara",Pinotage,0.03280142,1000-1999,150-499
-Moscato,Sangiovese,0.03263866,150-499,2000-4999
-Garnacha,Prosecco,0.03196428,150-499,150-499
-G-S-M,Muscat,0.031832658,150-499,150-499
-Garnacha,Riesling,0.031590953,150-499,5000+
-Cabernet Blend,Malbec,0.031434953,150-499,2000-4999
-Carmenère,Petite Sirah,0.030490287,500-999,1000-1999
-Bordeaux-style Red Blend,"Corvina, Rondinella, Molinara",0.030147972,5000+,1000-1999
-Grillo,Portuguese White,0.029515691,150-499,1000-1999
-Dolcetto,Garganega,0.029229637,150-499,150-499
-Champagne Blend,Sangiovese Grosso,0.029146008,1000-1999,1000-1999
-Chardonnay,Sauvignon,0.02891278,5000+,150-499
-Gamay,Tannat,0.028837303,1000-1999,150-499
-Garganega,Sangiovese Grosso,0.028535789,150-499,1000-1999
-Cabernet Blend,Sémillon,0.027427083,150-499,150-499
-Pinot Noir,Sangiovese,0.02730404,5000+,2000-4999
-Sangiovese Grosso,Tempranillo,0.026928592,1000-1999,2000-4999
-Pinot Grigio,Rosé,0.025809953,1000-1999,2000-4999
-Grenache,Tempranillo Blend,0.025171688,500-999,500-999
-Meritage,Pinot Nero,0.024894722,150-499,150-499
-Garganega,Tinta de Toro,0.024215339,150-499,150-499
-Cabernet Blend,Rhône-style White Blend,0.022946592,150-499,500-999
-Melon,Pinot Bianco,0.022923052,150-499,150-499
-Barbera,Pinot Noir,0.022496276,500-999,5000+
-Sangiovese Grosso,Touriga Nacional,0.021926142,1000-1999,150-499
-Bordeaux-style Red Blend,Merlot,0.02176887,5000+,2000-4999
-Cabernet Sauvignon-Merlot,Rhône-style White Blend,0.021693196,150-499,500-999
-Fiano,Mencía,0.02114382,150-499,150-499
-Bordeaux-style White Blend,Sangiovese Grosso,0.02096813,1000-1999,1000-1999
-Sangiovese,Sparkling Blend,0.020786172,2000-4999,2000-4999
-Rosé,Sauvignon Blanc,0.020624544,2000-4999,5000+
-Garnacha,Zinfandel,0.02052534,150-499,2000-4999
-Sauvignon,Tempranillo Blend,0.020001601,150-499,500-999
-Glera,Monastrell,0.019390143,500-999,150-499
-Bordeaux-style White Blend,Roussanne,0.019373147,1000-1999,150-499
-Dolcetto,Meritage,0.01889548,150-499,150-499
-Garnacha,Rhône-style Red Blend,0.018452683,150-499,1000-1999
-Bonarda,Zweigelt,0.018377138,150-499,150-499
-Barbera,Grillo,0.018068595,500-999,150-499
-Blaufränkisch,Tinta de Toro,0.017581858,150-499,150-499
-Mourvèdre,Zweigelt,0.016114637,150-499,150-499
-Dolcetto,Muscat,0.015602928,150-499,150-499
-"Corvina, Rondinella, Molinara",Petite Sirah,0.015232729,1000-1999,1000-1999
-Carmenère,"Corvina, Rondinella, Molinara",0.015089659,500-999,1000-1999
-Blaufränkisch,Tempranillo,0.01487001,150-499,2000-4999
-Blaufränkisch,Monastrell,0.014422614,150-499,150-499
-Shiraz,Zweigelt,0.014364658,1000-1999,150-499
-Dolcetto,Pinot Grigio,0.01315248,150-499,1000-1999
-Nero d'Avola,White Blend,0.013094367,150-499,2000-4999
-"Corvina, Rondinella, Molinara",Muscat,0.012507457,1000-1999,150-499
-Prosecco,Rosé,0.012486197,150-499,2000-4999
-Meritage,Monastrell,0.0124615,150-499,150-499
-Mourvèdre,Pinot Nero,0.012375265,150-499,150-499
-Dolcetto,Gewürztraminer,0.012205547,150-499,1000-1999
-Grillo,Red Blend,0.012008691,150-499,5000+
-Aglianico,Zweigelt,0.01176567,150-499,150-499
-Pinot Nero,Vermentino,0.011614924,150-499,150-499
-Garnacha,Petite Sirah,0.011313586,150-499,1000-1999
-"Corvina, Rondinella, Molinara",Zinfandel,0.010714676,1000-1999,2000-4999
-Glera,Montepulciano,0.010356003,500-999,150-499
-Meritage,Rhône-style White Blend,0.010273411,150-499,500-999
-Malbec,Sparkling Blend,0.010058759,2000-4999,2000-4999
-Pinot Nero,Sangiovese Grosso,0.009380457,150-499,1000-1999
-Aglianico,G-S-M,0.009245785,150-499,150-499
-Meritage,Sangiovese Grosso,0.008734237,150-499,1000-1999
-Nebbiolo,Sparkling Blend,0.0083440915,2000-4999,2000-4999
-Mencía,Muscat,0.0080441125,150-499,150-499
-Mourvèdre,Tempranillo,0.007971065,150-499,2000-4999
-"Corvina, Rondinella, Molinara",White Blend,0.0075547295,1000-1999,2000-4999
-Carmenère,Sangiovese Grosso,0.0074785743,500-999,1000-1999
-Red Blend,Torrontés,0.0070155747,5000+,150-499
-Sauvignon,Tempranillo,0.006756242,150-499,2000-4999
-Monastrell,Zweigelt,0.0059743924,150-499,150-499
-Melon,Roussanne,0.005139352,150-499,150-499
-Champagne Blend,Sauvignon Blanc,0.005027488,1000-1999,5000+
-Pinot Nero,Riesling,0.0046677887,150-499,5000+
-Aglianico,Bordeaux-style Red Blend,0.004076954,150-499,5000+
-Pinot Nero,Shiraz,0.0039464887,150-499,1000-1999
-Glera,Rosé,0.0039135795,500-999,2000-4999
-Petit Verdot,Portuguese Red,0.0038145296,150-499,2000-4999
-"Corvina, Rondinella, Molinara",Prosecco,0.003364781,1000-1999,150-499
-Garnacha,Gewürztraminer,0.0028292388,150-499,1000-1999
-Carmenère,Glera,0.0028180378,500-999,500-999
-"Corvina, Rondinella, Molinara",Pinot Bianco,0.0022694427,1000-1999,150-499
-Prosecco,Sangiovese Grosso,0.0010154936,150-499,1000-1999
-Alvarinho,"Corvina, Rondinella, Molinara",0.00067024404,150-499,1000-1999
-Cabernet Sauvignon,"Corvina, Rondinella, Molinara",-0.00020968728,5000+,1000-1999
-Zinfandel,Zweigelt,-0.0014627185,2000-4999,150-499
-Grenache,Muscat,-0.0015776493,500-999,150-499
-Mencía,Zweigelt,-0.0021123905,150-499,150-499
-Dolcetto,Pinot Noir,-0.0021194816,150-499,5000+
-Moscato,Nebbiolo,-0.0023560612,150-499,2000-4999
-Barbera,Verdicchio,-0.003114217,500-999,150-499
-"Corvina, Rondinella, Molinara",Pinot Nero,-0.0032704696,1000-1999,150-499
-Montepulciano,Muscat,-0.003919675,150-499,150-499
-G-S-M,Verdejo,-0.0044483766,150-499,150-499
-Carmenère,Viognier,-0.004677277,500-999,1000-1999
-"Corvina, Rondinella, Molinara",Glera,-0.004912734,1000-1999,500-999
-"Corvina, Rondinella, Molinara",Petit Verdot,-0.005000744,1000-1999,150-499
-Bonarda,Grillo,-0.005323317,150-499,150-499
-Melon,Zweigelt,-0.0054268325,150-499,150-499
-Alvarinho,Zweigelt,-0.0059580207,150-499,150-499
-Fiano,Red Blend,-0.0061152726,150-499,5000+
-Bordeaux-style White Blend,White Blend,-0.0061527807,1000-1999,2000-4999
-Rosé,Vermentino,-0.0064719357,2000-4999,150-499
-Bonarda,Rhône-style Red Blend,-0.006527609,150-499,1000-1999
-Alvarinho,Grillo,-0.0066082776,150-499,150-499
-Aglianico,Moscato,-0.0066637076,150-499,150-499
-Blaufränkisch,Bonarda,-0.006705478,150-499,150-499
-Garnacha,Moscato,-0.006835727,150-499,150-499
-Garnacha,Grillo,-0.0070760306,150-499,150-499
-Champagne Blend,Gewürztraminer,-0.0077064913,1000-1999,1000-1999
-Malbec,Sangiovese Grosso,-0.007997122,2000-4999,1000-1999
-Cabernet Blend,Carmenère,-0.00841522,150-499,500-999
-Red Blend,Zweigelt,-0.008421501,5000+,150-499
-Moscato,Portuguese White,-0.008644598,150-499,1000-1999
-Blaufränkisch,Portuguese White,-0.008818058,150-499,1000-1999
-Pinotage,Sauvignon,-0.009174496,150-499,150-499
-Mencía,Rhône-style Red Blend,-0.009447092,150-499,1000-1999
-Melon,Sangiovese Grosso,-0.009555243,150-499,1000-1999
-Montepulciano,Pinot Bianco,-0.009578857,150-499,150-499
-Garnacha,Pinot Grigio,-0.010488234,150-499,1000-1999
-Garnacha,Pinot Bianco,-0.01049795,150-499,150-499
-Tinta de Toro,Verdicchio,-0.010601366,150-499,150-499
-Monastrell,Rhône-style Red Blend,-0.0107206665,150-499,1000-1999
-Cabernet Blend,Tempranillo Blend,-0.010829683,150-499,500-999
-Sangiovese Grosso,Sauvignon,-0.011332385,1000-1999,150-499
-Pinot Blanc,Zweigelt,-0.011785278,500-999,150-499
-Pinot Bianco,Rosé,-0.011878859,150-499,2000-4999
-Grenache,Tannat,-0.012086457,500-999,150-499
-Tempranillo,Zweigelt,-0.01221267,2000-4999,150-499
-"Corvina, Rondinella, Molinara",Meritage,-0.013057206,1000-1999,150-499
-Blaufränkisch,Pinot Nero,-0.01316463,150-499,150-499
-Grenache,Tinta de Toro,-0.013483895,500-999,150-499
-Bonarda,Roussanne,-0.013582572,150-499,150-499
-Moscato,Sangiovese Grosso,-0.013693396,150-499,1000-1999
-Monastrell,Riesling,-0.014255803,150-499,5000+
-Gamay,Grüner Veltliner,-0.014425791,1000-1999,1000-1999
-Mourvèdre,Touriga Nacional,-0.014471777,150-499,150-499
-Aglianico,Portuguese Red,-0.014534511,150-499,2000-4999
-Prosecco,Red Blend,-0.014685346,150-499,5000+
-Moscato,Primitivo,-0.014788594,150-499,150-499
-Tempranillo,Zinfandel,-0.014830137,2000-4999,2000-4999
-Malbec,Zweigelt,-0.01493596,2000-4999,150-499
-Aglianico,Muscat,-0.0150240995,150-499,150-499
-Moscato,Red Blend,-0.01590103,150-499,5000+
-Glera,Mencía,-0.016278207,500-999,150-499
-Sangiovese Grosso,Verdicchio,-0.016522624,1000-1999,150-499
-Bonarda,Pinot Bianco,-0.016540295,150-499,150-499
-G-S-M,Moscato,-0.017045004,150-499,150-499
-Bonarda,Pinot Grigio,-0.01731132,150-499,1000-1999
-Monastrell,Viognier,-0.01738065,150-499,1000-1999
-Pinotage,Torrontés,-0.01757525,150-499,150-499
-G-S-M,Glera,-0.017721023,150-499,500-999
-Glera,Tempranillo Blend,-0.018201973,500-999,500-999
-Bordeaux-style Red Blend,Rosé,-0.018300584,5000+,2000-4999
-Mourvèdre,Nebbiolo,-0.018647432,150-499,2000-4999
-Barbera,Fiano,-0.020610778,500-999,150-499
-G-S-M,Sauvignon,-0.021015272,150-499,150-499
-Aglianico,Torrontés,-0.021828627,150-499,150-499
-Petite Sirah,Sangiovese,-0.021857785,1000-1999,2000-4999
-Aglianico,Touriga Nacional,-0.02199924,150-499,150-499
-Grüner Veltliner,Port,-0.022026788,1000-1999,1000-1999
-"Corvina, Rondinella, Molinara",Gamay,-0.022311207,1000-1999,1000-1999
-Bordeaux-style White Blend,Pinot Grigio,-0.022401351,1000-1999,1000-1999
-Rhône-style Red Blend,Tempranillo Blend,-0.02265563,1000-1999,500-999
-Glera,Sangiovese Grosso,-0.023122868,500-999,1000-1999
-Mencía,Sangiovese Grosso,-0.023268495,150-499,1000-1999
-Gamay,Grenache,-0.02375418,1000-1999,500-999
-Riesling,Rosé,-0.024085723,5000+,2000-4999
-Muscat,Red Blend,-0.024146229,150-499,5000+
-Carmenère,Gewürztraminer,-0.024335228,500-999,1000-1999
-Carmenère,Zinfandel,-0.024399903,500-999,2000-4999
-Dolcetto,Tinta de Toro,-0.02473552,150-499,150-499
-Bordeaux-style Red Blend,Chenin Blanc,-0.025764417,5000+,500-999
-Cabernet Sauvignon,Gamay,-0.026536457,5000+,1000-1999
-Pinotage,Rosé,-0.026639873,150-499,2000-4999
-G-S-M,Viognier,-0.026767192,150-499,1000-1999
-Blaufränkisch,Meritage,-0.026942572,150-499,150-499
-Alvarinho,Rhône-style White Blend,-0.027500939,150-499,500-999
-Cabernet Blend,Port,-0.028425358,150-499,1000-1999
-Blaufränkisch,Garnacha,-0.02845201,150-499,150-499
-Nebbiolo,Zweigelt,-0.02870981,2000-4999,150-499
-"Corvina, Rondinella, Molinara",Portuguese White,-0.028904619,1000-1999,1000-1999
-Grillo,Monastrell,-0.029272374,150-499,150-499
-Melon,White Blend,-0.029372493,150-499,2000-4999
-Blaufränkisch,Tempranillo Blend,-0.029762201,150-499,500-999
-Gamay,Meritage,-0.029903097,1000-1999,150-499
-Carmenère,Pinot Bianco,-0.030048592,500-999,150-499
-Alvarinho,Riesling,-0.030140605,150-499,5000+
-Garnacha,Meritage,-0.030544724,150-499,150-499
-"Corvina, Rondinella, Molinara",Melon,-0.030585056,1000-1999,150-499
-Gewürztraminer,Nebbiolo,-0.03142178,1000-1999,2000-4999
-Sauvignon,Tinta de Toro,-0.031935204,150-499,150-499
-Nebbiolo,Pinot Bianco,-0.032040928,2000-4999,150-499
-Glera,Red Blend,-0.03218426,500-999,5000+
-Nebbiolo,Petite Sirah,-0.033237718,2000-4999,1000-1999
-Champagne Blend,Moscato,-0.03351086,1000-1999,150-499
-"Corvina, Rondinella, Molinara",Sémillon,-0.033751514,1000-1999,150-499
-Sangiovese Grosso,Vermentino,-0.034286257,1000-1999,150-499
-G-S-M,Tannat,-0.03447364,150-499,150-499
-G-S-M,Roussanne,-0.034826886,150-499,150-499
-Champagne Blend,Sémillon,-0.03497533,1000-1999,150-499
-Glera,Tempranillo,-0.03529821,500-999,2000-4999
-Dolcetto,Tempranillo,-0.035821013,150-499,2000-4999
-Carmenère,White Blend,-0.036243737,500-999,2000-4999
-Primitivo,Verdicchio,-0.036550492,150-499,150-499
-Tannat,Zweigelt,-0.03679184,150-499,150-499
-Rhône-style Red Blend,Tempranillo,-0.037026912,1000-1999,2000-4999
-"Corvina, Rondinella, Molinara",Merlot,-0.037227556,1000-1999,2000-4999
-Portuguese White,Rhône-style White Blend,-0.03742192,1000-1999,500-999
-Nero d'Avola,Torrontés,-0.03759136,150-499,150-499
-Nero d'Avola,Pinot Grigio,-0.037599474,150-499,1000-1999
-Cabernet Sauvignon,Zweigelt,-0.037932467,5000+,150-499
-Garnacha,Roussanne,-0.038005326,150-499,150-499
-Pinot Gris,Port,-0.038157195,1000-1999,1000-1999
-Cabernet Sauvignon,Port,-0.038353693,5000+,1000-1999
-Pinot Noir,Primitivo,-0.038696155,5000+,150-499
-Petite Sirah,Tempranillo Blend,-0.038950503,1000-1999,500-999
-Rhône-style Red Blend,Rosé,-0.039244704,1000-1999,2000-4999
-Alvarinho,Cabernet Blend,-0.03935069,150-499,150-499
-Blaufränkisch,Bordeaux-style White Blend,-0.039559893,150-499,1000-1999
-G-S-M,Rosé,-0.039964717,150-499,2000-4999
-"Corvina, Rondinella, Molinara",Gewürztraminer,-0.04048211,1000-1999,1000-1999
-G-S-M,Montepulciano,-0.041099012,150-499,150-499
-Pinot Nero,Viognier,-0.041193396,150-499,1000-1999
-Mourvèdre,Tempranillo Blend,-0.04199919,150-499,500-999
-Mourvèdre,Portuguese Red,-0.042514905,150-499,2000-4999
-Carmenère,Sauvignon Blanc,-0.042707734,500-999,5000+
-Meritage,Tempranillo,-0.042853154,150-499,2000-4999
-Carmenère,Pinot Grigio,-0.04302309,500-999,1000-1999
-"Corvina, Rondinella, Molinara",Mencía,-0.043038085,1000-1999,150-499
-Bordeaux-style White Blend,Mourvèdre,-0.043217458,1000-1999,150-499
-Fiano,Primitivo,-0.043253172,150-499,150-499
-Petit Verdot,Zweigelt,-0.043447435,150-499,150-499
-Albariño,Sangiovese,-0.044006124,500-999,2000-4999
-Champagne Blend,"Corvina, Rondinella, Molinara",-0.045016177,1000-1999,1000-1999
-Tempranillo Blend,Viognier,-0.045018196,500-999,1000-1999
-Pinot Bianco,Sangiovese,-0.046769712,150-499,2000-4999
-Monastrell,Prosecco,-0.04694009,150-499,150-499
-Gewürztraminer,Grenache,-0.047000293,1000-1999,500-999
-Monastrell,Pinot Bianco,-0.047087193,150-499,150-499
-Cabernet Blend,Gamay,-0.04752143,150-499,1000-1999
-Nebbiolo,Pinot Noir,-0.047674082,2000-4999,5000+
-"Corvina, Rondinella, Molinara",Grenache,-0.049002588,1000-1999,500-999
-Red Blend,Verdejo,-0.049727447,5000+,150-499
-Aglianico,Pinot Bianco,-0.049757775,150-499,150-499
-Fiano,Tinta de Toro,-0.049809467,150-499,150-499
-Portuguese Red,Zinfandel,-0.050406385,2000-4999,2000-4999
-Grillo,Rosé,-0.050556295,150-499,2000-4999
-"Corvina, Rondinella, Molinara",Malbec,-0.050645247,1000-1999,2000-4999
-"Corvina, Rondinella, Molinara",Pinot Grigio,-0.05068523,1000-1999,1000-1999
-Riesling,Tempranillo Blend,-0.051115897,5000+,500-999
-Montepulciano,Prosecco,-0.0516482,150-499,150-499
-Rhône-style Red Blend,Sémillon,-0.051728502,1000-1999,150-499
-Rosé,White Blend,-0.05183039,2000-4999,2000-4999
-Garnacha,White Blend,-0.052383535,150-499,2000-4999
-Touriga Nacional,Zinfandel,-0.052965157,150-499,2000-4999
-Cabernet Blend,Pinot Nero,-0.053548303,150-499,150-499
-Bonarda,Moscato,-0.053791422,150-499,150-499
-Tempranillo,Viognier,-0.05510193,2000-4999,1000-1999
-Albariño,Portuguese White,-0.05520869,500-999,1000-1999
-Albariño,Nebbiolo,-0.055722397,500-999,2000-4999
-Bordeaux-style White Blend,Pinot Bianco,-0.05583347,1000-1999,150-499
-Grenache,Sparkling Blend,-0.05587623,500-999,2000-4999
-Carmenère,Riesling,-0.05629614,500-999,5000+
-Barbera,Touriga Nacional,-0.05634162,500-999,150-499
-Rhône-style Red Blend,Touriga Nacional,-0.056751523,1000-1999,150-499
-Blaufränkisch,"Corvina, Rondinella, Molinara",-0.057102937,150-499,1000-1999
-Malbec,Sauvignon,-0.057609662,2000-4999,150-499
-Rosé,Sauvignon,-0.057893246,2000-4999,150-499
-Rhône-style Red Blend,Zweigelt,-0.058159113,1000-1999,150-499
-Champagne Blend,Vermentino,-0.058212183,1000-1999,150-499
-Riesling,Tempranillo,-0.05854652,5000+,2000-4999
-Grillo,Tempranillo Blend,-0.058878236,150-499,500-999
-Gewürztraminer,Port,-0.058925547,1000-1999,1000-1999
-Muscat,Tinta de Toro,-0.058963064,150-499,150-499
-Alvarinho,Moscato,-0.05940506,150-499,150-499
-Alvarinho,Blaufränkisch,-0.059860505,150-499,150-499
-Barbera,Vermentino,-0.060196273,500-999,150-499
-Muscat,Nero d'Avola,-0.060366925,150-499,150-499
-Mencía,Riesling,-0.060665272,150-499,5000+
-Carmenère,Roussanne,-0.060851607,500-999,150-499
-Carmenère,Prosecco,-0.060937956,500-999,150-499
-Pinot Bianco,Tempranillo Blend,-0.061173655,150-499,500-999
-Barbera,Rosé,-0.061846983,500-999,2000-4999
-Bordeaux-style White Blend,Moscato,-0.061894055,1000-1999,150-499
-Fiano,Portuguese White,-0.061899908,150-499,1000-1999
-Nero d'Avola,Verdejo,-0.062276036,150-499,150-499
-Rosé,Torrontés,-0.063402675,2000-4999,150-499
-Meritage,Zweigelt,-0.06361135,150-499,150-499
-Sangiovese Grosso,Zweigelt,-0.0641139,1000-1999,150-499
-Pinot Noir,Portuguese White,-0.06485448,5000+,1000-1999
-Glera,Tinta de Toro,-0.06535418,500-999,150-499
-Blaufränkisch,Cabernet Sauvignon-Merlot,-0.06598467,150-499,150-499
-Rhône-style Red Blend,White Blend,-0.066366374,1000-1999,2000-4999
-Grillo,Mencía,-0.06661099,150-499,150-499
-Glera,Pinotage,-0.06750698,500-999,150-499
-Champagne Blend,Prosecco,-0.06761266,1000-1999,150-499
-Gewürztraminer,Sangiovese,-0.06774342,1000-1999,2000-4999
-Alvarinho,Tannat,-0.06792037,150-499,150-499
-G-S-M,Gewürztraminer,-0.068417594,150-499,1000-1999
-Mencía,Pinot Bianco,-0.06894333,150-499,150-499
-Cabernet Blend,Mencía,-0.0693229,150-499,150-499
-Fiano,Sangiovese Grosso,-0.06939508,150-499,1000-1999
-Cabernet Franc,"Corvina, Rondinella, Molinara",-0.06954052,1000-1999,1000-1999
-Melon,Viognier,-0.06980901,150-499,1000-1999
-Grillo,Primitivo,-0.0698789,150-499,150-499
-Grillo,Melon,-0.070014134,150-499,150-499
-Garnacha,Pinot Blanc,-0.070015624,150-499,500-999
-Albariño,Melon,-0.070302784,500-999,150-499
-Prosecco,Sangiovese,-0.07038826,150-499,2000-4999
-Bordeaux-style White Blend,Rhône-style White Blend,-0.07060756,1000-1999,500-999
-Albariño,Rosé,-0.07107039,500-999,2000-4999
-Dolcetto,Touriga Nacional,-0.07120375,150-499,150-499
-Aglianico,Port,-0.07134515,150-499,1000-1999
-Gewürztraminer,Tempranillo Blend,-0.07136607,1000-1999,500-999
-Melon,Sparkling Blend,-0.07155302,150-499,2000-4999
-Meritage,Tempranillo Blend,-0.07168398,150-499,500-999
-Sparkling Blend,Zweigelt,-0.0717023,2000-4999,150-499
-Portuguese White,Prosecco,-0.072014704,1000-1999,150-499
-Monastrell,Pinot Grigio,-0.07217032,150-499,1000-1999
-Bordeaux-style White Blend,Cabernet Blend,-0.07362233,1000-1999,150-499
-Carmenère,Rhône-style White Blend,-0.073905885,500-999,500-999
-G-S-M,Zweigelt,-0.07529855,150-499,150-499
-Monastrell,Roussanne,-0.07532842,150-499,150-499
-Garganega,Red Blend,-0.075677946,150-499,5000+
-Tempranillo Blend,Zweigelt,-0.075849384,500-999,150-499
-Cabernet Blend,Tempranillo,-0.076646104,150-499,2000-4999
-"Corvina, Rondinella, Molinara",Pinot Noir,-0.07677065,1000-1999,5000+
-Bonarda,Pinot Blanc,-0.07689996,150-499,500-999
-Barbera,Pinot Bianco,-0.076961905,500-999,150-499
-Aglianico,Vermentino,-0.07727599,150-499,150-499
-Barbera,Portuguese Red,-0.07731785,500-999,2000-4999
-Pinot Nero,Zinfandel,-0.0774869,150-499,2000-4999
-Red Blend,Sparkling Blend,-0.07817304,5000+,2000-4999
-Rosé,Viognier,-0.078265585,2000-4999,1000-1999
-Dolcetto,Tempranillo Blend,-0.07833736,150-499,500-999
-Alvarinho,Prosecco,-0.07850624,150-499,150-499
-Monastrell,Sangiovese Grosso,-0.07850705,150-499,1000-1999
-Bonarda,White Blend,-0.078619845,150-499,2000-4999
-Syrah,Touriga Nacional,-0.07880288,5000+,150-499
-Bonarda,Rhône-style White Blend,-0.07903463,150-499,500-999
-Garganega,Pinotage,-0.07983026,150-499,150-499
-Portuguese White,Verdicchio,-0.079888046,1000-1999,150-499
-Muscat,Zweigelt,-0.07997756,150-499,150-499
-Garganega,Malbec,-0.080040306,150-499,2000-4999
-Muscat,Pinotage,-0.08018883,150-499,150-499
-Pinot Grigio,Tempranillo Blend,-0.080773205,1000-1999,500-999
-Dolcetto,Portuguese Red,-0.081258066,150-499,2000-4999
-Bordeaux-style White Blend,Zweigelt,-0.08138595,1000-1999,150-499
-Monastrell,Rosé,-0.08157097,150-499,2000-4999
-Muscat,Rhône-style Red Blend,-0.081705935,150-499,1000-1999
-Monastrell,Moscato,-0.08178188,150-499,150-499
-Muscat,Portuguese White,-0.08230209,150-499,1000-1999
-Chenin Blanc,"Corvina, Rondinella, Molinara",-0.08238802,500-999,1000-1999
-Gamay,Pinot Gris,-0.08285976,1000-1999,1000-1999
-Blaufränkisch,Zinfandel,-0.08317347,150-499,2000-4999
-Bonarda,Gewürztraminer,-0.083514616,150-499,1000-1999
-Prosecco,Rhône-style Red Blend,-0.08363393,150-499,1000-1999
-Garnacha,Rhône-style White Blend,-0.0836858,150-499,500-999
-Port,Sémillon,-0.08478767,1000-1999,150-499
-Cabernet Blend,Monastrell,-0.08550042,150-499,150-499
-Rosé,Sangiovese Grosso,-0.08562207,2000-4999,1000-1999
-Chardonnay,Port,-0.08579729,5000+,1000-1999
-Gamay,Mourvèdre,-0.08647748,1000-1999,150-499
-Pinotage,Prosecco,-0.08686194,150-499,150-499
-Pinot Noir,Red Blend,-0.08717996,5000+,5000+
-Prosecco,Tempranillo Blend,-0.08719492,150-499,500-999
-Bordeaux-style Red Blend,Primitivo,-0.08761569,5000+,150-499
-Cabernet Blend,White Blend,-0.08777074,150-499,2000-4999
-Portuguese Red,Rhône-style Red Blend,-0.088448375,2000-4999,1000-1999
-Primitivo,Rosé,-0.08889483,150-499,2000-4999
-Alvarinho,Mourvèdre,-0.08902745,150-499,150-499
-Meritage,Port,-0.08904971,150-499,1000-1999
-Dolcetto,Torrontés,-0.0892808,150-499,150-499
-Grillo,Sangiovese Grosso,-0.08967672,150-499,1000-1999
-Syrah,Zweigelt,-0.08984776,5000+,150-499
-Malbec,Muscat,-0.089914225,2000-4999,150-499
-Cabernet Blend,Champagne Blend,-0.09035422,150-499,1000-1999
-Blaufränkisch,Mourvèdre,-0.09061037,150-499,150-499
-Mencía,Prosecco,-0.09092024,150-499,150-499
-Champagne Blend,Petite Sirah,-0.09119597,1000-1999,1000-1999
-Pinot Bianco,Tempranillo,-0.09167627,150-499,2000-4999
-Pinot Gris,Zweigelt,-0.091829225,1000-1999,150-499
-Grillo,Tempranillo,-0.091909766,150-499,2000-4999
-Pinot Blanc,Port,-0.09193488,500-999,1000-1999
-Bordeaux-style White Blend,Riesling,-0.09218837,1000-1999,5000+
-Montepulciano,Torrontés,-0.09269497,150-499,150-499
-Bordeaux-style White Blend,Viognier,-0.09271927,1000-1999,1000-1999
-Nero d'Avola,Sparkling Blend,-0.09283954,150-499,2000-4999
-Alvarinho,Sangiovese Grosso,-0.093032666,150-499,1000-1999
-Aglianico,Prosecco,-0.09322044,150-499,150-499
-Prosecco,Tinta de Toro,-0.09343053,150-499,150-499
-Pinot Nero,Pinot Noir,-0.093633875,150-499,5000+
-Pinotage,Sparkling Blend,-0.09389587,150-499,2000-4999
-Gewürztraminer,Zweigelt,-0.094010115,1000-1999,150-499
-Pinotage,Verdicchio,-0.094766304,150-499,150-499
-Petit Verdot,Torrontés,-0.09483679,150-499,150-499
-Garnacha,Sauvignon Blanc,-0.09527697,150-499,5000+
-Bonarda,Sangiovese Grosso,-0.095477246,150-499,1000-1999
-Aglianico,Verdejo,-0.09560978,150-499,150-499
-Rosé,Roussanne,-0.0957064,2000-4999,150-499
-Pinot Nero,Roussanne,-0.09571236,150-499,150-499
-Shiraz,Touriga Nacional,-0.0963389,1000-1999,150-499
-Tempranillo Blend,Zinfandel,-0.096505925,500-999,2000-4999
-Malbec,Verdicchio,-0.09706331,2000-4999,150-499
-Merlot,Touriga Nacional,-0.09717277,2000-4999,150-499
-Blaufränkisch,Chenin Blanc,-0.09733627,150-499,500-999
-Gewürztraminer,Monastrell,-0.097409904,1000-1999,150-499
-Gewürztraminer,Montepulciano,-0.09743616,1000-1999,150-499
-Carmenère,Zweigelt,-0.09777112,500-999,150-499
-Dolcetto,Gamay,-0.0980309,150-499,1000-1999
-Montepulciano,Rosé,-0.09836372,150-499,2000-4999
-Roussanne,Tempranillo Blend,-0.09890861,150-499,500-999
-Cabernet Sauvignon,Pinot Nero,-0.099242225,5000+,150-499
-Grüner Veltliner,Portuguese Red,-0.09935932,1000-1999,2000-4999
-Pinot Grigio,Tempranillo,-0.0995091,1000-1999,2000-4999
-Gamay,Merlot,-0.09965592,1000-1999,2000-4999
-Carmenère,Moscato,-0.099699065,500-999,150-499
-Montepulciano,White Blend,-0.09990035,150-499,2000-4999
-Bordeaux-style Red Blend,Nebbiolo,-0.10008392,5000+,2000-4999
-Mencía,Viognier,-0.10012053,150-499,1000-1999
-Fiano,Rosé,-0.1006815,150-499,2000-4999
-Alvarinho,Dolcetto,-0.10078965,150-499,150-499
-Rosé,Verdejo,-0.100798376,2000-4999,150-499
-Cabernet Sauvignon-Merlot,Zweigelt,-0.10084477,150-499,150-499
-"Corvina, Rondinella, Molinara",Zweigelt,-0.10110421,1000-1999,150-499
-Port,Shiraz,-0.102175206,1000-1999,1000-1999
-Alvarinho,Fiano,-0.10317379,150-499,150-499
-Portuguese White,Sparkling Blend,-0.10324228,1000-1999,2000-4999
-Alvarinho,Zinfandel,-0.10330084,150-499,2000-4999
-Rosé,Verdicchio,-0.10382535,2000-4999,150-499
-Portuguese Red,Shiraz,-0.10424,2000-4999,1000-1999
-Prosecco,Zweigelt,-0.104280755,150-499,150-499
-Champagne Blend,Pinot Bianco,-0.10450752,1000-1999,150-499
-Champagne Blend,Pinot Grigio,-0.10455138,1000-1999,1000-1999
-Red Blend,Rosé,-0.10496016,5000+,2000-4999
-Blaufränkisch,Carmenère,-0.10566764,150-499,500-999
-Alvarinho,Verdicchio,-0.10579692,150-499,150-499
-"Corvina, Rondinella, Molinara",Monastrell,-0.1060223,1000-1999,150-499
-Montepulciano,Portuguese Red,-0.10633825,150-499,2000-4999
-Garnacha,Sangiovese Grosso,-0.106499836,150-499,1000-1999
-Portuguese White,Sangiovese Grosso,-0.10675086,1000-1999,1000-1999
-G-S-M,Grillo,-0.106790595,150-499,150-499
-Portuguese Red,Syrah,-0.10709738,2000-4999,5000+
-Riesling,Zweigelt,-0.107161045,5000+,150-499
-Montepulciano,Pinot Noir,-0.107264936,150-499,5000+
-Garganega,Primitivo,-0.10737496,150-499,150-499
-Melon,Petite Sirah,-0.1075284,150-499,1000-1999
-Nero d'Avola,Rosé,-0.10770425,150-499,2000-4999
-Chenin Blanc,Zweigelt,-0.107865065,500-999,150-499
-Dolcetto,Rhône-style White Blend,-0.107867055,150-499,500-999
-Fiano,Malbec,-0.10792422,150-499,2000-4999
-Prosecco,Tempranillo,-0.108277366,150-499,2000-4999
-Bordeaux-style White Blend,Petite Sirah,-0.10839373,1000-1999,1000-1999
-Riesling,Tinta de Toro,-0.10853386,5000+,150-499
-Garganega,Rosé,-0.10876215,150-499,2000-4999
-Nero d'Avola,Rhône-style White Blend,-0.10888989,150-499,500-999
-Champagne Blend,Grenache,-0.10904342,1000-1999,500-999
-Tinta de Toro,Zweigelt,-0.109150365,150-499,150-499
-Mourvèdre,Sémillon,-0.10945827,150-499,150-499
-Pinot Bianco,Sangiovese Grosso,-0.10970621,150-499,1000-1999
-Garganega,Portuguese White,-0.11015036,150-499,1000-1999
-Barbera,Muscat,-0.1113181,500-999,150-499
-Melon,Moscato,-0.11183209,150-499,150-499
-Bordeaux-style White Blend,Rhône-style Red Blend,-0.11191648,1000-1999,1000-1999
-Sangiovese Grosso,Sparkling Blend,-0.112045795,1000-1999,2000-4999
-Albariño,Pinotage,-0.1131544,500-999,150-499
-Blaufränkisch,Red Blend,-0.11333293,150-499,5000+
-Gewürztraminer,Sangiovese Grosso,-0.11342767,1000-1999,1000-1999
-"Corvina, Rondinella, Molinara",G-S-M,-0.11370955,1000-1999,150-499
-Muscat,Sangiovese Grosso,-0.114414744,150-499,1000-1999
-Port,Zinfandel,-0.11446398,1000-1999,2000-4999
-Muscat,Primitivo,-0.11451033,150-499,150-499
-Cabernet Sauvignon-Merlot,Sauvignon,-0.11467099,150-499,150-499
-Malbec,Pinot Noir,-0.114738286,2000-4999,5000+
-Petit Verdot,Verdejo,-0.11538577,150-499,150-499
-Barbera,Bordeaux-style Red Blend,-0.11555567,500-999,5000+
-Cabernet Sauvignon-Merlot,White Blend,-0.11560968,150-499,2000-4999
-Bordeaux-style White Blend,Muscat,-0.11630367,1000-1999,150-499
-Roussanne,Tempranillo,-0.116380006,150-499,2000-4999
-Rosé,Sangiovese,-0.11669277,2000-4999,2000-4999
-Barbera,Glera,-0.11693269,500-999,500-999
-Gamay,Pinot Blanc,-0.11706127,1000-1999,500-999
-Gamay,Rhône-style Red Blend,-0.11727008,1000-1999,1000-1999
-Bonarda,Cabernet Blend,-0.11748925,150-499,150-499
-Portuguese White,Sauvignon,-0.1181189,1000-1999,150-499
-Bonarda,Sauvignon Blanc,-0.118292294,150-499,5000+
-Grenache,Prosecco,-0.118530385,500-999,150-499
-Bordeaux-style Red Blend,Grenache,-0.11856118,5000+,500-999
-Melon,Mourvèdre,-0.11886967,150-499,150-499
-Petit Verdot,Sauvignon,-0.11887929,150-499,150-499
-Cabernet Sauvignon-Merlot,Touriga Nacional,-0.119239956,150-499,150-499
-Montepulciano,Pinot Grigio,-0.119279146,150-499,1000-1999
-Alvarinho,Garganega,-0.11952518,150-499,150-499
-Bonarda,Rosé,-0.119700134,150-499,2000-4999
-Champagne Blend,Glera,-0.12066749,1000-1999,500-999
-Cabernet Blend,Garnacha,-0.12135524,150-499,150-499
-Tempranillo Blend,White Blend,-0.121546246,500-999,2000-4999
-Port,Sauvignon Blanc,-0.121627375,1000-1999,5000+
-Portuguese Red,Primitivo,-0.121733636,2000-4999,150-499
-Bordeaux-style White Blend,Meritage,-0.122159556,1000-1999,150-499
-Rhône-style White Blend,Rosé,-0.122289814,500-999,2000-4999
-Alvarinho,Glera,-0.1223288,150-499,500-999
-Blaufränkisch,Rhône-style Red Blend,-0.12244051,150-499,1000-1999
-Gamay,Zinfandel,-0.122822806,1000-1999,2000-4999
-Champagne Blend,Tannat,-0.12287962,1000-1999,150-499
-Dolcetto,Grüner Veltliner,-0.12335746,150-499,1000-1999
-Moscato,Port,-0.12386449,150-499,1000-1999
-Melon,Prosecco,-0.12409947,150-499,150-499
-Garnacha,Pinot Gris,-0.12422109,150-499,1000-1999
-Chardonnay,Rosé,-0.124235414,5000+,2000-4999
-Aglianico,Zinfandel,-0.124314636,150-499,2000-4999
-Rhône-style White Blend,Zinfandel,-0.12431854,500-999,2000-4999
-Bonarda,"Corvina, Rondinella, Molinara",-0.1246008,150-499,1000-1999
-Port,Vermentino,-0.1247963,1000-1999,150-499
-Primitivo,Prosecco,-0.12531427,150-499,150-499
-Moscato,Rhône-style Red Blend,-0.12589142,150-499,1000-1999
-Alvarinho,Petite Sirah,-0.12592247,150-499,1000-1999
-Garnacha,Grüner Veltliner,-0.12661773,150-499,1000-1999
-Glera,Portuguese White,-0.12754697,500-999,1000-1999
-Fiano,Pinotage,-0.12792286,150-499,150-499
-Moscato,Tempranillo Blend,-0.12837818,150-499,500-999
-Pinot Nero,Tannat,-0.12854265,150-499,150-499
-Aglianico,Pinot Noir,-0.1286505,150-499,5000+
-Port,Riesling,-0.12867823,1000-1999,5000+
-Merlot,Portuguese Red,-0.12891704,2000-4999,2000-4999
-Bordeaux-style White Blend,Grillo,-0.12913409,1000-1999,150-499
-Champagne Blend,Muscat,-0.12936693,1000-1999,150-499
-Primitivo,Touriga Nacional,-0.12948573,150-499,150-499
-Dolcetto,Viognier,-0.12988366,150-499,1000-1999
-Blaufränkisch,Garganega,-0.13021582,150-499,150-499
-"Corvina, Rondinella, Molinara",Rhône-style White Blend,-0.13027844,1000-1999,500-999
-Cabernet Sauvignon-Merlot,Verdejo,-0.13075471,150-499,150-499
-Albariño,Alvarinho,-0.13133289,500-999,150-499
-Moscato,Zweigelt,-0.13146713,150-499,150-499
-Montepulciano,Touriga Nacional,-0.13155705,150-499,150-499
-Albariño,Nero d'Avola,-0.13189454,500-999,150-499
-Grillo,Tinta de Toro,-0.13273665,150-499,150-499
-Dolcetto,Roussanne,-0.13350858,150-499,150-499
-Mencía,Pinot Grigio,-0.13365006,150-499,1000-1999
-Nebbiolo,Port,-0.13374498,2000-4999,1000-1999
-Albariño,G-S-M,-0.13423057,500-999,150-499
-Gewürztraminer,Tempranillo,-0.13456486,1000-1999,2000-4999
-Nebbiolo,Prosecco,-0.13529615,2000-4999,150-499
-"Corvina, Rondinella, Molinara",Garnacha,-0.13580114,1000-1999,150-499
-Moscato,Zinfandel,-0.13615616,150-499,2000-4999
-Chardonnay,Tempranillo Blend,-0.1362723,5000+,500-999
-Grüner Veltliner,Pinot Nero,-0.13642736,1000-1999,150-499
-"Corvina, Rondinella, Molinara",Rosé,-0.13674867,1000-1999,2000-4999
-Alvarinho,Sauvignon,-0.1372399,150-499,150-499
-Carmenère,Rosé,-0.13755871,500-999,2000-4999
-Rosé,Tempranillo,-0.13792339,2000-4999,2000-4999
-Montepulciano,Sparkling Blend,-0.138031,150-499,2000-4999
-Sangiovese,Zinfandel,-0.13890827,2000-4999,2000-4999
-Moscato,Mourvèdre,-0.13894701,150-499,150-499
-Sémillon,Zinfandel,-0.1390913,150-499,2000-4999
-Grillo,Pinotage,-0.13911828,150-499,150-499
-Pinot Blanc,Tempranillo,-0.1392355,500-999,2000-4999
-Pinot Gris,Tempranillo Blend,-0.13935772,1000-1999,500-999
-Monastrell,White Blend,-0.13959163,150-499,2000-4999
-Champagne Blend,Zinfandel,-0.13996302,1000-1999,2000-4999
-Cabernet Sauvignon-Merlot,Torrontés,-0.13998684,150-499,150-499
-Bonarda,Pinot Gris,-0.14010537,150-499,1000-1999
-Cabernet Franc,Port,-0.14021388,1000-1999,1000-1999
-Bordeaux-style Red Blend,Montepulciano,-0.14081667,5000+,150-499
-Grenache,Touriga Nacional,-0.14094976,500-999,150-499
-Muscat,Port,-0.14159253,150-499,1000-1999
-Primitivo,Vermentino,-0.14171249,150-499,150-499
-G-S-M,Sangiovese Grosso,-0.14177786,150-499,1000-1999
-Pinot Blanc,Tempranillo Blend,-0.14180985,500-999,500-999
-Aglianico,Gewürztraminer,-0.14207989,150-499,1000-1999
-Mencía,Rosé,-0.14243263,150-499,2000-4999
-"Corvina, Rondinella, Molinara",Roussanne,-0.14255217,1000-1999,150-499
-G-S-M,Verdicchio,-0.14315152,150-499,150-499
-Gewürztraminer,Pinotage,-0.14319757,1000-1999,150-499
-Bordeaux-style White Blend,Prosecco,-0.14320686,1000-1999,150-499
-Chardonnay,"Corvina, Rondinella, Molinara",-0.143219,5000+,1000-1999
-Monastrell,Pinot Blanc,-0.14346781,150-499,500-999
-Petit Verdot,Port,-0.14402267,150-499,1000-1999
-Champagne Blend,Riesling,-0.14417735,1000-1999,5000+
-Bordeaux-style Red Blend,G-S-M,-0.1445047,5000+,150-499
-Garganega,Zweigelt,-0.14458308,150-499,150-499
-Monastrell,Sauvignon Blanc,-0.14487348,150-499,5000+
-G-S-M,Riesling,-0.14511007,150-499,5000+
-Nero d'Avola,Viognier,-0.14512539,150-499,1000-1999
-Chardonnay,Tempranillo,-0.14528197,5000+,2000-4999
-Mourvèdre,Rhône-style White Blend,-0.1458382,150-499,500-999
-Melon,Verdicchio,-0.14618833,150-499,150-499
-Gamay,Petit Verdot,-0.14634489,1000-1999,150-499
-Gewürztraminer,Primitivo,-0.14642043,1000-1999,150-499
-Bordeaux-style White Blend,Verdicchio,-0.14657357,1000-1999,150-499
-Melon,Zinfandel,-0.14711973,150-499,2000-4999
-Nebbiolo,Rosé,-0.14730206,2000-4999,2000-4999
-Tinta de Toro,Viognier,-0.14782664,150-499,1000-1999
-Rhône-style White Blend,Tempranillo Blend,-0.147845,500-999,500-999
-Montepulciano,Verdejo,-0.1482385,150-499,150-499
-Cabernet Sauvignon-Merlot,Portuguese Red,-0.1482872,150-499,2000-4999
-Nebbiolo,Vermentino,-0.1483927,2000-4999,150-499
-"Corvina, Rondinella, Molinara",Viognier,-0.14897278,1000-1999,1000-1999
-Montepulciano,Port,-0.149059,150-499,1000-1999
-Bordeaux-style Red Blend,Red Blend,-0.14930888,5000+,5000+
-Rosé,Tempranillo Blend,-0.14950058,2000-4999,500-999
-Grüner Veltliner,Touriga Nacional,-0.14952217,1000-1999,150-499
-Gewürztraminer,Mencía,-0.15001938,1000-1999,150-499
-Garganega,Melon,-0.15065275,150-499,150-499
-Carmenère,Grüner Veltliner,-0.15095854,500-999,1000-1999
-Dolcetto,Sauvignon Blanc,-0.15115844,150-499,5000+
-Sangiovese Grosso,Sémillon,-0.15146227,1000-1999,150-499
-Meritage,Rosé,-0.15150821,150-499,2000-4999
-Nebbiolo,Portuguese Red,-0.15162025,2000-4999,2000-4999
-Moscato,Pinotage,-0.15163602,150-499,150-499
-Merlot,Rosé,-0.15184216,2000-4999,2000-4999
-Pinot Nero,Sémillon,-0.15261847,150-499,150-499
-Blaufränkisch,Pinot Blanc,-0.15283456,150-499,500-999
-Grenache,Rhône-style White Blend,-0.1528739,500-999,500-999
-Portuguese Red,Vermentino,-0.15352073,2000-4999,150-499
-Chardonnay,Gamay,-0.15372635,5000+,1000-1999
-Gewürztraminer,Nero d'Avola,-0.15372692,1000-1999,150-499
-Nero d'Avola,Pinot Noir,-0.15398443,150-499,5000+
-Pinot Noir,Tinta de Toro,-0.15405628,5000+,150-499
-Tannat,Torrontés,-0.15414414,150-499,150-499
-Glera,Zweigelt,-0.15426965,500-999,150-499
-Touriga Nacional,Vermentino,-0.1544191,150-499,150-499
-Cabernet Sauvignon-Merlot,Rosé,-0.15512739,150-499,2000-4999
-Grenache,Torrontés,-0.15524867,500-999,150-499
-Barbera,Gewürztraminer,-0.15534854,500-999,1000-1999
-Fiano,Melon,-0.15576276,150-499,150-499
-Port,Primitivo,-0.15581954,1000-1999,150-499
-Dolcetto,Sparkling Blend,-0.15632293,150-499,2000-4999
-Pinot Bianco,Red Blend,-0.15675615,150-499,5000+
-Monastrell,Rhône-style White Blend,-0.1571269,150-499,500-999
-Grenache,Sauvignon,-0.15732345,500-999,150-499
-Pinot Gris,Tempranillo,-0.15765248,1000-1999,2000-4999
-Carmenère,Vermentino,-0.15781105,500-999,150-499
-Grenache,Portuguese Red,-0.15806296,500-999,2000-4999
-Sangiovese,Vermentino,-0.15815514,2000-4999,150-499
-Gamay,Montepulciano,-0.16000685,1000-1999,150-499
-Port,Tinta de Toro,-0.16002275,1000-1999,150-499
-Nebbiolo,White Blend,-0.16124398,2000-4999,2000-4999
-Garnacha,Pinot Noir,-0.16193691,150-499,5000+
-Grüner Veltliner,Tempranillo Blend,-0.16203943,1000-1999,500-999
-Rosé,Zinfandel,-0.162208,2000-4999,2000-4999
-Aglianico,Gamay,-0.16264246,150-499,1000-1999
-Dolcetto,Verdejo,-0.16268867,150-499,150-499
-Barbera,Prosecco,-0.16370308,500-999,150-499
-Bonarda,Grüner Veltliner,-0.16398099,150-499,1000-1999
-Fiano,G-S-M,-0.16400762,150-499,150-499
-Blaufränkisch,Cabernet Blend,-0.16447274,150-499,150-499
-Pinot Bianco,Tinta de Toro,-0.16456413,150-499,150-499
-Champagne Blend,Mourvèdre,-0.16461605,1000-1999,150-499
-Mencía,Roussanne,-0.16461915,150-499,150-499
-Bordeaux-style White Blend,Fiano,-0.1646846,1000-1999,150-499
-Mencía,Pinot Noir,-0.1647367,150-499,5000+
-Gewürztraminer,Rhône-style Red Blend,-0.16620286,1000-1999,1000-1999
-Melon,Tannat,-0.16625954,150-499,150-499
-Gamay,Sauvignon Blanc,-0.16665494,1000-1999,5000+
-Glera,Malbec,-0.16688463,500-999,2000-4999
-Champagne Blend,White Blend,-0.16694793,1000-1999,2000-4999
-Mencía,Moscato,-0.16795003,150-499,150-499
-G-S-M,Sauvignon Blanc,-0.16837347,150-499,5000+
-Glera,Primitivo,-0.1684845,500-999,150-499
-Bordeaux-style Red Blend,Dolcetto,-0.16892359,5000+,150-499
-Glera,Grenache,-0.16953498,500-999,500-999
-Pinot Noir,Tempranillo,-0.16954556,5000+,2000-4999
-Champagne Blend,Rhône-style Red Blend,-0.16965345,1000-1999,1000-1999
-Cabernet Sauvignon-Merlot,Sémillon,-0.16982776,150-499,150-499
-Moscato,Tempranillo,-0.17027146,150-499,2000-4999
-Bonarda,Chardonnay,-0.1703145,150-499,5000+
-Barbera,Torrontés,-0.1703364,500-999,150-499
-Primitivo,Torrontés,-0.17057702,150-499,150-499
-Gamay,Nebbiolo,-0.17083926,1000-1999,2000-4999
-Gewürztraminer,Touriga Nacional,-0.1708733,1000-1999,150-499
-Blaufränkisch,Riesling,-0.17123091,150-499,5000+
-Aglianico,Albariño,-0.17199147,150-499,500-999
-Rhône-style Red Blend,Sparkling Blend,-0.17215776,1000-1999,2000-4999
-Portuguese White,Verdejo,-0.17274539,1000-1999,150-499
-Nebbiolo,Rhône-style White Blend,-0.17318471,2000-4999,500-999
-Melon,Rhône-style White Blend,-0.17347625,150-499,500-999
-Grüner Veltliner,Sangiovese Grosso,-0.17376126,1000-1999,1000-1999
-Chenin Blanc,Sangiovese Grosso,-0.17379764,500-999,1000-1999
-Grüner Veltliner,Tempranillo,-0.17397028,1000-1999,2000-4999
-Bordeaux-style White Blend,Zinfandel,-0.1741403,1000-1999,2000-4999
-Prosecco,Zinfandel,-0.17450127,150-499,2000-4999
-Portuguese White,Torrontés,-0.17505309,1000-1999,150-499
-Cabernet Blend,Prosecco,-0.17522089,150-499,150-499
-Champagne Blend,Roussanne,-0.17591998,1000-1999,150-499
-Rhône-style Red Blend,Sauvignon,-0.1771437,1000-1999,150-499
-Blaufränkisch,Pinot Gris,-0.17733878,150-499,1000-1999
-Garganega,Port,-0.17777032,150-499,1000-1999
-Barbera,White Blend,-0.17850007,500-999,2000-4999
-Champagne Blend,Meritage,-0.17868467,1000-1999,150-499
-Meritage,Sémillon,-0.17914015,150-499,150-499
-Pinotage,Rhône-style White Blend,-0.17933284,150-499,500-999
-Rhône-style White Blend,Tinta de Toro,-0.17948619,500-999,150-499
-Cabernet Sauvignon-Merlot,Sparkling Blend,-0.17988311,150-499,2000-4999
-Riesling,Sangiovese,-0.17989774,5000+,2000-4999
-Gewürztraminer,Red Blend,-0.18038246,1000-1999,5000+
-Barbera,Gamay,-0.18051879,500-999,1000-1999
-Verdejo,Zweigelt,-0.18058905,150-499,150-499
-Monastrell,Pinot Gris,-0.18079767,150-499,1000-1999
-Aglianico,Rosé,-0.18098873,150-499,2000-4999
-Pinot Blanc,Pinot Nero,-0.18107663,500-999,150-499
-Albariño,Zweigelt,-0.18121217,500-999,150-499
-Sangiovese,White Blend,-0.18137754,2000-4999,2000-4999
-Dolcetto,Portuguese White,-0.18139729,150-499,1000-1999
-Alvarinho,Muscat,-0.18155502,150-499,150-499
-Moscato,Tinta de Toro,-0.18159701,150-499,150-499
-Red Blend,Vermentino,-0.1816962,5000+,150-499
-Tannat,Verdejo,-0.18172246,150-499,150-499
-Gamay,Gewürztraminer,-0.18282199,1000-1999,1000-1999
-Pinot Bianco,Primitivo,-0.18360707,150-499,150-499
-G-S-M,Garganega,-0.18382478,150-499,150-499
-Glera,Melon,-0.18402374,500-999,150-499
-Nebbiolo,Riesling,-0.18416171,2000-4999,5000+
-Rhône-style Red Blend,Torrontés,-0.18464078,1000-1999,150-499
-Cabernet Blend,Moscato,-0.18500772,150-499,150-499
-Aglianico,White Blend,-0.18504977,150-499,2000-4999
-Mourvèdre,Port,-0.18506852,150-499,1000-1999
-Monastrell,Pinot Noir,-0.18544063,150-499,5000+
-Port,Rhône-style Red Blend,-0.18608074,1000-1999,1000-1999
-Tempranillo,White Blend,-0.18613896,2000-4999,2000-4999
-Malbec,Rosé,-0.1863671,2000-4999,2000-4999
-Cabernet Blend,Portuguese White,-0.18656257,150-499,1000-1999
-Alvarinho,Sparkling Blend,-0.18698761,150-499,2000-4999
-Rhône-style White Blend,Tempranillo,-0.1872949,500-999,2000-4999
-Pinot Grigio,Sangiovese,-0.18763936,1000-1999,2000-4999
-Pinot Grigio,Zweigelt,-0.18778935,1000-1999,150-499
-Mourvèdre,Portuguese White,-0.18906632,150-499,1000-1999
-Gamay,Shiraz,-0.18923523,1000-1999,1000-1999
-Pinot Grigio,Tinta de Toro,-0.18967766,1000-1999,150-499
-Red Blend,Sémillon,-0.1899807,5000+,150-499
-G-S-M,Pinot Bianco,-0.19038856,150-499,150-499
-"Corvina, Rondinella, Molinara",Torrontés,-0.19042349,1000-1999,150-499
-Gamay,Vermentino,-0.19054604,1000-1999,150-499
-Port,Tempranillo Blend,-0.19068263,1000-1999,500-999
-Aglianico,Sparkling Blend,-0.19075166,150-499,2000-4999
-Gamay,Moscato,-0.19080135,1000-1999,150-499
-Petite Sirah,Pinot Nero,-0.19082889,1000-1999,150-499
-"Corvina, Rondinella, Molinara",Sparkling Blend,-0.19115937,1000-1999,2000-4999
-Chardonnay,Portuguese Red,-0.19148278,5000+,2000-4999
-Sangiovese Grosso,White Blend,-0.19182757,1000-1999,2000-4999
-Melon,Muscat,-0.19261318,150-499,150-499
-Barbera,Verdejo,-0.19262302,500-999,150-499
-Dolcetto,Sémillon,-0.19290549,150-499,150-499
-Chardonnay,Tinta de Toro,-0.19342688,5000+,150-499
-Cabernet Blend,Melon,-0.1935595,150-499,150-499
-Mencía,Pinot Blanc,-0.19359523,150-499,500-999
-Pinot Gris,Portuguese Red,-0.19401778,1000-1999,2000-4999
-Bordeaux-style White Blend,Garganega,-0.19454995,1000-1999,150-499
-Melon,Verdejo,-0.19472995,150-499,150-499
-Nebbiolo,Touriga Nacional,-0.19478309,2000-4999,150-499
-Cabernet Sauvignon-Merlot,Prosecco,-0.19499943,150-499,150-499
-Nero d'Avola,Riesling,-0.19516182,150-499,5000+
-Melon,Sauvignon,-0.19543496,150-499,150-499
-Primitivo,Verdejo,-0.19585466,150-499,150-499
-Sauvignon Blanc,Tempranillo,-0.1959061,5000+,2000-4999
-Blaufränkisch,Glera,-0.19602892,150-499,500-999
-Bordeaux-style White Blend,Grenache,-0.19614616,1000-1999,500-999
-"Corvina, Rondinella, Molinara",Grüner Veltliner,-0.1964351,1000-1999,1000-1999
-Rhône-style White Blend,Shiraz,-0.19704944,500-999,1000-1999
-Roussanne,Tinta de Toro,-0.19787456,150-499,150-499
-Pinotage,Viognier,-0.19818684,150-499,1000-1999
-Chardonnay,Touriga Nacional,-0.19842046,5000+,150-499
-Pinot Gris,Pinot Nero,-0.19854337,1000-1999,150-499
-Nero d'Avola,Roussanne,-0.1986718,150-499,150-499
-Primitivo,White Blend,-0.19879681,150-499,2000-4999
-Dolcetto,Pinot Blanc,-0.19970596,150-499,500-999
-Viognier,Zinfandel,-0.19987649,1000-1999,2000-4999
-Pinot Grigio,Sangiovese Grosso,-0.20007977,1000-1999,1000-1999
-Bordeaux-style Red Blend,Malbec,-0.20029911,5000+,2000-4999
-Pinot Bianco,Pinotage,-0.20061566,150-499,150-499
-Gewürztraminer,Tinta de Toro,-0.20080554,1000-1999,150-499
-Cabernet Blend,Vermentino,-0.20082045,150-499,150-499
-Bordeaux-style Red Blend,Sémillon,-0.20151278,5000+,150-499
-G-S-M,Pinot Grigio,-0.20228985,150-499,1000-1999
-Sémillon,Touriga Nacional,-0.20246506,150-499,150-499
-Alvarinho,Barbera,-0.20283002,150-499,500-999
-Blaufränkisch,Sparkling Blend,-0.20307511,150-499,2000-4999
-Sangiovese Grosso,Torrontés,-0.20370221,1000-1999,150-499
-Carmenère,Pinot Blanc,-0.20438838,500-999,500-999
-Roussanne,Zinfandel,-0.20458084,150-499,2000-4999
-Port,Syrah,-0.2047188,1000-1999,5000+
-Grüner Veltliner,Monastrell,-0.2050555,1000-1999,150-499
-Grillo,Malbec,-0.20510931,150-499,2000-4999
-Pinot Noir,Tempranillo Blend,-0.20538904,5000+,500-999
-Mencía,Rhône-style White Blend,-0.20562407,150-499,500-999
-Malbec,Prosecco,-0.20593923,2000-4999,150-499
-Sauvignon Blanc,Tempranillo Blend,-0.2063011,5000+,500-999
-Chardonnay,Garnacha,-0.2067973,5000+,150-499
-"Corvina, Rondinella, Molinara",Riesling,-0.20709361,1000-1999,5000+
-Barbera,Port,-0.20767845,500-999,1000-1999
-Garnacha,Vermentino,-0.20898448,150-499,150-499
-Rhône-style White Blend,Sangiovese,-0.20906706,500-999,2000-4999
-Pinot Grigio,Primitivo,-0.20915566,1000-1999,150-499
-Malbec,Port,-0.20937118,2000-4999,1000-1999
-Rosé,Sémillon,-0.20962289,2000-4999,150-499
-Dolcetto,Port,-0.20966628,150-499,1000-1999
-Barbera,Pinot Grigio,-0.21008147,500-999,1000-1999
-Pinot Nero,Sauvignon Blanc,-0.2102292,150-499,5000+
-Cabernet Blend,Sauvignon,-0.21057789,150-499,150-499
-Cabernet Sauvignon-Merlot,Muscat,-0.21096632,150-499,150-499
-Garganega,Petit Verdot,-0.2116625,150-499,150-499
-Petite Sirah,Portuguese White,-0.21181723,1000-1999,1000-1999
-Nebbiolo,Pinot Grigio,-0.21199018,2000-4999,1000-1999
-Bordeaux-style White Blend,Tannat,-0.21215025,1000-1999,150-499
-Pinot Gris,Touriga Nacional,-0.21223453,1000-1999,150-499
-Glera,Rhône-style Red Blend,-0.21241054,500-999,1000-1999
-Malbec,Riesling,-0.21254006,2000-4999,5000+
-Prosecco,Shiraz,-0.21277705,150-499,1000-1999
-Merlot,Port,-0.21285316,2000-4999,1000-1999
-Nebbiolo,Zinfandel,-0.21312675,2000-4999,2000-4999
-Grüner Veltliner,Nero d'Avola,-0.2137664,1000-1999,150-499
-Grüner Veltliner,Mencía,-0.21423112,1000-1999,150-499
-Moscato,Touriga Nacional,-0.21443006,150-499,150-499
-Champagne Blend,Garganega,-0.21487418,1000-1999,150-499
-Port,Prosecco,-0.21543264,1000-1999,150-499
-Meritage,Prosecco,-0.21558987,150-499,150-499
-Port,Verdicchio,-0.21587612,1000-1999,150-499
-Mencía,White Blend,-0.21615285,150-499,2000-4999
-Primitivo,Viognier,-0.21634544,150-499,1000-1999
-Gamay,Sémillon,-0.21688978,1000-1999,150-499
-Bordeaux-style Red Blend,Tinta de Toro,-0.21784578,5000+,150-499
-Champagne Blend,Shiraz,-0.21789438,1000-1999,1000-1999
-Champagne Blend,Rhône-style White Blend,-0.21792835,1000-1999,500-999
-Portuguese Red,Sémillon,-0.2180614,2000-4999,150-499
-Pinot Blanc,Portuguese Red,-0.21829708,500-999,2000-4999
-Rhône-style White Blend,Sangiovese Grosso,-0.21831799,500-999,1000-1999
-Alvarinho,Rhône-style Red Blend,-0.21887748,150-499,1000-1999
-Sauvignon,Zweigelt,-0.2191374,150-499,150-499
-Chardonnay,Zweigelt,-0.21915221,5000+,150-499
-Gamay,Primitivo,-0.21924311,1000-1999,150-499
-Primitivo,Roussanne,-0.21946758,150-499,150-499
-Gewürztraminer,Mourvèdre,-0.21959297,1000-1999,150-499
-Mourvèdre,Prosecco,-0.21961334,150-499,150-499
-Mencía,Pinot Gris,-0.21965617,150-499,1000-1999
-Blaufränkisch,Gewürztraminer,-0.2202155,150-499,1000-1999
-Bordeaux-style White Blend,Sauvignon,-0.22082168,1000-1999,150-499
-Grenache,Verdicchio,-0.22090524,500-999,150-499
-Portuguese White,Zinfandel,-0.22100292,1000-1999,2000-4999
-Blaufränkisch,Prosecco,-0.22103298,150-499,150-499
-Sauvignon,Syrah,-0.2211617,150-499,5000+
-Bordeaux-style White Blend,Sparkling Blend,-0.22237253,1000-1999,2000-4999
-Sangiovese Grosso,Sauvignon Blanc,-0.22239354,1000-1999,5000+
-"Corvina, Rondinella, Molinara",Sauvignon Blanc,-0.22240558,1000-1999,5000+
-Chardonnay,Zinfandel,-0.22278899,5000+,2000-4999
-Chardonnay,Monastrell,-0.22283745,5000+,150-499
-Chardonnay,Mencía,-0.2229243,5000+,150-499
-Gewürztraminer,Portuguese Red,-0.22308531,1000-1999,2000-4999
-Bonarda,Vermentino,-0.22406107,150-499,150-499
-Sauvignon Blanc,Touriga Nacional,-0.22430012,5000+,150-499
-Bordeaux-style White Blend,Glera,-0.22462249,1000-1999,500-999
-Grenache,Verdejo,-0.225145,500-999,150-499
-Tempranillo Blend,Vermentino,-0.22608666,500-999,150-499
-Portuguese Red,Sauvignon Blanc,-0.22635618,2000-4999,5000+
-Mourvèdre,Sauvignon,-0.22650152,150-499,150-499
-Grenache,Port,-0.2266331,500-999,1000-1999
-Alvarinho,Meritage,-0.22676551,150-499,150-499
-Grillo,Zweigelt,-0.2269854,150-499,150-499
-Sauvignon,Tannat,-0.227608,150-499,150-499
-Pinot Grigio,Port,-0.22764243,1000-1999,1000-1999
-Cabernet Sauvignon-Merlot,Verdicchio,-0.22780833,150-499,150-499
-Garganega,Grenache,-0.2285846,150-499,500-999
-Blaufränkisch,Pinot Bianco,-0.22890352,150-499,150-499
-Albariño,Red Blend,-0.22917385,500-999,5000+
-Dolcetto,Riesling,-0.2292994,150-499,5000+
-Sauvignon Blanc,Tinta de Toro,-0.22934961,5000+,150-499
-Malbec,Pinot Bianco,-0.22964832,2000-4999,150-499
-Pinot Bianco,Zweigelt,-0.22987702,150-499,150-499
-Albariño,Dolcetto,-0.22997677,500-999,150-499
-Mourvèdre,Sauvignon Blanc,-0.23048665,150-499,5000+
-Meritage,White Blend,-0.23074274,150-499,2000-4999
-Pinotage,Riesling,-0.23075095,150-499,5000+
-Pinot Blanc,Touriga Nacional,-0.23090532,500-999,150-499
-Torrontés,Zweigelt,-0.23141086,150-499,150-499
-"Corvina, Rondinella, Molinara",Pinot Gris,-0.23141494,1000-1999,1000-1999
-Shiraz,Torrontés,-0.23149817,1000-1999,150-499
-Champagne Blend,Montepulciano,-0.23157912,1000-1999,150-499
-Albariño,Blaufränkisch,-0.23167527,500-999,150-499
-Shiraz,Sparkling Blend,-0.23167998,1000-1999,2000-4999
-Port,Roussanne,-0.2317244,1000-1999,150-499
-Mencía,Sauvignon Blanc,-0.23187599,150-499,5000+
-Blaufränkisch,G-S-M,-0.23197907,150-499,150-499
-Mourvèdre,Muscat,-0.23204395,150-499,150-499
-Blaufränkisch,Sauvignon,-0.23232624,150-499,150-499
-Albariño,Montepulciano,-0.23350358,500-999,150-499
-Grüner Veltliner,Tinta de Toro,-0.23464401,1000-1999,150-499
-Monastrell,Vermentino,-0.23482256,150-499,150-499
-Gamay,Syrah,-0.2349075,1000-1999,5000+
-Chardonnay,Sangiovese Grosso,-0.23495111,5000+,1000-1999
-Champagne Blend,Viognier,-0.23503841,1000-1999,1000-1999
-Fiano,Port,-0.23531088,150-499,1000-1999
-Cabernet Sauvignon-Merlot,Grillo,-0.23605481,150-499,150-499
-Carmenère,Chardonnay,-0.23665461,500-999,5000+
-G-S-M,Vermentino,-0.23806323,150-499,150-499
-Portuguese White,Tannat,-0.23827784,1000-1999,150-499
-Champagne Blend,Verdicchio,-0.23900735,1000-1999,150-499
-Tinta de Toro,White Blend,-0.23918676,150-499,2000-4999
-Cabernet Sauvignon-Merlot,Port,-0.23991454,150-499,1000-1999
-Dolcetto,Melon,-0.2400609,150-499,150-499
-Grillo,Petit Verdot,-0.24141316,150-499,150-499
-Albariño,"Corvina, Rondinella, Molinara",-0.24151415,500-999,1000-1999
-Pinot Bianco,Port,-0.24259861,150-499,1000-1999
-Mourvèdre,Roussanne,-0.24286309,150-499,150-499
-Moscato,Portuguese Red,-0.24288759,150-499,2000-4999
-Red Blend,Viognier,-0.24320093,5000+,1000-1999
-Champagne Blend,Grillo,-0.24352422,1000-1999,150-499
-Champagne Blend,Dolcetto,-0.24403502,1000-1999,150-499
-Muscat,Petit Verdot,-0.24409923,150-499,150-499
-Albariño,Champagne Blend,-0.24412763,500-999,1000-1999
-Garnacha,Sémillon,-0.24446055,150-499,150-499
-Melon,Torrontés,-0.2446137,150-499,150-499
-Montepulciano,Sémillon,-0.24491987,150-499,150-499
-Malbec,Touriga Nacional,-0.24508487,2000-4999,150-499
-Cabernet Sauvignon-Merlot,Gamay,-0.24516824,150-499,1000-1999
-Alvarinho,Cabernet Sauvignon,-0.24532017,150-499,5000+
-Barbera,Champagne Blend,-0.24539134,500-999,1000-1999
-Champagne Blend,Nebbiolo,-0.24542582,1000-1999,2000-4999
-Carmenère,Pinot Gris,-0.24578044,500-999,1000-1999
-G-S-M,Pinot Blanc,-0.24633232,150-499,500-999
-Malbec,Viognier,-0.24685949,2000-4999,1000-1999
-Pinot Grigio,Pinotage,-0.24814379,1000-1999,150-499
-Aglianico,Rhône-style White Blend,-0.24826707,150-499,500-999
-Grenache,Grüner Veltliner,-0.24834888,500-999,1000-1999
-Grenache,Sémillon,-0.24846195,500-999,150-499
-Dolcetto,Pinot Gris,-0.24859574,150-499,1000-1999
-Petite Sirah,Rosé,-0.24876511,1000-1999,2000-4999
-Sparkling Blend,Zinfandel,-0.24915674,2000-4999,2000-4999
-Primitivo,Rhône-style White Blend,-0.24967504,150-499,500-999
-Viognier,Zweigelt,-0.24994105,1000-1999,150-499
-Blaufränkisch,Verdicchio,-0.24994598,150-499,150-499
-Montepulciano,Viognier,-0.24997196,150-499,1000-1999
-Petit Verdot,Verdicchio,-0.25016558,150-499,150-499
-Cabernet Blend,Verdicchio,-0.25121802,150-499,150-499
-Cabernet Franc,Torrontés,-0.2515865,1000-1999,150-499
-Blaufränkisch,Fiano,-0.25196338,150-499,150-499
-Fiano,Petit Verdot,-0.2521242,150-499,150-499
-Sémillon,Tempranillo Blend,-0.25236803,150-499,500-999
-Meritage,Sauvignon,-0.25259554,150-499,150-499
-Nebbiolo,Sémillon,-0.2527023,2000-4999,150-499
-Chenin Blanc,Pinot Noir,-0.25321588,500-999,5000+
-Mourvèdre,White Blend,-0.25324512,150-499,2000-4999
-Bonarda,Pinot Noir,-0.25376934,150-499,5000+
-Port,Sangiovese,-0.25391737,1000-1999,2000-4999
-Carmenère,Sémillon,-0.25433016,500-999,150-499
-Rosé,Tinta de Toro,-0.25451317,2000-4999,150-499
-Blaufränkisch,Verdejo,-0.25460938,150-499,150-499
-Nero d'Avola,Portuguese Red,-0.2546469,150-499,2000-4999
-Albariño,Petit Verdot,-0.25504193,500-999,150-499
-Rosé,Shiraz,-0.25515953,2000-4999,1000-1999
-Aglianico,Pinot Grigio,-0.25575686,150-499,1000-1999
-Montepulciano,Rhône-style White Blend,-0.25582695,150-499,500-999
-Aglianico,Riesling,-0.25593358,150-499,5000+
-Albariño,Bordeaux-style White Blend,-0.25611284,500-999,1000-1999
-Alvarinho,Primitivo,-0.2565915,150-499,150-499
-Albariño,Tannat,-0.25666332,500-999,150-499
-Pinot Blanc,Tinta de Toro,-0.2568459,500-999,150-499
-Red Blend,Roussanne,-0.25704408,5000+,150-499
-Blaufränkisch,Muscat,-0.25767,150-499,150-499
-Sauvignon Blanc,Zweigelt,-0.2584152,5000+,150-499
-Malbec,Moscato,-0.25873715,2000-4999,150-499
-Grüner Veltliner,Nebbiolo,-0.258919,1000-1999,2000-4999
-Grüner Veltliner,Montepulciano,-0.2591661,1000-1999,150-499
-Barbera,Sparkling Blend,-0.25926852,500-999,2000-4999
-Alvarinho,Torrontés,-0.25927478,150-499,150-499
-Primitivo,Sparkling Blend,-0.25936317,150-499,2000-4999
-Barbera,Sémillon,-0.2598802,500-999,150-499
-Fiano,Zweigelt,-0.26027566,150-499,150-499
-Cabernet Sauvignon,Champagne Blend,-0.26036632,5000+,1000-1999
-Cabernet Sauvignon-Merlot,Moscato,-0.2604099,150-499,150-499
-Bordeaux-style White Blend,Primitivo,-0.26109976,1000-1999,150-499
-Cabernet Blend,Grillo,-0.26110804,150-499,150-499
-Cabernet Franc,Verdejo,-0.2611506,1000-1999,150-499
-"Corvina, Rondinella, Molinara",Verdejo,-0.26187298,1000-1999,150-499
-Port,Sparkling Blend,-0.2619225,1000-1999,2000-4999
-Melon,Montepulciano,-0.26198602,150-499,150-499
-Alvarinho,Grenache,-0.2627909,150-499,500-999
-Meritage,Moscato,-0.263017,150-499,150-499
-Rhône-style White Blend,Syrah,-0.26431197,500-999,5000+
-Glera,Shiraz,-0.2646114,500-999,1000-1999
-Port,Tempranillo,-0.26497436,1000-1999,2000-4999
-Gamay,Sangiovese,-0.26528215,1000-1999,2000-4999
-Albariño,Port,-0.26528716,500-999,1000-1999
-Merlot,Verdejo,-0.26538098,2000-4999,150-499
-Shiraz,Verdejo,-0.26592407,1000-1999,150-499
-Melon,Shiraz,-0.26650226,150-499,1000-1999
-Rosé,Tannat,-0.26655668,2000-4999,150-499
-Garganega,Shiraz,-0.26677245,150-499,1000-1999
-Pinotage,White Blend,-0.26707178,150-499,2000-4999
-Pinot Gris,Tinta de Toro,-0.26736033,1000-1999,150-499
-Champagne Blend,Pinot Nero,-0.267449,1000-1999,150-499
-Petit Verdot,Rosé,-0.26752394,150-499,2000-4999
-Vermentino,Zweigelt,-0.2680515,150-499,150-499
-Rhône-style Red Blend,Roussanne,-0.26829967,1000-1999,150-499
-Albariño,Barbera,-0.26895952,500-999,500-999
-Grenache,Melon,-0.26899058,500-999,150-499
-Sémillon,Tinta de Toro,-0.26978004,150-499,150-499
-Alvarinho,Verdejo,-0.27023587,150-499,150-499
-Grillo,Port,-0.27034426,150-499,1000-1999
-Cabernet Franc,Sauvignon,-0.27039018,1000-1999,150-499
-Bonarda,Sémillon,-0.2709368,150-499,150-499
-Garganega,Tannat,-0.2714764,150-499,150-499
-Sangiovese,Viognier,-0.27160528,2000-4999,1000-1999
-"Corvina, Rondinella, Molinara",Pinot Blanc,-0.27184528,1000-1999,500-999
-Gewürztraminer,Malbec,-0.2727093,1000-1999,2000-4999
-Grenache,Roussanne,-0.272757,500-999,150-499
-Cabernet Sauvignon-Merlot,Glera,-0.2729358,150-499,500-999
-G-S-M,Pinot Gris,-0.27320498,150-499,1000-1999
-Alvarinho,Montepulciano,-0.27329025,150-499,150-499
-Nero d'Avola,Sémillon,-0.27401137,150-499,150-499
-Pinotage,Roussanne,-0.27410978,150-499,150-499
-Champagne Blend,Fiano,-0.27421558,1000-1999,150-499
-Blaufränkisch,Chardonnay,-0.27440894,150-499,5000+
-Primitivo,Sémillon,-0.27466547,150-499,150-499
-Cabernet Sauvignon-Merlot,Fiano,-0.27493906,150-499,150-499
-Grenache,Viognier,-0.2750633,500-999,1000-1999
-Grenache,White Blend,-0.2750867,500-999,2000-4999
-Barbera,Melon,-0.2757975,500-999,150-499
-Grüner Veltliner,Sangiovese,-0.2758469,1000-1999,2000-4999
-Cabernet Sauvignon,Melon,-0.2763446,5000+,150-499
-Grenache,Grillo,-0.2764341,500-999,150-499
-Pinot Noir,Sémillon,-0.27670735,5000+,150-499
-Grenache,Sauvignon Blanc,-0.27730697,500-999,5000+
-Muscat,Shiraz,-0.27746755,150-499,1000-1999
-Cabernet Blend,Zweigelt,-0.27799916,150-499,150-499
-Muscat,Tannat,-0.27806118,150-499,150-499
-Montepulciano,Riesling,-0.27838185,150-499,5000+
-Grüner Veltliner,Pinotage,-0.27844,1000-1999,150-499
-Melon,Primitivo,-0.27847576,150-499,150-499
-Glera,Port,-0.27909,500-999,1000-1999
-Bordeaux-style White Blend,Dolcetto,-0.2792964,1000-1999,150-499
-Cabernet Franc,Muscat,-0.2799986,1000-1999,150-499
-Mourvèdre,Vermentino,-0.28029978,150-499,150-499
-Port,Viognier,-0.28114828,1000-1999,1000-1999
-Bordeaux-style White Blend,Cabernet Sauvignon,-0.28125912,1000-1999,5000+
-Bordeaux-style Red Blend,Sangiovese,-0.28146866,5000+,2000-4999
-Bordeaux-style Red Blend,Nero d'Avola,-0.28312683,5000+,150-499
-Fiano,Grenache,-0.2831406,150-499,500-999
-Bordeaux-style White Blend,Torrontés,-0.28316706,1000-1999,150-499
-Sangiovese Grosso,Verdejo,-0.28318918,1000-1999,150-499
-Roussanne,Sangiovese Grosso,-0.28326863,150-499,1000-1999
-Verdicchio,Zweigelt,-0.28355327,150-499,150-499
-Nero d'Avola,Touriga Nacional,-0.28357127,150-499,150-499
-Blaufränkisch,Grillo,-0.28418028,150-499,150-499
-Riesling,Sangiovese Grosso,-0.2842064,5000+,1000-1999
-Blaufränkisch,Moscato,-0.284453,150-499,150-499
-Moscato,Shiraz,-0.28475118,150-499,1000-1999
-Barbera,Rhône-style White Blend,-0.28500172,500-999,500-999
-Rosé,Syrah,-0.2851423,2000-4999,5000+
-Sauvignon Blanc,Zinfandel,-0.28567278,5000+,2000-4999
-Chenin Blanc,Dolcetto,-0.28571618,500-999,150-499
-Shiraz,Sémillon,-0.28592503,1000-1999,150-499
-Albariño,Primitivo,-0.28617144,500-999,150-499
-Montepulciano,Roussanne,-0.28639343,150-499,150-499
-Alvarinho,Nero d'Avola,-0.28659213,150-499,150-499
-Barbera,Portuguese White,-0.287412,500-999,1000-1999
-Bordeaux-style Red Blend,Chardonnay,-0.28773066,5000+,5000+
-G-S-M,Grüner Veltliner,-0.28796843,150-499,1000-1999
-Malbec,Roussanne,-0.28858054,2000-4999,150-499
-Carmenère,Pinot Noir,-0.2888563,500-999,5000+
-Red Blend,Touriga Nacional,-0.28887993,5000+,150-499
-Bordeaux-style White Blend,Montepulciano,-0.2902316,1000-1999,150-499
-Tempranillo,Vermentino,-0.29054862,2000-4999,150-499
-Aglianico,Champagne Blend,-0.29087266,150-499,1000-1999
-Malbec,Sauvignon Blanc,-0.29103363,2000-4999,5000+
-Pinot Gris,Sangiovese Grosso,-0.29200146,1000-1999,1000-1999
-Grillo,Rhône-style Red Blend,-0.29201934,150-499,1000-1999
-Albariño,Cabernet Sauvignon-Merlot,-0.29234654,500-999,150-499
-Nero d'Avola,Pinot Blanc,-0.2935357,150-499,500-999
-Tinta de Toro,Vermentino,-0.2936626,150-499,150-499
-Cabernet Blend,Muscat,-0.29368693,150-499,150-499
-Glera,Petit Verdot,-0.29402995,500-999,150-499
-Petit Verdot,Sparkling Blend,-0.29448503,150-499,2000-4999
-Pinotage,Touriga Nacional,-0.29455703,150-499,150-499
-Merlot,Prosecco,-0.2945779,2000-4999,150-499
-Nero d'Avola,Port,-0.29463822,150-499,1000-1999
-Monastrell,Sémillon,-0.295326,150-499,150-499
-Rhône-style Red Blend,Verdejo,-0.2954564,1000-1999,150-499
-Glera,Zinfandel,-0.29566652,500-999,2000-4999
-Cabernet Blend,Glera,-0.2956742,150-499,500-999
-Pinot Grigio,Red Blend,-0.2957462,1000-1999,5000+
-Alvarinho,Syrah,-0.29587883,150-499,5000+
-Chardonnay,G-S-M,-0.29593337,5000+,150-499
-Bordeaux-style Red Blend,Grüner Veltliner,-0.29595134,5000+,1000-1999
-Port,White Blend,-0.2965113,1000-1999,2000-4999
-Cabernet Franc,Champagne Blend,-0.29667202,1000-1999,1000-1999
-Champagne Blend,Primitivo,-0.29714763,1000-1999,150-499
-Bordeaux-style White Blend,Syrah,-0.29786932,1000-1999,5000+
-Meritage,Sparkling Blend,-0.2981378,150-499,2000-4999
-Malbec,Pinot Grigio,-0.2983215,2000-4999,1000-1999
-Cabernet Sauvignon-Merlot,Garganega,-0.29848045,150-499,150-499
-Tinta de Toro,Touriga Nacional,-0.29884517,150-499,150-499
-Cabernet Blend,Pinot Bianco,-0.29911467,150-499,150-499
-Grüner Veltliner,Pinot Noir,-0.29930827,1000-1999,5000+
-Melon,Rhône-style Red Blend,-0.29945612,150-499,1000-1999
-Champagne Blend,Sauvignon,-0.30099055,1000-1999,150-499
-Merlot,Sparkling Blend,-0.3011934,2000-4999,2000-4999
-Cabernet Sauvignon-Merlot,Pinot Bianco,-0.30174258,150-499,150-499
-Grüner Veltliner,Malbec,-0.3024956,1000-1999,2000-4999
-Sangiovese Grosso,Viognier,-0.30283523,1000-1999,1000-1999
-Sémillon,Tempranillo,-0.30286753,150-499,2000-4999
-Bordeaux-style Red Blend,Pinotage,-0.30318746,5000+,150-499
-Bordeaux-style White Blend,Shiraz,-0.30329663,1000-1999,1000-1999
-Rhône-style Red Blend,Verdicchio,-0.3038437,1000-1999,150-499
-Barbera,Bordeaux-style White Blend,-0.30385712,500-999,1000-1999
-Merlot,Torrontés,-0.30391628,2000-4999,150-499
-Mencía,Vermentino,-0.30429506,150-499,150-499
-Syrah,Torrontés,-0.30481893,5000+,150-499
-Grillo,Mourvèdre,-0.3048308,150-499,150-499
-Sauvignon,Shiraz,-0.30484834,150-499,1000-1999
-Nebbiolo,Viognier,-0.3052955,2000-4999,1000-1999
-Nero d'Avola,Sauvignon Blanc,-0.30584052,150-499,5000+
-Gewürztraminer,Zinfandel,-0.30620915,1000-1999,2000-4999
-Cabernet Blend,Fiano,-0.30634862,150-499,150-499
-Pinotage,Sauvignon Blanc,-0.30656832,150-499,5000+
-Mourvèdre,Torrontés,-0.30660874,150-499,150-499
-Gamay,Nero d'Avola,-0.3066151,1000-1999,150-499
-Meritage,Muscat,-0.30661786,150-499,150-499
-Chardonnay,Pinot Noir,-0.30665457,5000+,5000+
-Port,Torrontés,-0.30678478,1000-1999,150-499
-Primitivo,Sauvignon Blanc,-0.3075663,150-499,5000+
-Alvarinho,Petit Verdot,-0.30791587,150-499,150-499
-Albariño,Sangiovese Grosso,-0.30870867,500-999,1000-1999
-Mourvèdre,Sparkling Blend,-0.3087185,150-499,2000-4999
-Meritage,Portuguese White,-0.3089322,150-499,1000-1999
-Chenin Blanc,Zinfandel,-0.30960274,500-999,2000-4999
-Albariño,Grenache,-0.31001374,500-999,500-999
-Sangiovese,Sémillon,-0.31037882,2000-4999,150-499
-Blaufränkisch,Torrontés,-0.31049836,150-499,150-499
-Cabernet Blend,Garganega,-0.310722,150-499,150-499
-Fiano,Tannat,-0.31087,150-499,150-499
-Pinot Bianco,Touriga Nacional,-0.3111056,150-499,150-499
-Moscato,Pinot Noir,-0.31156364,150-499,5000+
-Gamay,Prosecco,-0.3117634,1000-1999,150-499
-Portuguese Red,Red Blend,-0.31213078,2000-4999,5000+
-Cabernet Blend,Torrontés,-0.31220216,150-499,150-499
-Bordeaux-style White Blend,G-S-M,-0.31235802,1000-1999,150-499
-Montepulciano,Sauvignon Blanc,-0.31240237,150-499,5000+
-Roussanne,Zweigelt,-0.3136003,150-499,150-499
-Cabernet Blend,Chardonnay,-0.31372982,150-499,5000+
-Champagne Blend,Torrontés,-0.31385154,1000-1999,150-499
-Petit Verdot,Rhône-style White Blend,-0.3144881,150-499,500-999
-Rhône-style Red Blend,Viognier,-0.31455916,1000-1999,1000-1999
-Malbec,Rhône-style White Blend,-0.31457436,2000-4999,500-999
-Champagne Blend,Verdejo,-0.31474942,1000-1999,150-499
-Malbec,Portuguese Red,-0.3148953,2000-4999,2000-4999
-Cabernet Sauvignon-Merlot,Champagne Blend,-0.3151068,150-499,1000-1999
-Alvarinho,G-S-M,-0.31512335,150-499,150-499
-Port,Sauvignon,-0.31525218,1000-1999,150-499
-Portuguese White,Primitivo,-0.31646058,1000-1999,150-499
-Portuguese Red,Sangiovese,-0.31679046,2000-4999,2000-4999
-Sémillon,Tannat,-0.3169637,150-499,150-499
-Grenache,Portuguese White,-0.3178079,500-999,1000-1999
-Pinot Blanc,Zinfandel,-0.3179374,500-999,2000-4999
-Glera,Mourvèdre,-0.3202309,500-999,150-499
-Rhône-style Red Blend,Sauvignon Blanc,-0.32044083,1000-1999,5000+
-Muscat,Zinfandel,-0.32057154,150-499,2000-4999
-Melon,Meritage,-0.3206812,150-499,150-499
-Riesling,Shiraz,-0.32141826,5000+,1000-1999
-Mencía,Port,-0.32145116,150-499,1000-1999
-Syrah,Sémillon,-0.32164457,5000+,150-499
-Glera,Meritage,-0.32226706,500-999,150-499
-Tannat,Verdicchio,-0.32257172,150-499,150-499
-Sauvignon,Zinfandel,-0.32262108,150-499,2000-4999
-Bordeaux-style White Blend,Nebbiolo,-0.32329944,1000-1999,2000-4999
-Petite Sirah,Sémillon,-0.32354677,1000-1999,150-499
-Meritage,Torrontés,-0.32363293,150-499,150-499
-Cabernet Franc,Moscato,-0.32393944,1000-1999,150-499
-Bordeaux-style Red Blend,Vermentino,-0.3242111,5000+,150-499
-Rhône-style Red Blend,Vermentino,-0.32457125,1000-1999,150-499
-Moscato,Petit Verdot,-0.3247663,150-499,150-499
-Muscat,Touriga Nacional,-0.32500982,150-499,150-499
-Gamay,Riesling,-0.32624912,1000-1999,5000+
-Grenache,Pinot Bianco,-0.3267425,500-999,150-499
-Champagne Blend,Syrah,-0.32701868,1000-1999,5000+
-Pinot Blanc,Sangiovese Grosso,-0.327103,500-999,1000-1999
-Moscato,Petite Sirah,-0.32733738,150-499,1000-1999
-Pinotage,Portuguese Red,-0.327614,150-499,2000-4999
-Alvarinho,Cabernet Franc,-0.32783663,150-499,1000-1999
-Albariño,Shiraz,-0.32793483,500-999,1000-1999
-Bordeaux-style White Blend,Verdejo,-0.3282442,1000-1999,150-499
-Melon,Tinta de Toro,-0.32942525,150-499,150-499
-Barbera,Grüner Veltliner,-0.32957625,500-999,1000-1999
-Gamay,Sparkling Blend,-0.3296783,1000-1999,2000-4999
-Syrah,Verdejo,-0.3297127,5000+,150-499
-Cabernet Sauvignon-Merlot,Vermentino,-0.32977676,150-499,150-499
-Cabernet Blend,Rosé,-0.33029935,150-499,2000-4999
-Montepulciano,Portuguese White,-0.33061367,150-499,1000-1999
-Mourvèdre,Viognier,-0.33071035,150-499,1000-1999
-Petit Verdot,Prosecco,-0.3311864,150-499,150-499
-Malbec,Pinot Blanc,-0.33150014,2000-4999,500-999
-Merlot,Moscato,-0.33173728,2000-4999,150-499
-Nebbiolo,Sauvignon Blanc,-0.33190012,2000-4999,5000+
-Champagne Blend,Tinta de Toro,-0.33213228,1000-1999,150-499
-Nebbiolo,Roussanne,-0.33280385,2000-4999,150-499
-Cabernet Blend,Chenin Blanc,-0.33308703,150-499,500-999
-Roussanne,Sangiovese,-0.33312517,150-499,2000-4999
-Pinot Gris,Zinfandel,-0.33318412,1000-1999,2000-4999
-Barbera,Viognier,-0.3332337,500-999,1000-1999
-Primitivo,Riesling,-0.33366817,150-499,5000+
-Prosecco,Syrah,-0.3337114,150-499,5000+
-Merlot,Rhône-style White Blend,-0.33398035,2000-4999,500-999
-Gamay,Pinot Bianco,-0.33420527,1000-1999,150-499
-Cabernet Blend,Sparkling Blend,-0.3345906,150-499,2000-4999
-Melon,Syrah,-0.33484223,150-499,5000+
-Riesling,Zinfandel,-0.33491984,5000+,2000-4999
-Grenache,Riesling,-0.3350496,500-999,5000+
-Aglianico,Sémillon,-0.33541656,150-499,150-499
-Portuguese White,Rhône-style Red Blend,-0.33545065,1000-1999,1000-1999
-Garganega,Rhône-style Red Blend,-0.33636838,150-499,1000-1999
-Grenache,Pinot Grigio,-0.33657676,500-999,1000-1999
-Portuguese Red,Tinta de Toro,-0.33660194,2000-4999,150-499
-Nero d'Avola,Pinot Gris,-0.3367275,150-499,1000-1999
-Moscato,Tannat,-0.33723223,150-499,150-499
-Garganega,Mourvèdre,-0.33775812,150-499,150-499
-Grillo,Tannat,-0.33778256,150-499,150-499
-Cabernet Sauvignon,Sémillon,-0.33864313,5000+,150-499
-White Blend,Zinfandel,-0.3408629,2000-4999,2000-4999
-Gewürztraminer,Tannat,-0.34117675,1000-1999,150-499
-Bordeaux-style Red Blend,Sauvignon Blanc,-0.34131944,5000+,5000+
-Malbec,White Blend,-0.34152302,2000-4999,2000-4999
-Moscato,Syrah,-0.34180525,150-499,5000+
-Chardonnay,Pinot Nero,-0.3420695,5000+,150-499
-Sangiovese,Touriga Nacional,-0.3421175,2000-4999,150-499
-Bordeaux-style White Blend,Cabernet Franc,-0.34250224,1000-1999,1000-1999
-Chardonnay,Malbec,-0.34303993,5000+,2000-4999
-Bordeaux-style White Blend,Petit Verdot,-0.34319663,1000-1999,150-499
-Pinotage,Vermentino,-0.3446079,150-499,150-499
-Torrontés,Zinfandel,-0.34482753,150-499,2000-4999
-Champagne Blend,Tempranillo Blend,-0.34483373,1000-1999,500-999
-Tannat,Vermentino,-0.34569892,150-499,150-499
-Garganega,Syrah,-0.34576058,150-499,5000+
-Petite Sirah,Rhône-style White Blend,-0.34580195,1000-1999,500-999
-White Blend,Zweigelt,-0.34584707,2000-4999,150-499
-Chardonnay,Nero d'Avola,-0.34614438,5000+,150-499
-Aglianico,Grüner Veltliner,-0.34631324,150-499,1000-1999
-Cabernet Franc,Sparkling Blend,-0.3465795,1000-1999,2000-4999
-Gamay,Pinotage,-0.34675318,1000-1999,150-499
-Pinot Bianco,Portuguese Red,-0.3470409,150-499,2000-4999
-Prosecco,Tannat,-0.34732136,150-499,150-499
-Monastrell,Port,-0.34745288,150-499,1000-1999
-Bordeaux-style White Blend,Cabernet Sauvignon-Merlot,-0.34769937,1000-1999,150-499
-Mourvèdre,Verdejo,-0.34837168,150-499,150-499
-Cabernet Blend,Gewürztraminer,-0.348943,150-499,1000-1999
-G-S-M,Touriga Nacional,-0.34969252,150-499,150-499
-Port,Rhône-style White Blend,-0.34989345,1000-1999,500-999
-Fiano,Rhône-style Red Blend,-0.35031223,150-499,1000-1999
-Grüner Veltliner,Mourvèdre,-0.35045287,1000-1999,150-499
-Aglianico,Alvarinho,-0.3504985,150-499,150-499
-Merlot,Sémillon,-0.3509205,2000-4999,150-499
-Shiraz,Verdicchio,-0.3510753,1000-1999,150-499
-Mencía,Sémillon,-0.35108334,150-499,150-499
-Sparkling Blend,Tannat,-0.3515353,2000-4999,150-499
-Red Blend,Riesling,-0.35247263,5000+,5000+
-Petit Verdot,Sémillon,-0.35295695,150-499,150-499
-Pinot Noir,Sparkling Blend,-0.3531628,5000+,2000-4999
-Champagne Blend,G-S-M,-0.3534689,1000-1999,150-499
-Cabernet Sauvignon-Merlot,Sauvignon Blanc,-0.35382414,150-499,5000+
-Pinot Gris,Pinot Noir,-0.3542735,1000-1999,5000+
-Pinot Blanc,Pinotage,-0.35429665,500-999,150-499
-Barbera,Roussanne,-0.35469586,500-999,150-499
-Rhône-style White Blend,Zweigelt,-0.35488325,500-999,150-499
-Cabernet Sauvignon-Merlot,Gewürztraminer,-0.3551049,150-499,1000-1999
-Bordeaux-style Red Blend,Moscato,-0.3558151,5000+,150-499
-Cabernet Blend,Roussanne,-0.35601646,150-499,150-499
-Alvarinho,Merlot,-0.35630918,150-499,2000-4999
-Grüner Veltliner,Primitivo,-0.35647544,1000-1999,150-499
-Barbera,Sauvignon Blanc,-0.3565669,500-999,5000+
-Gamay,Muscat,-0.35681927,1000-1999,150-499
-Glera,Syrah,-0.35744584,500-999,5000+
-Port,Verdejo,-0.35804316,1000-1999,150-499
-Grillo,Portuguese Red,-0.35829493,150-499,2000-4999
-Mourvèdre,Verdicchio,-0.35950142,150-499,150-499
-Grenache,Pinot Blanc,-0.35958487,500-999,500-999
-Prosecco,Touriga Nacional,-0.36016214,150-499,150-499
-Chardonnay,Shiraz,-0.360625,5000+,1000-1999
-Grenache,Pinot Gris,-0.3609063,500-999,1000-1999
-Aglianico,Viognier,-0.36107224,150-499,1000-1999
-Gamay,Pinot Grigio,-0.36109948,1000-1999,1000-1999
-Fiano,Mourvèdre,-0.36119273,150-499,150-499
-Aglianico,Bordeaux-style White Blend,-0.3614362,150-499,1000-1999
-Petite Sirah,Prosecco,-0.36269858,1000-1999,150-499
-Sangiovese,Sauvignon Blanc,-0.3632337,2000-4999,5000+
-Touriga Nacional,White Blend,-0.3638788,150-499,2000-4999
-Blaufränkisch,Sauvignon Blanc,-0.36397344,150-499,5000+
-Bordeaux-style Red Blend,Pinot Gris,-0.36443657,5000+,1000-1999
-Grillo,Touriga Nacional,-0.36514008,150-499,150-499
-Blaufränkisch,Pinot Grigio,-0.36595356,150-499,1000-1999
-Blaufränkisch,Vermentino,-0.3662644,150-499,150-499
-Gamay,Garganega,-0.3664323,1000-1999,150-499
-Bordeaux-style Red Blend,Rhône-style White Blend,-0.36654854,5000+,500-999
-Petit Verdot,Pinot Bianco,-0.3672892,150-499,150-499
-Chenin Blanc,Pinot Nero,-0.36745027,500-999,150-499
-Cabernet Franc,Gewürztraminer,-0.36795446,1000-1999,1000-1999
-Grenache,Vermentino,-0.36801362,500-999,150-499
-Cabernet Blend,Verdejo,-0.36886984,150-499,150-499
-Barbera,Riesling,-0.3692149,500-999,5000+
-Bordeaux-style Red Blend,Mencía,-0.36932585,5000+,150-499
-Garnacha,Port,-0.3696339,150-499,1000-1999
-Grillo,Meritage,-0.36963588,150-499,150-499
-Gamay,Malbec,-0.37081414,1000-1999,2000-4999
-Champagne Blend,Merlot,-0.37159616,1000-1999,2000-4999
-Chardonnay,Merlot,-0.37164783,5000+,2000-4999
-Cabernet Franc,Garganega,-0.37170577,1000-1999,150-499
-Sparkling Blend,Syrah,-0.37203902,2000-4999,5000+
-Champagne Blend,Petit Verdot,-0.37222928,1000-1999,150-499
-Bonarda,Port,-0.3722319,150-499,1000-1999
-Cabernet Franc,Prosecco,-0.3730738,1000-1999,150-499
-Meritage,Verdejo,-0.37406456,150-499,150-499
-Riesling,Touriga Nacional,-0.37476304,5000+,150-499
-Malbec,Pinot Gris,-0.3749447,2000-4999,1000-1999
-Pinot Bianco,Rhône-style Red Blend,-0.37543482,150-499,1000-1999
-Grillo,Syrah,-0.37548476,150-499,5000+
-Pinotage,Port,-0.37583917,150-499,1000-1999
-Garganega,Merlot,-0.3762652,150-499,2000-4999
-Shiraz,Viognier,-0.37627378,1000-1999,1000-1999
-Gamay,Pinot Nero,-0.37665892,1000-1999,150-499
-Rhône-style Red Blend,Riesling,-0.37672102,1000-1999,5000+
-Verdejo,Zinfandel,-0.3772109,150-499,2000-4999
-Chardonnay,Montepulciano,-0.37794632,5000+,150-499
-Merlot,Muscat,-0.3784439,2000-4999,150-499
-Sauvignon Blanc,Tannat,-0.3792507,5000+,150-499
-Glera,Tannat,-0.37933376,500-999,150-499
-Bordeaux-style Red Blend,Tempranillo Blend,-0.3796149,5000+,500-999
-Pinot Grigio,Zinfandel,-0.37998825,1000-1999,2000-4999
-Sauvignon Blanc,Shiraz,-0.3805247,5000+,1000-1999
-Garganega,Portuguese Red,-0.38069636,150-499,2000-4999
-Sauvignon Blanc,Syrah,-0.38192558,5000+,5000+
-Cabernet Sauvignon,Rosé,-0.3822687,5000+,2000-4999
-Chenin Blanc,Tempranillo Blend,-0.38264823,500-999,500-999
-Grüner Veltliner,Tannat,-0.38286847,1000-1999,150-499
-Gewürztraminer,Shiraz,-0.38302213,1000-1999,1000-1999
-Aglianico,Melon,-0.383047,150-499,150-499
-Chenin Blanc,Tannat,-0.38430178,500-999,150-499
-Portuguese Red,Verdicchio,-0.38490587,2000-4999,150-499
-G-S-M,Portuguese Red,-0.38520068,150-499,2000-4999
-Mourvèdre,Pinot Bianco,-0.38530552,150-499,150-499
-Cabernet Sauvignon-Merlot,Grüner Veltliner,-0.38556236,150-499,1000-1999
-Gamay,Roussanne,-0.38644534,1000-1999,150-499
-Grüner Veltliner,Rhône-style Red Blend,-0.38694155,1000-1999,1000-1999
-Pinot Grigio,Touriga Nacional,-0.38751635,1000-1999,150-499
-Pinot Noir,Sauvignon Blanc,-0.38768363,5000+,5000+
-Gamay,Grillo,-0.38803262,1000-1999,150-499
-Petit Verdot,Vermentino,-0.38885948,150-499,150-499
-Tempranillo Blend,Touriga Nacional,-0.38904095,500-999,150-499
-Portuguese Red,Sauvignon,-0.3894976,2000-4999,150-499
-Albariño,Merlot,-0.39047474,500-999,2000-4999
-Alvarinho,Shiraz,-0.39057982,150-499,1000-1999
-Portuguese Red,White Blend,-0.39069223,2000-4999,2000-4999
-Cabernet Sauvignon-Merlot,Roussanne,-0.39072478,150-499,150-499
-Gewürztraminer,Petit Verdot,-0.39081603,1000-1999,150-499
-Alvarinho,Cabernet Sauvignon-Merlot,-0.39084762,150-499,150-499
-Portuguese Red,Riesling,-0.3915294,2000-4999,5000+
-Gamay,Verdicchio,-0.39228678,1000-1999,150-499
-Sauvignon,Touriga Nacional,-0.39305076,150-499,150-499
-Montepulciano,Pinot Blanc,-0.39307284,150-499,500-999
-Bordeaux-style Red Blend,Gewürztraminer,-0.3934083,5000+,1000-1999
-Portuguese Red,Prosecco,-0.39351177,2000-4999,150-499
-Nebbiolo,Pinot Gris,-0.39366692,2000-4999,1000-1999
-Grüner Veltliner,Shiraz,-0.39369142,1000-1999,1000-1999
-Rhône-style White Blend,Tannat,-0.3940647,500-999,150-499
-Garganega,Meritage,-0.3941981,150-499,150-499
-Barbera,Chenin Blanc,-0.39449465,500-999,500-999
-Meritage,Roussanne,-0.3945664,150-499,150-499
-Roussanne,Touriga Nacional,-0.39467913,150-499,150-499
-Fiano,Touriga Nacional,-0.3948463,150-499,150-499
-Grillo,Shiraz,-0.39505816,150-499,1000-1999
-Champagne Blend,Malbec,-0.39508992,1000-1999,2000-4999
-Chenin Blanc,Primitivo,-0.39529192,500-999,150-499
-Chardonnay,Tannat,-0.39565408,5000+,150-499
-Muscat,Portuguese Red,-0.39573866,150-499,2000-4999
-Aglianico,Roussanne,-0.3958298,150-499,150-499
-Cabernet Franc,Melon,-0.39636502,1000-1999,150-499
-Petite Sirah,Torrontés,-0.39695808,1000-1999,150-499
-Chenin Blanc,Montepulciano,-0.39731398,500-999,150-499
-Gamay,Red Blend,-0.39740074,1000-1999,5000+
-Touriga Nacional,Verdicchio,-0.39740893,150-499,150-499
-Pinotage,Sémillon,-0.39812788,150-499,150-499
-Fiano,Portuguese Red,-0.398207,150-499,2000-4999
-Cabernet Blend,Viognier,-0.3984515,150-499,1000-1999
-Gamay,Glera,-0.3986277,1000-1999,500-999
-Pinot Grigio,Portuguese Red,-0.39882487,1000-1999,2000-4999
-Champagne Blend,Tempranillo,-0.39910847,1000-1999,2000-4999
-Cabernet Sauvignon-Merlot,Melon,-0.39955327,150-499,150-499
-Meritage,Verdicchio,-0.4001692,150-499,150-499
-Chardonnay,Dolcetto,-0.40024763,5000+,150-499
-Barbera,Chardonnay,-0.40032673,500-999,5000+
-Sémillon,Zweigelt,-0.4004075,150-499,150-499
-G-S-M,Gamay,-0.4004231,150-499,1000-1999
-Garganega,Touriga Nacional,-0.40056503,150-499,150-499
-Gamay,Tempranillo Blend,-0.40105096,1000-1999,500-999
-Champagne Blend,Nero d'Avola,-0.4013158,1000-1999,150-499
-Cabernet Sauvignon,Chardonnay,-0.40155947,5000+,5000+
-Cabernet Sauvignon,Verdejo,-0.40182224,5000+,150-499
-Petite Sirah,Sparkling Blend,-0.40201953,1000-1999,2000-4999
-Glera,Merlot,-0.40339804,500-999,2000-4999
-Barbera,Pinot Blanc,-0.4035353,500-999,500-999
-Gewürztraminer,Meritage,-0.40364924,1000-1999,150-499
-Cabernet Franc,Glera,-0.4038243,1000-1999,500-999
-Bordeaux-style Red Blend,Prosecco,-0.40397787,5000+,150-499
-Gamay,Sauvignon,-0.4047172,1000-1999,150-499
-Syrah,Verdicchio,-0.4048763,5000+,150-499
-Chardonnay,Pinotage,-0.40510428,5000+,150-499
-Meritage,Vermentino,-0.4051207,150-499,150-499
-Riesling,Tannat,-0.40533972,5000+,150-499
-Chenin Blanc,Mourvèdre,-0.40562215,500-999,150-499
-Vermentino,Zinfandel,-0.40623397,150-499,2000-4999
-Pinot Blanc,Pinot Noir,-0.4072308,500-999,5000+
-Pinot Gris,Sangiovese,-0.40757808,1000-1999,2000-4999
-Petite Sirah,Sauvignon,-0.40897948,1000-1999,150-499
-Petit Verdot,White Blend,-0.40905166,150-499,2000-4999
-Roussanne,Tannat,-0.4091719,150-499,150-499
-Chardonnay,Meritage,-0.40985012,5000+,150-499
-Pinot Noir,Prosecco,-0.40994766,5000+,150-499
-Fiano,Shiraz,-0.41006762,150-499,1000-1999
-Cabernet Sauvignon-Merlot,Viognier,-0.41011742,150-499,1000-1999
-Bordeaux-style Red Blend,Pinot Blanc,-0.4105745,5000+,500-999
-Malbec,Vermentino,-0.41081673,2000-4999,150-499
-Chenin Blanc,Petite Sirah,-0.41086912,500-999,1000-1999
-Cabernet Blend,Sauvignon Blanc,-0.41112944,150-499,5000+
-Chenin Blanc,Nero d'Avola,-0.41121638,500-999,150-499
-Pinot Gris,Pinotage,-0.41142377,1000-1999,150-499
-Pinot Bianco,Tannat,-0.41170126,150-499,150-499
-Mencía,Touriga Nacional,-0.41205442,150-499,150-499
-Fiano,Gamay,-0.41211486,150-499,1000-1999
-Roussanne,Syrah,-0.41243947,150-499,5000+
-Chardonnay,Primitivo,-0.41286603,5000+,150-499
-Cabernet Sauvignon,Rhône-style White Blend,-0.41303256,5000+,500-999
-Merlot,Viognier,-0.41349673,2000-4999,1000-1999
-Pinot Nero,Port,-0.41365635,150-499,1000-1999
-Meritage,Pinot Bianco,-0.41382012,150-499,150-499
-Cabernet Franc,Portuguese White,-0.41447765,1000-1999,1000-1999
-Montepulciano,Pinot Gris,-0.4145246,150-499,1000-1999
-Alvarinho,Red Blend,-0.41465777,150-499,5000+
-Gamay,Tinta de Toro,-0.41509533,1000-1999,150-499
-Melon,Petit Verdot,-0.41526484,150-499,150-499
-Chenin Blanc,G-S-M,-0.41625673,500-999,150-499
-Fiano,Syrah,-0.4166364,150-499,5000+
-Red Blend,Sauvignon Blanc,-0.41667128,5000+,5000+
-Garganega,Zinfandel,-0.41765457,150-499,2000-4999
-Grüner Veltliner,Zinfandel,-0.41768327,1000-1999,2000-4999
-Melon,Nebbiolo,-0.41793883,150-499,2000-4999
-Chardonnay,Petite Sirah,-0.41857588,5000+,1000-1999
-Tannat,Viognier,-0.41857922,150-499,1000-1999
-Chardonnay,Mourvèdre,-0.41889924,5000+,150-499
-Bordeaux-style Red Blend,Tempranillo,-0.41919333,5000+,2000-4999
-Chenin Blanc,Grenache,-0.4192199,500-999,500-999
-Monastrell,Touriga Nacional,-0.41928768,150-499,150-499
-Rhône-style White Blend,Touriga Nacional,-0.4199432,500-999,150-499
-Malbec,Sémillon,-0.41995114,2000-4999,150-499
-Melon,Tempranillo Blend,-0.42017227,150-499,500-999
-Muscat,Petite Sirah,-0.42056865,150-499,1000-1999
-Cabernet Sauvignon,Garganega,-0.42068282,5000+,150-499
-Cabernet Sauvignon,Torrontés,-0.4209187,5000+,150-499
-Cabernet Sauvignon-Merlot,Chardonnay,-0.42104757,150-499,5000+
-Portuguese Red,Roussanne,-0.4211142,2000-4999,150-499
-G-S-M,Portuguese White,-0.42132282,150-499,1000-1999
-Bordeaux-style Red Blend,Pinot Nero,-0.4213564,5000+,150-499
-G-S-M,Port,-0.421393,150-499,1000-1999
-Bordeaux-style White Blend,Tinta de Toro,-0.42144042,1000-1999,150-499
-Cabernet Sauvignon-Merlot,Pinot Grigio,-0.42188072,150-499,1000-1999
-Cabernet Sauvignon,Portuguese White,-0.4223571,5000+,1000-1999
-Roussanne,Shiraz,-0.4223631,150-499,1000-1999
-Merlot,Sauvignon,-0.4224407,2000-4999,150-499
-Pinot Blanc,Primitivo,-0.42291602,500-999,150-499
-Port,Red Blend,-0.4236119,1000-1999,5000+
-Portuguese Red,Tempranillo Blend,-0.4236803,2000-4999,500-999
-Fiano,Meritage,-0.4244973,150-499,150-499
-Meritage,Sauvignon Blanc,-0.42477834,150-499,5000+
-Albariño,Zinfandel,-0.4250288,500-999,2000-4999
-Gewürztraminer,Pinot Noir,-0.42638347,1000-1999,5000+
-Cabernet Blend,Pinot Grigio,-0.4265837,150-499,1000-1999
-Chenin Blanc,Nebbiolo,-0.4265862,500-999,2000-4999
-Tannat,White Blend,-0.42687783,150-499,2000-4999
-Cabernet Sauvignon,Prosecco,-0.4273343,5000+,150-499
-Melon,Merlot,-0.4276855,150-499,2000-4999
-Petit Verdot,Sauvignon Blanc,-0.42775315,150-499,5000+
-Grillo,Zinfandel,-0.42779142,150-499,2000-4999
-Chenin Blanc,Garnacha,-0.4279771,500-999,150-499
-Mourvèdre,Pinot Grigio,-0.42801225,150-499,1000-1999
-Meritage,Viognier,-0.4287405,150-499,1000-1999
-Champagne Blend,Garnacha,-0.4293339,1000-1999,150-499
-Albariño,Cabernet Franc,-0.4297364,500-999,1000-1999
-Muscat,Syrah,-0.4301064,150-499,5000+
-Syrah,Viognier,-0.4309272,5000+,1000-1999
-Meritage,Riesling,-0.4314781,150-499,5000+
-Albariño,Mourvèdre,-0.43156457,500-999,150-499
-Pinot Grigio,Shiraz,-0.43162814,1000-1999,1000-1999
-Cabernet Sauvignon,Moscato,-0.43180695,5000+,150-499
-Melon,Nero d'Avola,-0.4319218,150-499,150-499
-Merlot,Roussanne,-0.43226546,2000-4999,150-499
-Albariño,Cabernet Blend,-0.43265936,500-999,150-499
-Champagne Blend,Sangiovese,-0.43371034,1000-1999,2000-4999
-Albariño,Rhône-style Red Blend,-0.4354725,500-999,1000-1999
-Gamay,White Blend,-0.4364912,1000-1999,2000-4999
-Alvarinho,Pinot Nero,-0.43663386,150-499,150-499
-Albariño,Syrah,-0.43692213,500-999,5000+
-Blaufränkisch,Viognier,-0.43695506,150-499,1000-1999
-Petite Sirah,Verdejo,-0.43709096,1000-1999,150-499
-Cabernet Sauvignon,Sauvignon,-0.4376471,5000+,150-499
-Bordeaux-style Red Blend,Monastrell,-0.43818724,5000+,150-499
-Pinot Bianco,Shiraz,-0.43894196,150-499,1000-1999
-Mourvèdre,Pinot Blanc,-0.43946123,150-499,500-999
-Malbec,Melon,-0.4395867,2000-4999,150-499
-Cabernet Sauvignon-Merlot,Riesling,-0.44030377,150-499,5000+
-Portuguese Red,Rhône-style White Blend,-0.440324,2000-4999,500-999
-Petite Sirah,Roussanne,-0.44035542,1000-1999,150-499
-Cabernet Franc,Verdicchio,-0.4406606,1000-1999,150-499
-Glera,Touriga Nacional,-0.440975,500-999,150-499
-Nero d'Avola,Portuguese White,-0.44107515,150-499,1000-1999
-Gamay,Viognier,-0.44134885,1000-1999,1000-1999
-Cabernet Blend,Grüner Veltliner,-0.44168326,150-499,1000-1999
-Chardonnay,Syrah,-0.441908,5000+,5000+
-Chenin Blanc,Tinta de Toro,-0.44343972,500-999,150-499
-Alvarinho,Nebbiolo,-0.4443589,150-499,2000-4999
-Pinot Blanc,Sangiovese,-0.44459558,500-999,2000-4999
-Bordeaux-style White Blend,Merlot,-0.4446852,1000-1999,2000-4999
-Cabernet Sauvignon-Merlot,Portuguese White,-0.44480097,150-499,1000-1999
-Bordeaux-style Red Blend,Pinot Bianco,-0.4450195,5000+,150-499
-Tempranillo,Touriga Nacional,-0.44515783,2000-4999,150-499
-Petit Verdot,Riesling,-0.44542968,150-499,5000+
-Muscat,Pinot Noir,-0.44555235,150-499,5000+
-Chenin Blanc,Monastrell,-0.44556925,500-999,150-499
-Bonarda,Chenin Blanc,-0.44570342,150-499,500-999
-Grüner Veltliner,Red Blend,-0.44590375,1000-1999,5000+
-Gamay,Tempranillo,-0.44712788,1000-1999,2000-4999
-Cabernet Blend,Pinot Blanc,-0.44715062,150-499,500-999
-Petite Sirah,Sauvignon Blanc,-0.44763994,1000-1999,5000+
-Carmenère,Port,-0.4481161,500-999,1000-1999
-Aglianico,Sauvignon Blanc,-0.45009464,150-499,5000+
-Touriga Nacional,Viognier,-0.45118463,150-499,1000-1999
-Glera,Pinot Noir,-0.45118997,500-999,5000+
-Albariño,Gamay,-0.4512814,500-999,1000-1999
-Cabernet Franc,Rhône-style White Blend,-0.45136178,1000-1999,500-999
-Petit Verdot,Roussanne,-0.45245248,150-499,150-499
-Cabernet Franc,Grillo,-0.45299053,1000-1999,150-499
-Pinot Grigio,Rhône-style Red Blend,-0.45308012,1000-1999,1000-1999
-Pinot Noir,Rhône-style White Blend,-0.4532696,5000+,500-999
-Pinot Nero,Portuguese Red,-0.4533438,150-499,2000-4999
-Pinot Gris,Primitivo,-0.4545791,1000-1999,150-499
-Cabernet Franc,Pinot Bianco,-0.45462322,1000-1999,150-499
-Bordeaux-style Red Blend,Sauvignon,-0.4549532,5000+,150-499
-Petit Verdot,Viognier,-0.45500118,150-499,1000-1999
-Gamay,Monastrell,-0.45512864,1000-1999,150-499
-Blaufränkisch,Sémillon,-0.45578802,150-499,150-499
-Champagne Blend,Mencía,-0.45666146,1000-1999,150-499
-G-S-M,Melon,-0.45723963,150-499,150-499
-Gamay,Rhône-style White Blend,-0.45839185,1000-1999,500-999
-Nebbiolo,Pinot Blanc,-0.45842254,2000-4999,500-999
-Glera,Portuguese Red,-0.45851147,500-999,2000-4999
-Albariño,Meritage,-0.458562,500-999,150-499
-Bonarda,Bordeaux-style Red Blend,-0.45862198,150-499,5000+
-Chardonnay,Nebbiolo,-0.45918795,5000+,2000-4999
-Pinot Bianco,Zinfandel,-0.45939016,150-499,2000-4999
-Pinot Nero,Touriga Nacional,-0.46002185,150-499,150-499
-Cabernet Sauvignon,Sparkling Blend,-0.46018147,5000+,2000-4999
-Chenin Blanc,Tempranillo,-0.46019712,500-999,2000-4999
-Shiraz,White Blend,-0.46039107,1000-1999,2000-4999
-Petit Verdot,Portuguese White,-0.46223584,150-499,1000-1999
-Pinot Blanc,Tannat,-0.46298775,500-999,150-499
-Garganega,Pinot Noir,-0.46347862,150-499,5000+
-Gamay,Mencía,-0.4635343,1000-1999,150-499
-Cabernet Franc,Fiano,-0.46474946,1000-1999,150-499
-Pinot Gris,Tannat,-0.4650842,1000-1999,150-499
-Alvarinho,Tinta de Toro,-0.46547675,150-499,150-499
-Bordeaux-style Red Blend,White Blend,-0.4657017,5000+,2000-4999
-Mencía,Portuguese Red,-0.46661955,150-499,2000-4999
-Pinot Blanc,Shiraz,-0.46680874,500-999,1000-1999
-Petite Sirah,Viognier,-0.46737397,1000-1999,1000-1999
-Bordeaux-style Red Blend,Garganega,-0.4682865,5000+,150-499
-Mourvèdre,Pinot Gris,-0.46858922,150-499,1000-1999
-Melon,Tempranillo,-0.46891218,150-499,2000-4999
-Nebbiolo,Portuguese White,-0.46950644,2000-4999,1000-1999
-Gamay,Garnacha,-0.47132915,1000-1999,150-499
-Champagne Blend,Red Blend,-0.47169363,1000-1999,5000+
-Cabernet Sauvignon,Glera,-0.47206795,5000+,500-999
-Aglianico,Portuguese White,-0.47207484,150-499,1000-1999
-Portuguese White,Syrah,-0.4729148,1000-1999,5000+
-Bonarda,Champagne Blend,-0.4729414,150-499,1000-1999
-Albariño,Touriga Nacional,-0.4737347,500-999,150-499
-Bordeaux-style White Blend,Pinot Nero,-0.47389054,1000-1999,150-499
-Merlot,Portuguese White,-0.4746225,2000-4999,1000-1999
-Merlot,Pinot Blanc,-0.47492754,2000-4999,500-999
-Alvarinho,Pinotage,-0.47523695,150-499,150-499
-Garnacha,Touriga Nacional,-0.47558513,150-499,150-499
-Bordeaux-style Red Blend,Carmenère,-0.4756533,5000+,500-999
-Portuguese White,Tempranillo Blend,-0.47611403,1000-1999,500-999
-Bordeaux-style Red Blend,Muscat,-0.47640494,5000+,150-499
-Cabernet Sauvignon-Merlot,Pinot Blanc,-0.47725263,150-499,500-999
-Barbera,Pinot Gris,-0.47759438,500-999,1000-1999
-Bonarda,Touriga Nacional,-0.4776091,150-499,150-499
-Mourvèdre,Riesling,-0.47849292,150-499,5000+
-Cabernet Blend,Riesling,-0.4789983,150-499,5000+
-Grüner Veltliner,Petit Verdot,-0.47928274,1000-1999,150-499
-Pinot Blanc,Rhône-style Red Blend,-0.4798688,500-999,1000-1999
-Portuguese White,Shiraz,-0.48082507,1000-1999,1000-1999
-Albariño,Cabernet Sauvignon,-0.48095927,500-999,5000+
-Gewürztraminer,Petite Sirah,-0.4814189,1000-1999,1000-1999
-Alvarinho,Tempranillo Blend,-0.48203215,150-499,500-999
-Glera,Petite Sirah,-0.48241752,500-999,1000-1999
-Melon,Mencía,-0.4827385,150-499,150-499
-Champagne Blend,Monastrell,-0.48312917,1000-1999,150-499
-Bordeaux-style Red Blend,Verdicchio,-0.4832299,5000+,150-499
-Bordeaux-style Red Blend,Roussanne,-0.48370692,5000+,150-499
-Cabernet Blend,Pinot Gris,-0.4838398,150-499,1000-1999
-Portuguese Red,Tempranillo,-0.48387566,2000-4999,2000-4999
-Albariño,Petite Sirah,-0.48429006,500-999,1000-1999
-Syrah,White Blend,-0.4844644,5000+,2000-4999
-Champagne Blend,Pinotage,-0.4844904,1000-1999,150-499
-Chenin Blanc,Rhône-style Red Blend,-0.48536915,500-999,1000-1999
-Carmenère,Touriga Nacional,-0.48584488,500-999,150-499
-Pinot Nero,Portuguese White,-0.48606268,150-499,1000-1999
-Chenin Blanc,Shiraz,-0.4861575,500-999,1000-1999
-Bordeaux-style White Blend,Nero d'Avola,-0.4867013,1000-1999,150-499
-Grillo,Merlot,-0.4870721,150-499,2000-4999
-Garnacha,Melon,-0.48776102,150-499,150-499
-Pinot Gris,Rhône-style Red Blend,-0.4891804,1000-1999,1000-1999
-Portuguese Red,Viognier,-0.4894362,2000-4999,1000-1999
-Chardonnay,Sangiovese,-0.48952693,5000+,2000-4999
-Fiano,Zinfandel,-0.48972917,150-499,2000-4999
-Bordeaux-style Red Blend,Grillo,-0.48989204,5000+,150-499
-Pinot Blanc,Red Blend,-0.49007058,500-999,5000+
-Gewürztraminer,Syrah,-0.49013895,1000-1999,5000+
-Merlot,Riesling,-0.49059904,2000-4999,5000+
-Syrah,Vermentino,-0.49084628,5000+,150-499
-Chardonnay,Rhône-style Red Blend,-0.49109292,5000+,1000-1999
-Bordeaux-style White Blend,Red Blend,-0.49169517,1000-1999,5000+
-Monastrell,Portuguese Red,-0.491776,150-499,2000-4999
-Chardonnay,Grenache,-0.49212924,5000+,500-999
-Bordeaux-style White Blend,Tempranillo Blend,-0.4926354,1000-1999,500-999
-Cabernet Franc,Sémillon,-0.49305367,1000-1999,150-499
-Chenin Blanc,Mencía,-0.49326175,500-999,150-499
-Blaufränkisch,Rhône-style White Blend,-0.49337322,150-499,500-999
-Petite Sirah,Riesling,-0.49359226,1000-1999,5000+
-Merlot,Sauvignon Blanc,-0.49473825,2000-4999,5000+
-Pinot Bianco,Syrah,-0.49534768,150-499,5000+
-Portuguese Red,Sparkling Blend,-0.49560732,2000-4999,2000-4999
-Pinot Noir,Riesling,-0.49569649,5000+,5000+
-Portuguese White,Tinta de Toro,-0.49665588,1000-1999,150-499
-Bordeaux-style Red Blend,Riesling,-0.4972676,5000+,5000+
-Grüner Veltliner,Syrah,-0.49909115,1000-1999,5000+
-Pinot Gris,Shiraz,-0.49945468,1000-1999,1000-1999
-Bordeaux-style Red Blend,Garnacha,-0.5000141,5000+,150-499
-Torrontés,Touriga Nacional,-0.5001005,150-499,150-499
-Blaufränkisch,Roussanne,-0.50066805,150-499,150-499
-Cabernet Franc,Sauvignon Blanc,-0.5017419,1000-1999,5000+
-Shiraz,Vermentino,-0.5019342,1000-1999,150-499
-Garganega,Petite Sirah,-0.5026978,150-499,1000-1999
-Pinot Grigio,Tannat,-0.50376713,1000-1999,150-499
-Sparkling Blend,Touriga Nacional,-0.50449955,2000-4999,150-499
-Merlot,Pinot Bianco,-0.5048299,2000-4999,150-499
-Aglianico,Chenin Blanc,-0.50495535,150-499,500-999
-Gamay,Torrontés,-0.50544536,1000-1999,150-499
-Merlot,White Blend,-0.50706416,2000-4999,2000-4999
-Aglianico,Chardonnay,-0.5070721,150-499,5000+
-Cabernet Franc,Grüner Veltliner,-0.5076157,1000-1999,1000-1999
-Pinot Noir,Roussanne,-0.50814366,5000+,150-499
-Melon,Pinotage,-0.5083475,150-499,150-499
-Melon,Monastrell,-0.5091073,150-499,150-499
-Albariño,Portuguese Red,-0.51060015,500-999,2000-4999
-Bordeaux-style Red Blend,Glera,-0.5108278,5000+,500-999
-Bordeaux-style Red Blend,Sparkling Blend,-0.5112931,5000+,2000-4999
-Cabernet Sauvignon,Verdicchio,-0.51330227,5000+,150-499
-Bordeaux-style Red Blend,Fiano,-0.5136547,5000+,150-499
-Grillo,Petite Sirah,-0.5137335,150-499,1000-1999
-Bonarda,Melon,-0.5141321,150-499,150-499
-Petite Sirah,Vermentino,-0.5148447,1000-1999,150-499
-Gewürztraminer,Merlot,-0.5165054,1000-1999,2000-4999
-Cabernet Sauvignon,Muscat,-0.5171776,5000+,150-499
-Verdicchio,Zinfandel,-0.51770586,150-499,2000-4999
-Blaufränkisch,White Blend,-0.5198143,150-499,2000-4999
-Gamay,Verdejo,-0.52035046,1000-1999,150-499
-Bordeaux-style White Blend,Malbec,-0.52059364,1000-1999,2000-4999
-Cabernet Franc,Riesling,-0.5212673,1000-1999,5000+
-Merlot,Verdicchio,-0.52135235,2000-4999,150-499
-Riesling,Syrah,-0.5215122,5000+,5000+
-Petite Sirah,Pinot Blanc,-0.52161723,1000-1999,500-999
-Merlot,Pinot Grigio,-0.52172065,2000-4999,1000-1999
-Garnacha,Portuguese White,-0.5234278,150-499,1000-1999
-Bordeaux-style White Blend,Sangiovese,-0.52686524,1000-1999,2000-4999
-Cabernet Sauvignon,Pinot Bianco,-0.5280046,5000+,150-499
-Petit Verdot,Pinot Grigio,-0.5281043,150-499,1000-1999
-Grüner Veltliner,Meritage,-0.52853614,1000-1999,150-499
-Grüner Veltliner,Petite Sirah,-0.5285389,1000-1999,1000-1999
-Pinot Bianco,Pinot Noir,-0.5288323,150-499,5000+
-Aglianico,Pinot Gris,-0.5288408,150-499,1000-1999
-Pinot Noir,Viognier,-0.52923,5000+,1000-1999
-Cabernet Sauvignon,Grillo,-0.53003067,5000+,150-499
-Meritage,Pinot Grigio,-0.5309149,150-499,1000-1999
-Chardonnay,Petit Verdot,-0.53103817,5000+,150-499
-Carmenère,Chenin Blanc,-0.5313165,500-999,500-999
-Bonarda,Gamay,-0.5313234,150-499,1000-1999
-Meritage,Pinot Blanc,-0.5320875,150-499,500-999
-Chenin Blanc,Meritage,-0.5322116,500-999,150-499
-Aglianico,Pinot Blanc,-0.5328628,150-499,500-999
-Merlot,Pinot Gris,-0.53292584,2000-4999,1000-1999
-Pinotage,Portuguese White,-0.53574634,150-499,1000-1999
-Cabernet Sauvignon-Merlot,Pinot Gris,-0.53597665,150-499,1000-1999
-Chenin Blanc,Sangiovese,-0.536253,500-999,2000-4999
-Alvarinho,Malbec,-0.5370526,150-499,2000-4999
-Pinot Gris,Red Blend,-0.53708947,1000-1999,5000+
-Pinot Noir,Sauvignon,-0.5371008,5000+,150-499
-Fiano,Merlot,-0.53753436,150-499,2000-4999
-Carmenère,Champagne Blend,-0.5378079,500-999,1000-1999
-Chenin Blanc,Pinotage,-0.5379359,500-999,150-499
-Melon,Pinot Nero,-0.53824806,150-499,150-499
-Petite Sirah,Pinot Gris,-0.5384485,1000-1999,1000-1999
-Fiano,Petite Sirah,-0.538978,150-499,1000-1999
-Portuguese White,Tempranillo,-0.54050934,1000-1999,2000-4999
-Carmenère,Melon,-0.5420158,500-999,150-499
-Cabernet Franc,Vermentino,-0.5433033,1000-1999,150-499
-Portuguese White,Red Blend,-0.5466049,1000-1999,5000+
-Cabernet Sauvignon,Fiano,-0.54683304,5000+,150-499
-Chardonnay,Red Blend,-0.5490326,5000+,5000+
-Portuguese Red,Torrontés,-0.54914176,2000-4999,150-499
-Malbec,Portuguese White,-0.549601,2000-4999,1000-1999
-Meritage,Pinot Gris,-0.5496377,150-499,1000-1999
-Pinot Noir,Verdicchio,-0.5500864,5000+,150-499
-Petite Sirah,White Blend,-0.55010647,1000-1999,2000-4999
-Monastrell,Portuguese White,-0.55185074,150-499,1000-1999
-Bonarda,Portuguese Red,-0.55196035,150-499,2000-4999
-Alvarinho,Tempranillo,-0.5531893,150-499,2000-4999
-Merlot,Vermentino,-0.55343527,2000-4999,150-499
-Alvarinho,Garnacha,-0.5547474,150-499,150-499
-Touriga Nacional,Verdejo,-0.5552123,150-499,150-499
-Garnacha,Portuguese Red,-0.5553159,150-499,2000-4999
-Cabernet Sauvignon,Riesling,-0.5568991,5000+,5000+
-Pinot Noir,Torrontés,-0.5573387,5000+,150-499
-Cabernet Franc,Viognier,-0.55861276,1000-1999,1000-1999
-Carmenère,Portuguese Red,-0.5586579,500-999,2000-4999
-Pinot Grigio,Syrah,-0.5591428,1000-1999,5000+
-Pinot Noir,Verdejo,-0.56122637,5000+,150-499
-Alvarinho,Monastrell,-0.56146955,150-499,150-499
-Mencía,Portuguese White,-0.56289554,150-499,1000-1999
-Carmenère,Portuguese White,-0.56504476,500-999,1000-1999
-Petite Sirah,Verdicchio,-0.5656313,1000-1999,150-499
-Grüner Veltliner,Merlot,-0.5659338,1000-1999,2000-4999
-Bordeaux-style White Blend,Tempranillo,-0.56652194,1000-1999,2000-4999
-Bordeaux-style Red Blend,Pinot Grigio,-0.56802297,5000+,1000-1999
-Cabernet Sauvignon,Roussanne,-0.5688826,5000+,150-499
-Cabernet Sauvignon,Chenin Blanc,-0.5692264,5000+,500-999
-Melon,Sangiovese,-0.5714835,150-499,2000-4999
-Bordeaux-style Red Blend,Viognier,-0.5722773,5000+,1000-1999
-Bordeaux-style White Blend,Pinotage,-0.5731106,1000-1999,150-499
-Petite Sirah,Pinot Grigio,-0.57323146,1000-1999,1000-1999
-Cabernet Franc,White Blend,-0.57336766,1000-1999,2000-4999
-Cabernet Franc,Roussanne,-0.5738563,1000-1999,150-499
-Bordeaux-style White Blend,Mencía,-0.5749042,1000-1999,150-499
-Bonarda,Portuguese White,-0.5765598,150-499,1000-1999
-Alvarinho,Bonarda,-0.57670724,150-499,150-499
-Chenin Blanc,Malbec,-0.57733923,500-999,2000-4999
-Petit Verdot,Pinot Gris,-0.5788356,150-499,1000-1999
-Cabernet Sauvignon,Vermentino,-0.57895976,5000+,150-499
-Cabernet Sauvignon,Sauvignon Blanc,-0.5794853,5000+,5000+
-Cabernet Sauvignon,Viognier,-0.580169,5000+,1000-1999
-Albariño,Pinot Noir,-0.5802425,500-999,5000+
-Alvarinho,Mencía,-0.5804946,150-499,150-499
-Alvarinho,Carmenère,-0.5806855,150-499,500-999
-Pinot Gris,Syrah,-0.5807337,1000-1999,5000+
-Bordeaux-style White Blend,Garnacha,-0.5814409,1000-1999,150-499
-Alvarinho,Sangiovese,-0.5821456,150-499,2000-4999
-Cabernet Sauvignon,Grüner Veltliner,-0.5828183,5000+,1000-1999
-Petit Verdot,Pinot Blanc,-0.5828368,150-499,500-999
-Cabernet Franc,Pinot Blanc,-0.5828519,1000-1999,500-999
-Bordeaux-style White Blend,Carmenère,-0.58293915,1000-1999,500-999
-Carmenère,Gamay,-0.58454025,500-999,1000-1999
-Pinot Blanc,Syrah,-0.58481604,500-999,5000+
-Bordeaux-style Red Blend,Torrontés,-0.58718586,5000+,150-499
-Pinot Noir,Vermentino,-0.5879362,5000+,150-499
-Cabernet Sauvignon,Pinot Blanc,-0.5919626,5000+,500-999
-Petite Sirah,Pinot Bianco,-0.59704334,1000-1999,150-499
-Portuguese Red,Verdejo,-0.59759134,2000-4999,150-499
-Cabernet Franc,Pinot Gris,-0.598216,1000-1999,1000-1999
-Chenin Blanc,Syrah,-0.6008799,500-999,5000+
-Albariño,Bordeaux-style Red Blend,-0.60434586,500-999,5000+
-Cabernet Sauvignon,Pinot Gris,-0.6055084,5000+,1000-1999
-Grillo,Pinot Noir,-0.6067027,150-499,5000+
-Cabernet Franc,Chardonnay,-0.6086222,1000-1999,5000+
-Cabernet Sauvignon,White Blend,-0.6109518,5000+,2000-4999
-Bordeaux-style White Blend,Monastrell,-0.6119479,1000-1999,150-499
-Cabernet Sauvignon-Merlot,Chenin Blanc,-0.61462617,150-499,500-999
-Pinot Grigio,Pinot Noir,-0.6165786,1000-1999,5000+
-Melon,Red Blend,-0.61903876,150-499,5000+
-Cabernet Sauvignon,Gewürztraminer,-0.62097514,5000+,1000-1999
-Cabernet Franc,Pinot Grigio,-0.62252307,1000-1999,1000-1999
-Fiano,Pinot Noir,-0.6247302,150-499,5000+
-Bonarda,Bordeaux-style White Blend,-0.6254949,150-499,1000-1999
-Bordeaux-style Red Blend,Verdejo,-0.6315074,5000+,150-499
-Portuguese White,Sangiovese,-0.63241833,1000-1999,2000-4999
-Chenin Blanc,Merlot,-0.63729584,500-999,2000-4999
-Chenin Blanc,Red Blend,-0.63930976,500-999,5000+
-Chenin Blanc,Petit Verdot,-0.6404482,500-999,150-499
-Pinot Noir,White Blend,-0.6468838,5000+,2000-4999
-Cabernet Franc,Chenin Blanc,-0.6637679,1000-1999,500-999
-Cabernet Sauvignon,Pinot Grigio,-0.6687007,5000+,1000-1999
+Gewürztraminer,Grüner Veltliner,0.39609903,1000-1999,1000-1999
+Carmenère,Sangiovese,0.39355946,500-999,2000-4999
+Cabernet Franc,Malbec,0.3886308,1000-1999,2000-4999
+Cabernet Sauvignon,Pinot Noir,0.3854005,5000+,5000+
+Sangiovese,Tempranillo,0.38533327,2000-4999,2000-4999
+Carmenère,Nebbiolo,0.3780275,500-999,2000-4999
+Barbera,Nebbiolo,0.37518597,500-999,2000-4999
+Grüner Veltliner,Portuguese White,0.37179697,1000-1999,1000-1999
+Nebbiolo,Tempranillo,0.36382133,2000-4999,2000-4999
+Grenache,Sangiovese,0.3524769,1000-1999,2000-4999
+Chardonnay,Portuguese White,0.34583694,5000+,1000-1999
+Cabernet Franc,Sangiovese,0.34408438,1000-1999,2000-4999
+Malbec,Petite Sirah,0.34163532,2000-4999,1000-1999
+Chenin Blanc,Muscat,0.34130183,500-999,500-999
+Glera,Sauvignon Blanc,0.3395654,1000-1999,5000+
+Albariño,Muscat,0.33706748,500-999,500-999
+Muscat,Sauvignon Blanc,0.33645013,500-999,5000+
+Glera,Grüner Veltliner,0.33242446,1000-1999,1000-1999
+Cabernet Franc,Carmenère,0.32901424,1000-1999,500-999
+Pinot Noir,Syrah,0.32706153,5000+,5000+
+Barbera,Merlot,0.32398462,500-999,2000-4999
+Pinot Blanc,Portuguese White,0.3239346,500-999,1000-1999
+Pinot Gris,Portuguese White,0.3234061,2000-4999,1000-1999
+Grenache,Syrah,0.31697857,1000-1999,5000+
+Carmenère,Syrah,0.31483978,500-999,5000+
+Muscat,Pinot Blanc,0.31250834,500-999,500-999
+Barbera,Grenache,0.31182933,500-999,1000-1999
+Malbec,Sangiovese,0.31022084,2000-4999,2000-4999
+Cabernet Franc,Zinfandel,0.30841237,1000-1999,2000-4999
+Syrah,Tempranillo,0.30762124,5000+,2000-4999
+Barbera,Carmenère,0.30552232,500-999,500-999
+Cabernet Franc,Nebbiolo,0.3047445,1000-1999,2000-4999
+Merlot,Tempranillo,0.3044188,2000-4999,2000-4999
+Portuguese White,Sauvignon Blanc,0.30103368,1000-1999,5000+
+Barbera,Petite Sirah,0.29790893,500-999,1000-1999
+Carmenère,Merlot,0.29732054,500-999,2000-4999
+Pinot Noir,Zinfandel,0.29500884,5000+,2000-4999
+Pinot Noir,Portuguese Red,0.29385343,5000+,2000-4999
+Malbec,Nebbiolo,0.29161167,2000-4999,2000-4999
+Barbera,Malbec,0.28298244,500-999,2000-4999
+Barbera,Cabernet Sauvignon,0.27806628,500-999,5000+
+Chenin Blanc,Gamay,0.25886795,500-999,1000-1999
+Grenache,Nebbiolo,0.25793922,1000-1999,2000-4999
+Chenin Blanc,Glera,0.2565115,500-999,1000-1999
+Barbera,Zinfandel,0.2542107,500-999,2000-4999
+Petite Sirah,Pinot Noir,0.25198883,1000-1999,5000+
+Cabernet Franc,Tempranillo,0.24258563,1000-1999,2000-4999
+Sangiovese,Syrah,0.2391682,2000-4999,5000+
+Petite Sirah,Portuguese Red,0.23367861,1000-1999,2000-4999
+Albariño,Portuguese White,0.229249,500-999,1000-1999
+Grenache,Pinot Noir,0.22661868,1000-1999,5000+
+Cabernet Sauvignon,Tempranillo,0.21969014,5000+,2000-4999
+Chenin Blanc,Portuguese Red,0.20915267,500-999,2000-4999
+Merlot,Sangiovese,0.2056092,2000-4999,2000-4999
+Chardonnay,Glera,0.20009257,5000+,1000-1999
+Barbera,Tempranillo,0.18488964,500-999,2000-4999
+Malbec,Zinfandel,0.1821461,2000-4999,2000-4999
+Cabernet Sauvignon,Carmenère,0.17861757,5000+,500-999
+Grenache,Zinfandel,0.17446315,1000-1999,2000-4999
+Gewürztraminer,Portuguese White,0.16833135,1000-1999,1000-1999
+Nebbiolo,Syrah,0.16386938,2000-4999,5000+
+Cabernet Sauvignon,Sangiovese,0.16038033,5000+,2000-4999
+Chardonnay,Gewürztraminer,0.15575038,5000+,1000-1999
+Grüner Veltliner,Muscat,0.13955304,1000-1999,500-999
+Cabernet Sauvignon,Grenache,0.13008599,5000+,1000-1999
+Cabernet Sauvignon,Portuguese Red,0.109064944,5000+,2000-4999
+Petite Sirah,Tempranillo,0.10120641,1000-1999,2000-4999
+Albariño,Tempranillo,0.09802544,500-999,2000-4999
+Grenache,Petite Sirah,0.090156235,1000-1999,1000-1999
+Cabernet Franc,Gamay,0.08755418,1000-1999,1000-1999
+Cabernet Sauvignon,Nebbiolo,0.08730114,5000+,2000-4999
+Chardonnay,Muscat,0.08522655,5000+,500-999
+Albariño,Carmenère,0.07944931,500-999,500-999
+Pinot Noir,Sangiovese,0.078941405,5000+,2000-4999
+Portuguese White,Viognier,0.07039105,1000-1999,1000-1999
+Gamay,Petite Sirah,0.06697013,1000-1999,1000-1999
+Portuguese White,Riesling,0.042710207,1000-1999,5000+
+Merlot,Nebbiolo,0.038030654,2000-4999,2000-4999
+Muscat,Portuguese White,0.034962963,500-999,1000-1999
+Cabernet Franc,Portuguese Red,0.03353099,1000-1999,2000-4999
+Barbera,Pinot Noir,0.033154193,500-999,5000+
+Tempranillo,Zinfandel,0.032174885,2000-4999,2000-4999
+Carmenère,Petite Sirah,0.029619195,500-999,1000-1999
+Grenache,Muscat,0.021772142,1000-1999,500-999
+Petite Sirah,Sangiovese,0.019207323,1000-1999,2000-4999
+Glera,Sangiovese,0.012247214,1000-1999,2000-4999
+Carmenère,Zinfandel,-0.0030282661,500-999,2000-4999
+Carmenère,Viognier,-0.004678184,500-999,1000-1999
+Muscat,Nebbiolo,-0.005980569,500-999,2000-4999
+Glera,Nebbiolo,-0.016117325,1000-1999,2000-4999
+Gamay,Grüner Veltliner,-0.016129434,1000-1999,1000-1999
+Carmenère,Glera,-0.017957676,500-999,1000-1999
+Muscat,Sangiovese,-0.018122312,500-999,2000-4999
+Carmenère,Sauvignon Blanc,-0.019535847,500-999,5000+
+Barbera,Muscat,-0.020999055,500-999,500-999
+Carmenère,Gewürztraminer,-0.02433591,500-999,1000-1999
+Cabernet Sauvignon,Gamay,-0.024440624,5000+,1000-1999
+Gewürztraminer,Grenache,-0.024715584,1000-1999,1000-1999
+Nebbiolo,Pinot Noir,-0.029341605,2000-4999,5000+
+Gewürztraminer,Nebbiolo,-0.031421855,1000-1999,2000-4999
+Nebbiolo,Petite Sirah,-0.03190277,2000-4999,1000-1999
+Sangiovese,Zinfandel,-0.05399715,2000-4999,2000-4999
+Glera,Grenache,-0.05470912,1000-1999,1000-1999
+Carmenère,Riesling,-0.05619426,500-999,5000+
+Portuguese Red,Zinfandel,-0.056397524,2000-4999,2000-4999
+Albariño,Malbec,-0.06524902,500-999,2000-4999
+Carmenère,Muscat,-0.07419433,500-999,500-999
+Barbera,Portuguese Red,-0.07731725,500-999,2000-4999
+Riesling,Tempranillo,-0.081593625,5000+,2000-4999
+Glera,Tempranillo,-0.08169882,1000-1999,2000-4999
+Pinot Noir,Portuguese White,-0.08326964,5000+,1000-1999
+Tempranillo,Viognier,-0.0871263,2000-4999,1000-1999
+Gamay,Merlot,-0.09492508,1000-1999,2000-4999
+Grüner Veltliner,Portuguese Red,-0.09935926,1000-1999,2000-4999
+Gewürztraminer,Sangiovese,-0.104423285,1000-1999,2000-4999
+Malbec,Pinot Noir,-0.105710715,2000-4999,5000+
+Glera,Portuguese White,-0.11395262,1000-1999,1000-1999
+Portuguese Red,Syrah,-0.114044964,2000-4999,5000+
+Gamay,Zinfandel,-0.12525344,1000-1999,2000-4999
+Merlot,Portuguese Red,-0.12891644,2000-4999,2000-4999
+Barbera,Glera,-0.1364548,500-999,1000-1999
+Albariño,Grenache,-0.14272942,500-999,1000-1999
+Grenache,Viognier,-0.14538968,1000-1999,1000-1999
+Carmenère,Grüner Veltliner,-0.15095927,500-999,1000-1999
+Nebbiolo,Portuguese Red,-0.15161991,2000-4999,2000-4999
+Carmenère,Pinot Blanc,-0.15439583,500-999,500-999
+Barbera,Gewürztraminer,-0.15534869,500-999,1000-1999
+Chardonnay,Gamay,-0.15543646,5000+,1000-1999
+Pinot Noir,Tempranillo,-0.16233477,5000+,2000-4999
+Gewürztraminer,Tempranillo,-0.16373825,1000-1999,2000-4999
+Gamay,Sangiovese,-0.16385685,1000-1999,2000-4999
+Chardonnay,Tempranillo,-0.1645591,5000+,2000-4999
+Pinot Blanc,Tempranillo,-0.16730195,500-999,2000-4999
+Carmenère,Pinot Gris,-0.16997878,500-999,2000-4999
+Gamay,Nebbiolo,-0.17385247,1000-1999,2000-4999
+Pinot Gris,Tempranillo,-0.17785874,2000-4999,2000-4999
+Muscat,Tempranillo,-0.17899291,500-999,2000-4999
+Barbera,Gamay,-0.1817524,500-999,1000-1999
+Grenache,Riesling,-0.18267481,1000-1999,5000+
+Gamay,Gewürztraminer,-0.1848943,1000-1999,1000-1999
+Nebbiolo,Riesling,-0.18559445,2000-4999,5000+
+Glera,Malbec,-0.18567806,1000-1999,2000-4999
+Chardonnay,Portuguese Red,-0.19177963,5000+,2000-4999
+Nebbiolo,Zinfandel,-0.1925849,2000-4999,2000-4999
+Grüner Veltliner,Tempranillo,-0.20088649,1000-1999,2000-4999
+Gamay,Sauvignon Blanc,-0.20121843,1000-1999,5000+
+Muscat,Zinfandel,-0.20457172,500-999,2000-4999
+Viognier,Zinfandel,-0.20709446,1000-1999,2000-4999
+Albariño,Nebbiolo,-0.20722884,500-999,2000-4999
+Petite Sirah,Portuguese White,-0.2118999,1000-1999,1000-1999
+Malbec,Riesling,-0.21256994,2000-4999,5000+
+Sauvignon Blanc,Tempranillo,-0.21303305,5000+,2000-4999
+Gamay,Pinot Blanc,-0.2142126,1000-1999,500-999
+Portuguese Red,Sangiovese,-0.2148577,2000-4999,2000-4999
+Gamay,Muscat,-0.21636407,1000-1999,500-999
+Gamay,Pinot Gris,-0.21808028,1000-1999,2000-4999
+Gewürztraminer,Portuguese Red,-0.22308517,1000-1999,2000-4999
+Grenache,Grüner Veltliner,-0.22871816,1000-1999,1000-1999
+Grenache,Sauvignon Blanc,-0.229296,1000-1999,5000+
+Gamay,Syrah,-0.23373425,1000-1999,5000+
+Portuguese White,Zinfandel,-0.23378019,1000-1999,2000-4999
+Carmenère,Chardonnay,-0.23654528,500-999,5000+
+Chardonnay,Zinfandel,-0.24186489,5000+,2000-4999
+Malbec,Viognier,-0.24686092,2000-4999,1000-1999
+Portuguese Red,Sauvignon Blanc,-0.25543615,2000-4999,5000+
+Grüner Veltliner,Nebbiolo,-0.25891918,1000-1999,2000-4999
+Grenache,Pinot Blanc,-0.25894815,1000-1999,500-999
+Malbec,Muscat,-0.2629198,2000-4999,500-999
+Muscat,Portuguese Red,-0.26414752,500-999,2000-4999
+Riesling,Sangiovese,-0.26505387,5000+,2000-4999
+Chenin Blanc,Pinot Noir,-0.26812345,500-999,5000+
+Glera,Zinfandel,-0.26829743,1000-1999,2000-4999
+Gewürztraminer,Malbec,-0.27271047,1000-1999,2000-4999
+Albariño,Gamay,-0.2741629,500-999,1000-1999
+Carmenère,Pinot Noir,-0.27554864,500-999,5000+
+Grenache,Pinot Gris,-0.2804508,1000-1999,2000-4999
+Malbec,Sauvignon Blanc,-0.28638172,2000-4999,5000+
+Barbera,Portuguese White,-0.28741184,500-999,1000-1999
+Grüner Veltliner,Sangiovese,-0.28922814,1000-1999,2000-4999
+Pinot Blanc,Portuguese Red,-0.29365867,500-999,2000-4999
+Nebbiolo,Sauvignon Blanc,-0.29581064,2000-4999,5000+
+Albariño,Portuguese Red,-0.29824328,500-999,2000-4999
+Grüner Veltliner,Malbec,-0.30249667,1000-1999,2000-4999
+Pinot Gris,Portuguese Red,-0.30255693,2000-4999,2000-4999
+Nebbiolo,Viognier,-0.30529585,2000-4999,1000-1999
+Gewürztraminer,Zinfandel,-0.30577686,1000-1999,2000-4999
+Grüner Veltliner,Pinot Noir,-0.30603743,1000-1999,5000+
+Sauvignon Blanc,Zinfandel,-0.31369564,5000+,2000-4999
+Malbec,Portuguese Red,-0.3148955,2000-4999,2000-4999
+Malbec,Pinot Blanc,-0.3181968,2000-4999,500-999
+Chardonnay,Pinot Noir,-0.32007018,5000+,5000+
+Chenin Blanc,Zinfandel,-0.32451886,500-999,2000-4999
+Barbera,Sauvignon Blanc,-0.32739148,500-999,5000+
+Gamay,Riesling,-0.32844865,1000-1999,5000+
+Albariño,Sangiovese,-0.32925573,500-999,2000-4999
+Barbera,Grüner Veltliner,-0.32957643,500-999,1000-1999
+Barbera,Viognier,-0.33323437,500-999,1000-1999
+Barbera,Pinot Blanc,-0.33348688,500-999,500-999
+Gamay,Grenache,-0.33359504,1000-1999,1000-1999
+Albariño,Barbera,-0.33458892,500-999,500-999
+Nebbiolo,Pinot Gris,-0.33859456,2000-4999,2000-4999
+Sangiovese,Sauvignon Blanc,-0.33951288,2000-4999,5000+
+Sangiovese,Viognier,-0.34030837,2000-4999,1000-1999
+Chardonnay,Malbec,-0.34301293,5000+,2000-4999
+Riesling,Zinfandel,-0.34319264,5000+,2000-4999
+Cabernet Franc,Muscat,-0.3510322,1000-1999,500-999
+Glera,Syrah,-0.35924214,1000-1999,5000+
+Nebbiolo,Pinot Blanc,-0.3599003,2000-4999,500-999
+Muscat,Pinot Noir,-0.36527544,500-999,5000+
+Malbec,Pinot Gris,-0.36672142,2000-4999,2000-4999
+Cabernet Franc,Gewürztraminer,-0.3679551,1000-1999,1000-1999
+Gamay,Malbec,-0.36963385,1000-1999,2000-4999
+Barbera,Riesling,-0.3700502,500-999,5000+
+Chardonnay,Merlot,-0.37176543,5000+,2000-4999
+Pinot Gris,Sangiovese,-0.37686956,2000-4999,2000-4999
+Glera,Merlot,-0.38227987,1000-1999,2000-4999
+Gamay,Glera,-0.38612992,1000-1999,1000-1999
+Muscat,Petite Sirah,-0.38890085,500-999,1000-1999
+Barbera,Pinot Gris,-0.38941124,500-999,2000-4999
+Pinot Gris,Zinfandel,-0.3908075,2000-4999,2000-4999
+Portuguese Red,Riesling,-0.3934366,2000-4999,5000+
+Merlot,Muscat,-0.39412272,2000-4999,500-999
+Barbera,Chenin Blanc,-0.39449394,500-999,500-999
+Pinot Blanc,Sangiovese,-0.39567342,500-999,2000-4999
+Barbera,Chardonnay,-0.40029705,500-999,5000+
+Cabernet Sauvignon,Chardonnay,-0.40168726,5000+,5000+
+Pinot Blanc,Zinfandel,-0.4066175,500-999,2000-4999
+Cabernet Franc,Glera,-0.40828514,1000-1999,1000-1999
+Chenin Blanc,Petite Sirah,-0.409989,500-999,1000-1999
+Merlot,Viognier,-0.41349772,2000-4999,1000-1999
+Cabernet Franc,Portuguese White,-0.41447803,1000-1999,1000-1999
+Sauvignon Blanc,Syrah,-0.4168263,5000+,5000+
+Chardonnay,Petite Sirah,-0.4206437,5000+,1000-1999
+Cabernet Sauvignon,Portuguese White,-0.42235708,5000+,1000-1999
+Gewürztraminer,Pinot Noir,-0.4230755,1000-1999,5000+
+Chenin Blanc,Nebbiolo,-0.42658585,500-999,2000-4999
+Grüner Veltliner,Zinfandel,-0.4268276,1000-1999,2000-4999
+Muscat,Syrah,-0.4285084,500-999,5000+
+Pinot Noir,Sauvignon Blanc,-0.43160787,5000+,5000+
+Chardonnay,Grenache,-0.4415012,5000+,1000-1999
+Gamay,Viognier,-0.44169763,1000-1999,1000-1999
+Glera,Pinot Noir,-0.44297296,1000-1999,5000+
+Syrah,Viognier,-0.4467944,5000+,1000-1999
+Gamay,Tempranillo,-0.44747537,1000-1999,2000-4999
+Chardonnay,Syrah,-0.4513967,5000+,5000+
+Glera,Portuguese Red,-0.4537242,1000-1999,2000-4999
+Chardonnay,Nebbiolo,-0.459101,5000+,2000-4999
+Glera,Petite Sirah,-0.46097693,1000-1999,1000-1999
+Portuguese Red,Tempranillo,-0.46185154,2000-4999,2000-4999
+Albariño,Zinfandel,-0.46312615,500-999,2000-4999
+Petite Sirah,Sauvignon Blanc,-0.4670376,1000-1999,5000+
+Petite Sirah,Viognier,-0.46854746,1000-1999,1000-1999
+Nebbiolo,Portuguese White,-0.46950632,2000-4999,1000-1999
+Grenache,Portuguese Red,-0.47079343,1000-1999,2000-4999
+Cabernet Sauvignon,Glera,-0.47440493,5000+,1000-1999
+Merlot,Portuguese White,-0.47462252,2000-4999,1000-1999
+Gewürztraminer,Petite Sirah,-0.47944725,1000-1999,1000-1999
+Chardonnay,Sangiovese,-0.48006094,5000+,2000-4999
+Chenin Blanc,Tempranillo,-0.48018575,500-999,2000-4999
+Chenin Blanc,Sangiovese,-0.48712516,500-999,2000-4999
+Merlot,Riesling,-0.48879874,2000-4999,5000+
+Portuguese Red,Viognier,-0.4894363,2000-4999,1000-1999
+Pinot Blanc,Pinot Noir,-0.49134338,500-999,5000+
+Petite Sirah,Riesling,-0.49360967,1000-1999,5000+
+Gewürztraminer,Syrah,-0.49559104,1000-1999,5000+
+Pinot Noir,Riesling,-0.4964856,5000+,5000+
+Riesling,Syrah,-0.50266576,5000+,5000+
+Grüner Veltliner,Syrah,-0.5056722,1000-1999,5000+
+Cabernet Franc,Sauvignon Blanc,-0.50639033,1000-1999,5000+
+Pinot Gris,Pinot Noir,-0.5064175,2000-4999,5000+
+Albariño,Merlot,-0.5069529,500-999,2000-4999
+Cabernet Franc,Grüner Veltliner,-0.5076164,1000-1999,1000-1999
+Portuguese White,Syrah,-0.509348,1000-1999,5000+
+Cabernet Sauvignon,Muscat,-0.51213837,5000+,500-999
+Merlot,Sauvignon Blanc,-0.51418954,2000-4999,5000+
+Gewürztraminer,Merlot,-0.51650584,1000-1999,2000-4999
+Merlot,Pinot Blanc,-0.5199606,2000-4999,500-999
+Albariño,Petite Sirah,-0.5221912,500-999,1000-1999
+Cabernet Franc,Riesling,-0.5222994,1000-1999,5000+
+Grüner Veltliner,Petite Sirah,-0.52612877,1000-1999,1000-1999
+Portuguese White,Sangiovese,-0.52666795,1000-1999,2000-4999
+Carmenère,Chenin Blanc,-0.53131694,500-999,500-999
+Pinot Noir,Viognier,-0.5329673,5000+,1000-1999
+Albariño,Cabernet Franc,-0.53588647,500-999,1000-1999
+Chenin Blanc,Grenache,-0.5431926,500-999,1000-1999
+Portuguese White,Tempranillo,-0.5473804,1000-1999,2000-4999
+Albariño,Syrah,-0.5495078,500-999,5000+
+Malbec,Portuguese White,-0.54960185,2000-4999,1000-1999
+Grenache,Portuguese White,-0.5547487,1000-1999,1000-1999
+Cabernet Sauvignon,Riesling,-0.55706817,5000+,5000+
+Albariño,Cabernet Sauvignon,-0.55808234,500-999,5000+
+Cabernet Franc,Viognier,-0.5586141,1000-1999,1000-1999
+Carmenère,Portuguese Red,-0.5586584,500-999,2000-4999
+Carmenère,Portuguese White,-0.5650454,500-999,1000-1999
+Albariño,Pinot Noir,-0.5654639,500-999,5000+
+Grüner Veltliner,Merlot,-0.5659344,1000-1999,2000-4999
+Merlot,Pinot Gris,-0.5665065,2000-4999,2000-4999
+Cabernet Sauvignon,Chenin Blanc,-0.5692258,5000+,500-999
+Chenin Blanc,Malbec,-0.57733977,500-999,2000-4999
+Cabernet Sauvignon,Viognier,-0.58016986,5000+,1000-1999
+Cabernet Sauvignon,Grüner Veltliner,-0.5828186,5000+,1000-1999
+Carmenère,Gamay,-0.58446777,500-999,1000-1999
+Cabernet Franc,Pinot Blanc,-0.587268,1000-1999,500-999
+Petite Sirah,Pinot Gris,-0.5940405,1000-1999,2000-4999
+Cabernet Sauvignon,Sauvignon Blanc,-0.59447384,5000+,5000+
+Petite Sirah,Pinot Blanc,-0.5949807,1000-1999,500-999
+Cabernet Franc,Chardonnay,-0.60861087,1000-1999,5000+
+Chenin Blanc,Syrah,-0.61221266,500-999,5000+
+Cabernet Sauvignon,Pinot Blanc,-0.6163578,5000+,500-999
+Pinot Blanc,Syrah,-0.62059826,500-999,5000+
+Cabernet Sauvignon,Gewürztraminer,-0.62097526,5000+,1000-1999
+Pinot Gris,Syrah,-0.6275449,2000-4999,5000+
+Chenin Blanc,Merlot,-0.63729507,500-999,2000-4999
+Cabernet Franc,Pinot Gris,-0.65159,1000-1999,2000-4999
+Cabernet Franc,Chenin Blanc,-0.6637676,1000-1999,500-999
+Cabernet Sauvignon,Pinot Gris,-0.6782361,5000+,2000-4999
